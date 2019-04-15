@@ -1,8 +1,7 @@
-import React from 'react'
+import React, {Fragment} from 'react'
 import { Link, graphql } from 'gatsby'
 import MDXRenderer from 'gatsby-mdx/mdx-renderer'
 
-import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
@@ -14,27 +13,33 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
+      <Fragment>
+        <header
+      style={{
+        backgroundColor: 'hsl(40, 100%, 60%)',
+        padding: `${rhythm(1)} 0 ${rhythm(1.5)}`,
+      }}
+    >
+      <Layout>
+        {siteTitle && (
+          <p>
+            <Link to={`/`}>{'← ' + siteTitle}</Link>
+          </p>
+        )}
+        <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>{post.frontmatter.title}</h1>
+        <p>
           {post.frontmatter.date}
         </p>
+      </Layout>
+    </header>
+      <Layout>
+        <SEO title={post.frontmatter.title} description={post.excerpt} />
         <MDXRenderer>{post.code.body}</MDXRenderer>
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
-
         <ul
           style={{
             display: `flex`,
@@ -60,6 +65,7 @@ class BlogPostTemplate extends React.Component {
           </li>
         </ul>
       </Layout>
+      </Fragment>
     )
   }
 }
