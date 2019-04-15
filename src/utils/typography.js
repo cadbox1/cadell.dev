@@ -5,8 +5,7 @@ const typography = new Typography({
   baseLineHeight: 1.666,
   headerFontFamily: ['Lato', 'sans-serif'],
   bodyFontFamily: ['Lato', 'sans-serif'],
-  headerGray: 0,
-  bodyGrey: 90,
+  bodyColor: 'hsl(0, 0%, 0%', // I don't like lightening the body colour
   // See below for the full list of options.
 })
 
