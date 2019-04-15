@@ -16,7 +16,7 @@ class BlogIndex extends React.Component {
         <header
           style={{
             backgroundColor: 'hsl(40, 100%, 60%)',
-            padding: `${rhythm(3)} 0 ${rhythm(1.5)}`,
+            padding: `${rhythm(2.5)} 0 ${rhythm(1.5)}`,
           }}
         >
           <Layout>
