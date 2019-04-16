@@ -2,17 +2,19 @@
 title: Creating Cadell.dev
 date: '2019-04-10T18:20:00Z'
 ---
-Duration:  2h 40m while writing this post.
-
-Revised: 9:30am 13/4/2019 - 11:00am
+How I created cadell.dev using Netlify and GatsbyJS.
 
 ## Introduction
 
-[Netlify was posted on hackernews today](https://news.ycombinator.com/item?id=19615546) and it received heaps of positive comments. I wanted to find out what all the fuss was about it.
+Netlify received [heaps of positive comments on hackernews today](https://news.ycombinator.com/item?id=19615546) and after looking into them a bit more I can see why they're so appealing. They offer a free service to that makes it easy to build and deploy web applications but mainly focus on static websites as part of a [JAMStack](https://jamstack.org/). That means they offer a CDN (content distribution network for fast page loads) and a [CMS](https://www.netlifycms.org/) but also offer some more unique features like [functions](https://www.netlify.com/docs/functions/). Functions allow you to create AWS Lambda functions without setting them up or creating an AWS account.
+
+Tying these features together are branch deployments. Branch deployments let you make a change to your website on a branch and have that deployed as a live site soon after. This is useful for reviewing pull requests where you can interact with a live website instead of just reading code. For agencies, you can share a preview of changes with a client before changing the main site. I've heard you can do this with Containers and Kubernetes for more complicated projects but it's a lot easier for static websites because you're only serving files instead of managing servers. 
+
+And Netlify nails it. Its easy to setup and once that's finished each branch is deployed within minutes. And you still have some backend options using their functions.
 
 Managed branch deployments look like their biggest feature. Being able to review a pull request next to the deployed site sounds way better than the shared development environments I'm used to. I hear you can do that with Containers and Kubernetes but I'd love to experience it on simpler static sites with Netlify holding my hand first. This could also benefit agencies, letting clients preview changes on a live site easily.
 
-Netlify even offers room to grow past simple static sites with [Functions](https://www.netlify.com/docs/functions/) which offer AWS Lambda functions with the same branch deployment model. There's also [Netlify CMS](https://www.netlifycms.org/) so I had to give it a go.
+Netlify even offers room to grow past simple static sites with [Functions](https://www.netlify.com/docs/functions/) which offer AWS Lambda functions with the same branch deployment model. There's also [Netlify  so I had to give it a go.
 
 My mate, [Franc](https://franc.dev/), has been telling me to take the cadell.dev domain for a while and right before I started I realised I could write about the process and use it as the first post.
 

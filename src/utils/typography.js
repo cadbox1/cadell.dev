@@ -1,11 +1,11 @@
 import Typography from 'typography'
 
 const typography = new Typography({
-  baseFontSize: '17px',
+  baseFontSize: '18px',
   baseLineHeight: 1.666,
-  headerFontFamily: ['Lato', 'sans-serif'],
-  bodyFontFamily: ['Lato', 'sans-serif'],
-  bodyColor: 'hsl(0, 0%, 0%', // I don't like lightening the body colour
+  headerFontFamily: ['IBM Plex Sans', 'sans-serif'],
+  bodyFontFamily: ['IBM Plex Sans', 'sans-serif'],
+  bodyColor: 'hsl(0, 0%, 15%',
   // See below for the full list of options.
 })
 

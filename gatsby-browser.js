@@ -1,5 +1,5 @@
 // custom typefaces
-import 'typeface-lato'
+import 'typeface-ibm-plex-sans'
 
 import { wrapRootElement as wrap } from './wrap-root-element'
 

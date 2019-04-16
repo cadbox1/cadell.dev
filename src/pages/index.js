@@ -1,9 +1,10 @@
 import React, { Fragment } from 'react'
 import { Link, graphql } from 'gatsby'
 
-import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
+import { headerBackgroundColor, centered } from '../utils/styles'
+import StickyHeader from '../components/StickyHeader'
 
 class BlogIndex extends React.Component {
   render() {
@@ -13,45 +14,59 @@ class BlogIndex extends React.Component {
 
     return (
       <Fragment>
-        <header
-          style={{
-            backgroundColor: 'hsl(40, 100%, 60%)',
-            padding: `${rhythm(2.5)} 0 ${rhythm(1.5)}`,
-          }}
+        <StickyHeader>
+          <header
+            style={{
+              ...headerBackgroundColor,
+              padding: `${rhythm(3.5)} 0 ${rhythm(3)}`,
+            }}
+          >
+            <div style={{ ...centered }}>
+              <h1
+                style={{ ...scale(2), marginTop: 0, marginBottom: rhythm(1) }}
+              >
+                {siteTitle}
+              </h1>
+              <p style={{ marginBottom: '0' }}>
+                Written by <strong>Cadell Christo</strong>.
+              </p>
+            </div>
+          </header>
+        </StickyHeader>
+        <div
+          style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}
         >
-          <Layout>
-            <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>
-              {siteTitle}
-            </h1>
-            <p>
-              Written by <strong>Cadell Christo</strong>.
-            </p>
-          </Layout>
-        </header>
-        <Layout location={this.props.location} title={siteTitle}>
-          <SEO title="All posts" />
-          {posts.map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug
-            return (
-              <div key={node.fields.slug}>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link
-                    style={{ textDecoration: 'none' }}
-                    to={node.fields.slug}
+          <div
+            style={{
+              ...centered,
+              paddingTop: `${rhythm(0.5)}`,
+              paddingBottom: `${rhythm(3)}`,
+            }}
+          >
+            <SEO title="All posts" />
+            {posts.map(({ node }) => {
+              const title = node.frontmatter.title || node.fields.slug
+              return (
+                <div key={node.fields.slug}>
+                  <h3
+                    style={{
+                      marginBottom: rhythm(1 / 4),
+                    }}
                   >
-                    {title}
-                  </Link>
-                </h3>
-                <small>{node.frontmatter.date}</small>
-                <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-              </div>
-            )
-          })}
-        </Layout>
+                    <Link
+                      style={{ textDecoration: 'none' }}
+                      to={node.fields.slug}
+                    >
+                      {title}
+                    </Link>
+                  </h3>
+                  <small>{node.frontmatter.date}</small>
+                  <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+                </div>
+              )
+            })}
+          </div>
+        </div>
       </Fragment>
     )
   }

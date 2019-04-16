@@ -1,10 +1,11 @@
-import React, {Fragment} from 'react'
+import React, { Fragment } from 'react'
 import { Link, graphql } from 'gatsby'
 import MDXRenderer from 'gatsby-mdx/mdx-renderer'
 
-import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
+import StickyHeader from '../components/StickyHeader'
+import { centered, headerBackgroundColor } from '../utils/styles'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -14,57 +15,69 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Fragment>
-        <header
-      style={{
-        backgroundColor: 'hsl(40, 100%, 60%)',
-        padding: `${rhythm(1)} 0 ${rhythm(1.5)}`,
-      }}
-    >
-      <Layout>
-        {siteTitle && (
-          <p>
-            <Link to={`/`}>{'← ' + siteTitle}</Link>
-          </p>
-        )}
-        <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>{post.frontmatter.title}</h1>
-        <p>
-          {post.frontmatter.date}
-        </p>
-      </Layout>
-    </header>
-      <Layout>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <MDXRenderer>{post.code.body}</MDXRenderer>
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
+        <StickyHeader>
+          <header
+            style={{
+              ...headerBackgroundColor,
+              padding: `${rhythm(1)} 0 ${rhythm(3)}`,
+            }}
+          >
+            <div style={{ ...centered }}>
+              {siteTitle && (
+                <p style={{ marginTop: 0, marginBottom: `${rhythm(0)}` }}>
+                  <Link to={`/`}>{'← ' + siteTitle}</Link>
+                </p>
+              )}
+              <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>
+                {post.frontmatter.title}
+              </h1>
+              <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
+            </div>
+          </header>
+        </StickyHeader>
+        <div
+          style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}
         >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </Layout>
+          <div
+            style={{
+              ...centered,
+              paddingTop: `${rhythm(0.5)}`,
+              paddingBottom: `${rhythm(3)}`,
+            }}
+          >
+            <SEO title={post.frontmatter.title} description={post.excerpt} />
+            <MDXRenderer>{post.code.body}</MDXRenderer>
+            <hr
+              style={{
+                marginBottom: rhythm(1),
+              }}
+            />
+            <ul
+              style={{
+                display: `flex`,
+                flexWrap: `wrap`,
+                justifyContent: `space-between`,
+                listStyle: `none`,
+                padding: 0,
+              }}
+            >
+              <li>
+                {previous && (
+                  <Link to={previous.fields.slug} rel="prev">
+                    ← {previous.frontmatter.title}
+                  </Link>
+                )}
+              </li>
+              <li>
+                {next && (
+                  <Link to={next.fields.slug} rel="next">
+                    {next.frontmatter.title} →
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </div>
+        </div>
       </Fragment>
     )
   }
