@@ -4,6 +4,64 @@ date: '2019-04-10T18:20:00Z'
 ---
 How I created cadell.dev using Netlify and GatsbyJS.
 
+import ChangeTheme from "../../../src/components/ChangeTheme";
+
+<ChangeTheme />
+
+- How to create cadell.dev
+  - Design
+    - Parts
+      - cadell.dev
+      - Netlify
+      - GatbyJS
+      - Markdown file to write up the first article. This was a late idea and caused some issues with Gatsby.
+    - Expanded
+      - Cadell.dev domain 
+        - Franc hassled me
+      - Netlify
+        - lots of positive comments on hn recently
+        - biggest features
+          - free
+          - build tool
+          - CDN
+          - branch deploys
+            - why
+              - share live changes
+                - helps when reviewing pull requests
+                  - so you can see what changed instead of guessing from the code
+                - agencies can preview changes with clients
+                - good for showing progress in a blog post like this
+              - don't have to compete with a single test environment so you can share as many changes as you like
+                - why a single test enviornemnt?
+                  - non static sites are usually more complicated
+                  - Apparently you can do it with Containers and Kubernetes but that is way harder
+        - other cool features
+          - functions
+          - CMS
+      - GatsbyJS
+        - Alternatives (using StaticGen)
+          - Next.js
+            - not focused on static websites
+          - React-static
+            - They don't like how Gatsby uses GraphQL
+              - fair point, it could be hype driven development but could also be a valid usecase
+              - Didn't see any advantages over it
+        - Pros
+          - used it before
+          - Franc and Dan Abramov use it
+        - Problems
+          - didn't plan this out very far so I had an existential crisis
+            - didn't use the blog starter because I didn't see the point
+              - get the benefits of styling with react
+              - don't get benefits of putting react components in your blog
+              - what do I do with the markdown I wrote?
+                - just converted it to html
+            - if you just want an easy markdown site you can use Jekyll with Github Pages
+            - how do you get the best parts of markdown and react?
+              - mdx!
+              - There's a starter for it.
+              - can do a cool changeTheme stuff
+
 ## Introduction
 
 Netlify received [heaps of positive comments on hackernews today](https://news.ycombinator.com/item?id=19615546) and after looking into them a bit more I can see why they're so appealing. They offer a free service to that makes it easy to build and deploy web applications but mainly focus on static websites as part of a [JAMStack](https://jamstack.org/). That means they offer a CDN (content distribution network for fast page loads) and a [CMS](https://www.netlifycms.org/) but also offer some more unique features like [functions](https://www.netlify.com/docs/functions/). Functions allow you to create AWS Lambda functions without setting them up or creating an AWS account.

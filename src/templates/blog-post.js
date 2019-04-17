@@ -6,6 +6,7 @@ import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 import StickyHeader from '../components/StickyHeader'
 import { centered, headerBackgroundColor } from '../utils/styles'
+import { ThemeContext } from '../../wrap-root-element'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -16,24 +17,28 @@ class BlogPostTemplate extends React.Component {
     return (
       <Fragment>
         <StickyHeader>
-          <header
-            style={{
-              ...headerBackgroundColor,
-              padding: `${rhythm(1)} 0 ${rhythm(3)}`,
-            }}
-          >
-            <div style={{ ...centered }}>
-              {siteTitle && (
-                <p style={{ marginTop: 0, marginBottom: `${rhythm(0)}` }}>
-                  <Link to={`/`}>{'← ' + siteTitle}</Link>
-                </p>
-              )}
-              <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>
-                {post.frontmatter.title}
-              </h1>
-              <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
-            </div>
-          </header>
+          <ThemeContext.Consumer>
+            {({ value }) => (
+              <header
+                style={{
+                  backgroundColor: value,
+                  padding: `${rhythm(1)} 0 ${rhythm(3)}`,
+                }}
+              >
+                <div style={{ ...centered }}>
+                  {siteTitle && (
+                    <p style={{ marginTop: 0, marginBottom: `${rhythm(0)}` }}>
+                      <Link to={`/`}>{'← ' + siteTitle}</Link>
+                    </p>
+                  )}
+                  <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>
+                    {post.frontmatter.title}
+                  </h1>
+                  <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
+                </div>
+              </header>
+            )}
+          </ThemeContext.Consumer>
         </StickyHeader>
         <div
           style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}

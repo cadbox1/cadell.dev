@@ -5,6 +5,7 @@ import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 import { headerBackgroundColor, centered } from '../utils/styles'
 import StickyHeader from '../components/StickyHeader'
+import { ThemeContext } from '../../wrap-root-element';
 
 class BlogIndex extends React.Component {
   render() {
@@ -15,9 +16,11 @@ class BlogIndex extends React.Component {
     return (
       <Fragment>
         <StickyHeader>
+        <ThemeContext.Consumer>
+            {({ value }) => (
           <header
             style={{
-              ...headerBackgroundColor,
+              backgroundColor: value,
               padding: `${rhythm(3.5)} 0 ${rhythm(3)}`,
             }}
           >
@@ -32,6 +35,8 @@ class BlogIndex extends React.Component {
               </p>
             </div>
           </header>
+            )}
+            </ThemeContext.Consumer>
         </StickyHeader>
         <div
           style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}
