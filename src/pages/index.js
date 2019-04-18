@@ -16,11 +16,9 @@ class BlogIndex extends React.Component {
     return (
       <Fragment>
         <StickyHeader>
-        <ThemeContext.Consumer>
-            {({ value }) => (
           <header
             style={{
-              backgroundColor: value,
+              ...headerBackgroundColor,
               padding: `${rhythm(3.5)} 0 ${rhythm(3)}`,
             }}
           >
@@ -35,8 +33,6 @@ class BlogIndex extends React.Component {
               </p>
             </div>
           </header>
-            )}
-            </ThemeContext.Consumer>
         </StickyHeader>
         <div
           style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}

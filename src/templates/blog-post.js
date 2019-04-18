@@ -17,11 +17,9 @@ class BlogPostTemplate extends React.Component {
     return (
       <Fragment>
         <StickyHeader>
-          <ThemeContext.Consumer>
-            {({ value }) => (
               <header
                 style={{
-                  backgroundColor: value,
+                  ...headerBackgroundColor,
                   padding: `${rhythm(1)} 0 ${rhythm(3)}`,
                 }}
               >
@@ -37,8 +35,6 @@ class BlogPostTemplate extends React.Component {
                   <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
                 </div>
               </header>
-            )}
-          </ThemeContext.Consumer>
         </StickyHeader>
         <div
           style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}
