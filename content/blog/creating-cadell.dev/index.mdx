@@ -2,15 +2,92 @@
 title: Creating Cadell.dev
 date: '2019-04-10T18:20:00Z'
 ---
-How I created cadell.dev using Netlify and GatsbyJS.
+How I created cadell.dev using Netlify, GatsbyJS and Markdown. 
 
 - How to create cadell.dev
-  - With
+  - Design
     - cadell.dev
     - Netlify
     - GatbyJS
-    - Markdown file to write up the first article. This was a late idea and caused some issues with Gatsby.
-    - Expanded
+    - Markdown
+  - Netlify
+    - inspiration for building the site
+    - lots of positive comments on hn
+    - free
+    - branch deploys
+      - mean you can make a change and share it on a live site
+        - deploys are automatic
+        - unlimited number of live sites
+      - compared to traditional shared development environments
+        - manual deploys
+        - limited sharing
+      - they can do this because they focus on static sites
+        - static sites are simple because they don't have servers
+          - Apparently Containers and Kubernetes can do branch deploys on more complicated projects
+            - hard to setup
+            - May as well try it out with Netlify holding my hand
+      - Other goodies
+        - automatically detects how to build your project
+        - CDN 
+        - some backend options with functions
+        - Netlify CMS
+    - Execution
+      - awesome experience
+      - only had to decide whether to use their DNS or not and I decided to
+  - GatsbyJS
+    - used by
+      - franc.dev
+      - dan abramov
+      - used it once before
+    - alternatives
+      - next.js
+        - not focused on static sites
+      - react-static
+        - less resources
+        - even after reading their blog I'm not clear what it offers
+    - features
+      - React component model
+      - Lots of starter packs
+      - works with lots of different CMS's and content sources
+      - can optimise images as part of the build
+    - execution
+      - planned to the basic starter
+        - doesn't support markdown
+          - had to decide whether to switch starters or add the functionality
+            - converted the markdown to html in Typora just to get something finished for the night
+    - other alternatives
+      - started wondering why I was even using Gatsby when Github Pages comes with Jekyll built in
+        - React's component model is nice
+          - doesn't offer that much extra over the simplicity of a Jekyll GitHub page
+          - I can't use components in my blogs because I'm using markdown
+            - then I remembered MDX
+              - let's you use react components in markdown
+            - switched to the mdx starter 
+  - Styling
+    - Gatsby comes with typographyjs
+    - Choosing a font is hard
+      - I found a lot of free fonts are pretty average
+      - lots of awesome fonts on websites are paid
+      - did not like default gatsby fonts at all
+      - preferred sans fonts
+        - options
+          - Open Sans
+          - Lato
+          - Source Sans Pro
+          - IBM Plex Sans
+          - Nunito
+          - Helvetica (classic)
+          - System font stack
+            - This will vary from system to system which I wasn't happy with
+      - serif options
+        - Georgia
+      - recommend using a browser extension like font changer
+    - Choosing a color
+      - hsl(x, 100%, 60%) is a good start
+    - reusing styles with css in js
+      - still experimenting with this
+      - put common styles in a style.js file as objects then using them inline
+  - Expanded
       - Cadell.dev domain 
         - Franc hassled me
       - Netlify
