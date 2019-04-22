@@ -22,7 +22,7 @@ class BlogPostTemplate extends React.Component {
                   padding: `${rhythm(1)} 0 ${rhythm(3)}`,
                 }}
               >
-                <div style={{ ...centered }}>
+                <div style={{ ...centered, overflowX: "auto" }}>
                   {siteTitle && (
                     <p style={{ marginTop: 0, marginBottom: `${rhythm(1.5)}` }}>
                       <Link to={`/`}>{'← ' + siteTitle}</Link>
