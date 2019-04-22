@@ -1,180 +1,91 @@
 ---
 title: Creating Cadell.dev
 date: '2019-04-10T18:20:00Z'
-description: How I created cadell.dev using Netlify, GatsbyJS and Markdown. 
+description: How I created cadell.dev using Netlify, React, GatsbyJS and Markdown (MDX). 
 ---
 
-- How to create cadell.dev
-  - Design
-    - cadell.dev
-    - Netlify
-    - GatbyJS
-    - Markdown
-  - Netlify
-    - inspiration for building the site
-    - lots of positive comments on hn
-    - free
-    - branch deploys
-      - mean you can make a change and share it on a live site
-        - deploys are automatic
-        - unlimited number of live sites
-      - compared to traditional shared development environments
-        - manual deploys
-        - limited sharing
-      - they can do this because they focus on static sites
-        - static sites are simple because they don't have servers
-          - Apparently Containers and Kubernetes can do branch deploys on more complicated projects
-            - hard to setup
-            - May as well try it out with Netlify holding my hand
-      - Other goodies
-        - automatically detects how to build your project
-        - CDN 
-        - some backend options with functions
-        - Netlify CMS
-    - Execution
-      - awesome experience
-      - only had to decide whether to use their DNS or not and I decided to
-  - GatsbyJS
-    - used by
-      - franc.dev
-      - dan abramov
-      - used it once before
-    - alternatives
-      - next.js
-        - not focused on static sites
-      - react-static
-        - less resources
-        - even after reading their blog I'm not clear what it offers
-    - features
-      - React component model
-      - Lots of starter packs
-      - works with lots of different CMS's and content sources
-      - can optimise images as part of the build
-    - execution
-      - planned to the basic starter
-        - doesn't support markdown
-          - had to decide whether to switch starters or add the functionality
-            - converted the markdown to html in Typora just to get something finished for the night
-    - other alternatives
-      - started wondering why I was even using Gatsby when Github Pages comes with Jekyll built in
-        - React's component model is nice
-          - doesn't offer that much extra over the simplicity of a Jekyll GitHub page
-          - I can't use components in my blogs because I'm using markdown
-            - then I remembered MDX
-              - let's you use react components in markdown
-            - switched to the mdx starter 
-  - Styling
-    - Gatsby comes with typographyjs
-    - Choosing a font is hard
-      - I found a lot of free fonts are pretty average
-      - lots of awesome fonts on websites are paid
-      - did not like default gatsby fonts at all
-      - preferred sans fonts
-        - options
-          - Open Sans
-          - Lato
-          - Source Sans Pro
-          - IBM Plex Sans
-          - Nunito
-          - Helvetica (classic)
-          - System font stack
-            - This will vary from system to system which I wasn't happy with
-      - serif options
-        - Georgia
-      - recommend using a browser extension like font changer
-    - Choosing a color
-      - hsl(x, 100%, 60%) is a good start
-    - reusing styles with css in js
-      - still experimenting with this
-      - put common styles in a style.js file as objects then using them inline
-      - typographyjs has some utils which are interesting but I'm still getting used to it
-
-
-  - Expanded
-      - Cadell.dev domain 
-        - Franc hassled me
-      - Netlify
-        - lots of positive comments on hn recently
-        - biggest features
-          - free
-          - build tool
-          - CDN
-          - branch deploys
-            - why
-              - share live changes
-                - helps when reviewing pull requests
-                  - so you can see what changed instead of guessing from the code
-                - agencies can preview changes with clients
-                - good for showing progress in a blog post like this
-              - don't have to compete with a single test environment so you can share as many changes as you like
-                - why a single test enviornemnt?
-                  - non static sites are usually more complicated
-                  - Apparently you can do it with Containers and Kubernetes but that is way harder
-        - other cool features
-          - functions
-          - CMS
-      - GatsbyJS
-        - Alternatives (using StaticGen)
-          - Next.js
-            - not focused on static websites
-          - React-static
-            - They don't like how Gatsby uses GraphQL
-              - fair point, it could be hype driven development but could also be a valid usecase
-              - Didn't see any advantages over it
-        - Pros
-          - used it before
-          - Franc and Dan Abramov use it
-        - Problems
-          - didn't plan this out very far so I had an existential crisis
-            - didn't use the blog starter because I didn't see the point
-              - get the benefits of styling with react
-              - don't get benefits of putting react components in your blog
-              - what do I do with the markdown I wrote?
-                - just converted it to html
-            - if you just want an easy markdown site you can use Jekyll with Github Pages
-            - how do you get the best parts of markdown and react?
-              - mdx!
-              - There's a starter for it.
-              - can do a cool changeTheme stuff
-
-## Introduction
-
-Netlify received [heaps of positive comments on hackernews today](https://news.ycombinator.com/item?id=19615546) and after looking into them a bit more I can see why they're so appealing. They offer a free service to that makes it easy to build and deploy web applications but mainly focus on static websites as part of a [JAMStack](https://jamstack.org/). That means they offer a CDN (content distribution network for fast page loads) and a [CMS](https://www.netlifycms.org/) but also offer some more unique features like [functions](https://www.netlify.com/docs/functions/). Functions allow you to create AWS Lambda functions without setting them up or creating an AWS account.
-
-Tying these features together are branch deployments. Branch deployments let you make a change to your website on a branch and have that deployed as a live site soon after. This is useful for reviewing pull requests where you can interact with a live website instead of just reading code. For agencies, you can share a preview of changes with a client before changing the main site. I've heard you can do this with Containers and Kubernetes for more complicated projects but it's a lot easier for static websites because you're only serving files instead of managing servers. 
-
-And Netlify nails it. Its easy to setup and once that's finished each branch is deployed within minutes. And you still have some backend options using their functions.
-
-Managed branch deployments look like their biggest feature. Being able to review a pull request next to the deployed site sounds way better than the shared development environments I'm used to. I hear you can do that with Containers and Kubernetes but I'd love to experience it on simpler static sites with Netlify holding my hand first. This could also benefit agencies, letting clients preview changes on a live site easily.
-
-Netlify even offers room to grow past simple static sites with [Functions](https://www.netlify.com/docs/functions/) which offer AWS Lambda functions with the same branch deployment model. There's also [Netlify  so I had to give it a go.
-
-My mate, [Franc](https://franc.dev/), has been telling me to take the cadell.dev domain for a while and right before I started I realised I could write about the process and use it as the first post.
-
-## Design 1
+## Design
 - cadell.dev
-- Netlify and GitHub
+- GitHub
+- Netlify
 - GatsbyJS
+- Markdown
 
-I quickly reviewed the GatsbyJS choice using [StaticGen](https://www.staticgen.com/). Next.js seems to be less focused on static sites, I've used GatsbyJS before and it was alright and is used by [Franc](https://franc.dev/) and [Dan Abramov](https://overreacted.io/), React-static is a bit less popular and their [introduction blog post](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc) talks about why GatsbyJS didn't work for them including that they didn't like GraphQL much. GraphQL sounds a bit like hype driven development but it does have its usecases and you don't have to use it with Gatsby. I wasn't sure what react-static offered over GatsbyJS so I stuck with GatsbyJS.
+## Netlify
 
-## Attempt 1
+Netlify received [heaps of positive comments on hackernews today](https://news.ycombinator.com/item?id=19615546) and after looking into them more I can see why. They offer a free service that makes it easy to build and deploy web applications, mainly focusing on static websites, possibly as part of a [JAMStack](https://jamstack.org/). That means they offer a CDN (content distribution network for fast page loads) and a [CMS](https://www.netlifycms.org/)(content management system) but also offer some unique features like [functions](https://www.netlify.com/docs/functions/).
 
-### Netlify 
-The Netlify experience is very polished and I had cadell.dev running the GatsbyJS default starter in about an hour. I later learned you can click the Netlify button on the gatsby starters to get started which might make it slightly faster. 
+Tying these features together are branch deployments. Branch deployments let you make a change to your website on a branch and have that deployed as a live site soon after. This makes it easy to review changes, either externally with a client or internally with your team, possibly as part of a pull request. I'm used to a small number of development environemnts, and therefore small number of concurrent deploys, all controlled manually.
+
+I've heard you can do branch deploys with Containers and Kubernetes for more complicated projects but it's a lot easier for static sites because you're only serving files instead of managing servers. I wanted to see what it was like with Netlify holding my hand. And they nail it. It even automatically configures the build steps based on your project and once that's setup branches are deployed within minutes. And you still have some backend options using [functions](https://www.netlify.com/docs/functions/) which let you run AWS Lambda functions without an AWS account.
+
+The whole experience is very polished and I had cadell.dev running the GatsbyJS default starter in about an hour. I later learned you can click the Netlify button on the gatsby starters to get started which might make it slightly faster. 
 
 The only decision I had to make was whether to use Netlify's DNS or not. I decided to use it because it might allow [branch deploys under our domain](https://www.netlify.com/docs/continuous-deployment/#branches-deploys) but I don't think its a big decision.
 
-### GatsbyJS
-I wrote this blog post as I went in markdown, using [Typora](https://typora.io/), and used the default Gatsby starter pack which wasn't focused on blogs. I then had to decide whether to switch starters, add markdown to the default starter or think of something else. I then got a little bit more existential and wondered why I wasn't just using GitHub Pages which already supports markdown with Jekyll. 
+## GatsbyJS
 
- That's when I got really existential and wondered why I was even using limited markdown instead of powerful React. This existential crysis was taking too much time and I reminded myself that I try Netlify and wanted to use React. I might write that down next time. This crysis wasn't helping me try out Netlify so I decided to use Typora to convert what I had written to HTML, paste it into the default starter and save the markdown file as a source. This was a bit more tedious when I had to update the post later on but got it the job done. Let's make the the most of branch deploys, check it out here: [https://firstrealcommit--heuristic-jepsen-9bfaa6.netlify.com/](https://firstrealcommit--heuristic-jepsen-9bfaa6.netlify.com/).
+Gatsby is the most popular React static site generator, brining the React experience to static sites. Its used by [Dan Abramov](https://overreacted.io/) and [Franc](franc.dev) and I've used it briefly once before. It has heaps of resources and starter packs and the community is really good.
 
-## Attempt 2
-How can I get the best of markdown and React components? I remembered mdx, which I first saw in [docz](https://www.docz.site/), and sure enough there was a [gatsby plugin](https://gatsby-mdx.netlify.com/) for it. Honourable mentions, there's also plugins for react-static and next.js.
+I quickly reviewed other React static site generators using [StaticGen](https://www.staticgen.com/); Next.js seemed to be less focused on static sites, React-static is a bit less popular and their [introduction blog post](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc) talked about why GatsbyJS didn't work for them, including that they didn't like GraphQL much. GraphQL might be overkill and a bit hype-driven but I was willing to find out. Besides, you don't have to use it with Gatsby.
 
-After a while of searching I found [Gatsby Starter Blog MDX](https://github.com/hagnerd/gatsby-starter-blog-mdx/) which is a fork of the [Gatsby Starter Blog](https://github.com/gatsbyjs/gatsby-starter-blog) with mdx support. We could have added the functionality manually to understand how it works better but this works out of the box and you can always dive in later.
+I wrote this blog post as I went in markdown, using [Typora](https://typora.io/), and used the default Gatsby starter pack which wasn't focused on blogs. I then had to decide whether to switch starters, add markdown to the default starter or think of something else. Its not difficult to switch starters but I couldn't shake the feeling that I was missing the point of a React site if I was only going to use Markdown. I decided to convert the Markdown I had into html, using Typora, and paste that into the current site.
 
+## Blogging Options
+
+### Hosted
+
+[Medium](https://medium.com/) is the most popular hosted option. Its free and makes it easy for readers to follow and discover your content. Unfortunately, they also have a popup for readers who are not logged in, prompt logged in users to use their app and use a sticky header that takes up valuable screen space on mobiles. Its also scary how quickly they made these changes and how little control you have over them. Another free alternative is [dev.to](https://dev.to/) but it looks quite bad to me otherwise there are some paid options like [write.as](https://write.as) and [ghost](https://ghost.org/). You might even be able to use something like [Tumblr](https://www.tumblr.com/) or [wordpress.com](https://wordpress.com/).
+
+### Self-Hosted
+
+The most popular non-static option is [Wordpress.org](https://wordpress.org/); the most popular blogging platform of all time and also the most widely used open source software, up there with [Linux](https://en.wikipedia.org/wiki/Linux) in a very different industry. Unfortunately, its a bit older and usually requires a running server that you need to maintain otherwise you will get hacked - the most popular blog of all time is also the most popular target.
+
+Static sites don't require server maintenance, are faster and safer. The disadvantage of static sites is that they're usually harder to update or at least more work is required to set up a build and deploy pipeline. Thankfully tools like Netlify are making the build and deploy process very easy and tools like [Forestry](https://forestry.io/) are making it easier to edit content in your browser. 
+
+A list of static site generators is available on [StaticGen](https://www.staticgen.com/) where you can see the most popular option is Jekyll. Jekyll is so popular that it comes with [GitHub Pages](https://pages.github.com/), so you can create your own self-hosted, static blog all without leaving GitHub. 
+
+So why would I use Gatsby over Jekyll and GitHub Pages?
+
+1. You want to build your blog using React components.
+2. You want to use React components in your blog posts.
+3. You want to try out Netlify.
+4. You want to ride the hype train.
+
+You can tick 1,2 and 4 by clicking the Netlify button on the [gatsby-starter-blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/) but number 2. bothered me.
+
+Markdown is the standard for blog posts but how could I use React components in it? How could I get the best of React and Markdown.
+
+Then I remembered [MDX](https://mdxjs.com/)! MDX let's you use React components in your markdown which I've used for writing React component documentation with [docz](https://www.docz.site/), and [Gatsby supports MDX](https://www.gatsbyjs.org/docs/mdx/getting-started/) too!
+
+There were [two mdx blog starters](https://www.gatsbyjs.org/starters/?c=Blog&c=MDX&v=2) to choose from and I chose [gatsby-starter-blog-mdx](https://www.gatsbyjs.org/starters/hagnerd/gatsby-starter-blog-mdx/) because it was closer to the original [gatsby-starter-blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/).
+
+## Styling
+
+With the starter sorted I could start personalising the site. Gatsby comes with [Typography.js](https://kyleamathews.github.io/typography.js/) to help with vertical rhythm, which I'm still getting better at. I'll update this post as I learn more.
+
+### Fonts
+
+I love typography but I'm not very good at it. The gatsby-blog-starter comes with Serif fonts which are fairly common among blogs, especially with the likes of [Medium](https://medium.com/) but I actually found I preferred Sans fonts. They also work well on product or landing pages.
+
+The system font stack is becoming more popular now with GitHub and Bootstrap ([Reboot](https://getbootstrap.com/docs/4.0/content/reboot/#native-font-stack)) choosing to use it. This means the font will vary depending on your device or operating system. I wasn't really happy with this because I wanted my site to look the same for everyone regardless of whether your operating system comes with nice fonts.
+
+Paid fonts are generally considered nicer but they're not free. For example, Medium have their own font but [forestry.io](https://forestry.io/) uses [Avenir](https://www.myfonts.com/fonts/linotype/avenir/). 
+
+[Google Fonts](https://fonts.google.com/) has lots of free fonts but finding one you like takes some time. I recommend experimenting using your own content using a Google Chrome extension called [Font Changer with Google Fonts](https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke?hl=en). There might be better extensions out there since this one doesn't have all the fonts for some reason.
+
+Some nice Sans fonts to try are:
+- Open Sans
+- Lato
+- Source Sans Pro
+- IBM Plex Sans (not available with extension)
+- Nunito
+
+Even the classic Helvetica might be an option. You can easily see what font a website is using by right clicking the text on any page and clicking the computed styles tab in your developer tools then looking at the font-family.
+
+## Writing
+
+Is hard for me. I can smash out emails, pull request comments, explain things verbally but paragraphs and sentences make me really nervous and uncomfortable. It doesn't help when you're writing about a new topic that you're still figuring out. I write a lot of notes in dot points at work and found that helped me record my ideas instead of re-writing the same sentence for an hour until its still terrible. Hopefully I can get better with practice.
 
 ## Method
 
