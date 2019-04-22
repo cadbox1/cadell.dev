@@ -6,7 +6,6 @@ import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 import StickyHeader from '../components/StickyHeader'
 import { centered, headerBackgroundColor } from '../utils/styles'
-import { ThemeContext } from '../../wrap-root-element'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -25,11 +24,11 @@ class BlogPostTemplate extends React.Component {
               >
                 <div style={{ ...centered }}>
                   {siteTitle && (
-                    <p style={{ marginTop: 0, marginBottom: `${rhythm(0)}` }}>
+                    <p style={{ marginTop: 0, marginBottom: `${rhythm(1.5)}` }}>
                       <Link to={`/`}>{'← ' + siteTitle}</Link>
                     </p>
                   )}
-                  <h1 style={{ ...scale(2), marginBottom: rhythm(1) }}>
+                  <h1 style={{ ...scale(1.5), marginBottom: rhythm(1) }}>
                     {post.frontmatter.title}
                   </h1>
                   <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
@@ -46,7 +45,7 @@ class BlogPostTemplate extends React.Component {
               paddingBottom: `${rhythm(3)}`,
             }}
           >
-            <SEO title={post.frontmatter.title} description={post.excerpt} />
+            <SEO title={post.frontmatter.title} description={post.frontmatter.description} />
             <MDXRenderer>{post.code.body}</MDXRenderer>
             <hr
               style={{

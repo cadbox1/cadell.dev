@@ -5,7 +5,6 @@ import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 import { headerBackgroundColor, centered } from '../utils/styles'
 import StickyHeader from '../components/StickyHeader'
-import { ThemeContext } from '../../wrap-root-element';
 
 class BlogIndex extends React.Component {
   render() {
@@ -24,7 +23,7 @@ class BlogIndex extends React.Component {
           >
             <div style={{ ...centered }}>
               <h1
-                style={{ ...scale(2), marginTop: 0, marginBottom: rhythm(1) }}
+                style={{ ...scale(1.5), marginTop: 0, marginBottom: rhythm(1) }}
               >
                 {siteTitle}
               </h1>
@@ -51,7 +50,7 @@ class BlogIndex extends React.Component {
                 <div key={node.fields.slug}>
                   <h3
                     style={{
-                      marginBottom: rhythm(1 / 4),
+                      marginBottom: 0,
                     }}
                   >
                     <Link
@@ -61,8 +60,8 @@ class BlogIndex extends React.Component {
                       {title}
                     </Link>
                   </h3>
-                  <small>{node.frontmatter.date}</small>
-                  <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+                  <small style={{display: "block"}}>{node.frontmatter.date}</small>
+                  <p style={{marginTop: `${rhythm(1/4)}`}} dangerouslySetInnerHTML={{ __html: node.frontmatter.description }} />
                 </div>
               )
             })}
@@ -92,6 +91,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            description
           }
         }
       }
