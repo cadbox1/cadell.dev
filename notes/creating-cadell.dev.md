@@ -1,0 +1,130 @@
+- How to create cadell.dev
+  - Design
+    - cadell.dev
+    - Netlify
+    - GatbyJS
+    - Markdown
+  - Netlify
+    - inspiration for building the site
+    - lots of positive comments on hn
+    - free
+    - branch deploys
+      - mean you can make a change and share it on a live site
+        - deploys are automatic
+        - unlimited number of live sites
+      - compared to traditional shared development environments
+        - manual deploys
+        - sharing is limited to the number of enviornments you've set up (and maintain)
+      - they can do this because they focus on static sites
+        - static sites are simple because they don't have servers
+          - Apparently Containers and Kubernetes can do branch deploys on more complicated projects
+            - hard to setup
+            - May as well try it out with Netlify holding my hand
+      - Other goodies
+        - automatically detects how to build your project
+        - CDN 
+        - some backend options with functions
+        - Netlify CMS
+    - Results
+      - awesome experience
+      - only had to decide whether to use their DNS or not and I decided to
+  - GatsbyJS
+    - features
+      - React component model
+      - Lots of starter packs
+      - works with lots of different CMS's and content sources
+      - can optimise images as part of the build
+    - used by
+      - franc.dev
+      - dan abramov
+      - used it once before
+    - briefly looked at other React static site generators from StaticGen
+      - next.js
+        - not focused on static sites
+      - react-static
+        - less resources
+        - read their introduction and I still don't understand their benefits
+    - Results
+      - started with basic starter
+        - doesn't support markdown because its basic
+          - should I switch starters?
+            - converted the markdown to html in Typora just to get something finished for the night
+      - Getting Existencial
+        - why did I go with this design
+          - options
+            - hosted
+              - medium
+                - pros
+                  - easy	
+                  - free
+                  - content is easy to follow and discover
+                - cons
+                  - prompt to login
+                  - sticky header
+                  - these changes are out of your control
+              - paid blogs
+                - like
+                  - [write.as](https://write.as)
+                  - [ghost](https://ghost.org/)
+              - [dev.to](https://dev.to/)
+                - pros
+                  - free
+                  - content is easy to follow and discover
+                - cons
+                  - looks terrible
+            - self hosted
+              - wordpress
+                - cons 
+                  - don't want to maintain a server for a site that could be static
+              - Netlify + GatsbyJS
+                - based on React
+                - fun to play with Netlify's branch deploys
+              - GitHub Pages with Jekyll and Markdown
+                - easy
+                - free
+          - Self-hosting seems to be my preferred option. Static site generators make a lot of sense to me and the futue looks bright with tools like [Forestry](https://forestry.io/) which let you edit the content online. If you don't want to control and customise your site much and want more content following and discovery features then a hosted site might be better.
+          - GatsbyJS vs GitHub pages
+            - [GitHub Pages](https://pages.github.com/) is free and really easy
+            - They both support markdown
+            - But React is cool, right?
+              - because
+                - component model
+                - css in JS
+              - I'm very familiar with React's benefits but its probably not worth the extra effort over GitHub pages if my the pages are just in markdown in my opinion.
+            - How can I get the best of Markdown and React?
+              - I remebered [MDX](https://mdxjs.com/) from [docz](https://www.docz.site/) and [Gatsby supports it](https://www.gatsbyjs.org/docs/mdx/getting-started/).
+            - MDX would let me write a standard blog post in markdown and then include a React component anywhere inside it.
+            - There were [two starters](https://www.gatsbyjs.org/starters/?c=Blog&c=MDX&v=2) to choose from and I chose [gatsby-starter-blog-mdx](https://www.gatsbyjs.org/starters/hagnerd/gatsby-starter-blog-mdx/) because it was closer to the original [gatsby-starter-blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/).
+  - writing
+    - is hard!
+    - write dot points first using markdown for all in vscode
+    - can expand and collapse nested lists
+    - tried to right in full the first time which was painful when still learning
+  - Styling
+    - Gatsby comes with typographyjs
+    - Choosing a font is hard
+      - I found a lot of free fonts are pretty average
+      - lots of awesome fonts on websites are paid
+      - did not like default gatsby fonts at all
+      - preferred sans fonts
+        - options
+          - Open Sans
+          - Lato
+          - Source Sans Pro
+          - IBM Plex Sans
+          - Nunito
+          - Helvetica (classic)
+          - System font stack
+            - This will vary from system to system which I wasn't happy with
+          - paid
+            - Avenir (like on [forestry.io](https://forestry.io/))
+      - serif options
+        - Georgia
+      - recommend using a browser extension like font changer
+    - Choosing a color
+      - hsl(x, 100%, 60%) is a good start
+    - reusing styles with css in js
+      - still experimenting with this
+      - put common styles in a style.js file as objects then using them inline
+      - typographyjs has some utils which are interesting but I'm still getting used to it and vertical rhythm
+        - I'll update this post as I learn more

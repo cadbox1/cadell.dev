@@ -1,6 +1,5 @@
 // custom typefaces
-import 'typeface-montserrat'
-import 'typeface-merriweather'
+import 'typeface-ibm-plex-sans'
 
 import { wrapRootElement as wrap } from './wrap-root-element'
 

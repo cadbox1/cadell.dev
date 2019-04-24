@@ -1,11 +1,11 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link, graphql } from 'gatsby'
 import MDXRenderer from 'gatsby-mdx/mdx-renderer'
 
-import Bio from '../components/Bio'
-import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
+import StickyHeader from '../components/StickyHeader'
+import { centered, headerBackgroundColor } from '../utils/styles'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -14,52 +14,72 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
+      <Fragment>
+        <StickyHeader>
+              <header
+                style={{
+                  ...headerBackgroundColor,
+                  padding: `${rhythm(1)} 0 ${rhythm(3)}`,
+                  overflowX: "auto"
+                }}
+              >
+                <div style={{ ...centered }}>
+                  {siteTitle && (
+                    <p style={{ marginTop: 0, marginBottom: `${rhythm(1.5)}` }}>
+                      <Link to={`/`}>{'← ' + siteTitle}</Link>
+                    </p>
+                  )}
+                  <h1 style={{ ...scale(1.5), marginBottom: rhythm(1) }}>
+                    {post.frontmatter.title}
+                  </h1>
+                  <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
+                </div>
+              </header>
+        </StickyHeader>
+        <div
+          style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}
         >
-          {post.frontmatter.date}
-        </p>
-        <MDXRenderer>{post.code.body}</MDXRenderer>
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-        <Bio />
-
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </Layout>
+          <div
+            style={{
+              ...centered,
+              paddingTop: `${rhythm(0.5)}`,
+              paddingBottom: `${rhythm(3)}`,
+            }}
+          >
+            <SEO title={post.frontmatter.title} description={post.frontmatter.description} />
+            <MDXRenderer>{post.code.body}</MDXRenderer>
+            <hr
+              style={{
+                marginBottom: rhythm(1),
+              }}
+            />
+            <ul
+              style={{
+                display: `flex`,
+                flexWrap: `wrap`,
+                justifyContent: `space-between`,
+                listStyle: `none`,
+                padding: 0,
+              }}
+            >
+              <li>
+                {previous && (
+                  <Link to={previous.fields.slug} rel="prev">
+                    ← {previous.frontmatter.title}
+                  </Link>
+                )}
+              </li>
+              <li>
+                {next && (
+                  <Link to={next.fields.slug} rel="next">
+                    {next.frontmatter.title} →
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </Fragment>
     )
   }
 }

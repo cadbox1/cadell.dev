@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link, graphql } from 'gatsby'
 
-import Bio from '../components/Bio'
-import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import { rhythm } from '../utils/typography'
+import { rhythm, scale } from '../utils/typography'
+import { headerBackgroundColor, centered } from '../utils/styles'
+import StickyHeader from '../components/StickyHeader'
 
 class BlogIndex extends React.Component {
   render() {
@@ -13,30 +13,61 @@ class BlogIndex extends React.Component {
     const posts = data.allMdx.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="All posts"
-        />
-        <Bio />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
+      <Fragment>
+        <StickyHeader>
+          <header
+            style={{
+              ...headerBackgroundColor,
+              padding: `${rhythm(3.5)} 0 ${rhythm(3)}`,
+            }}
+          >
+            <div style={{ ...centered }}>
+              <h1
+                style={{ ...scale(1.5), marginTop: 0, marginBottom: rhythm(1) }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+                {siteTitle}
+              </h1>
+              <p style={{ marginBottom: '0' }}>
+                Written by <strong>Cadell Christo</strong>.
+              </p>
             </div>
-          )
-        })}
-      </Layout>
+          </header>
+        </StickyHeader>
+        <div
+          style={{ position: 'relative', zIndex: 1, backgroundColor: 'white' }}
+        >
+          <div
+            style={{
+              ...centered,
+              paddingTop: `${rhythm(0.5)}`,
+              paddingBottom: `${rhythm(3)}`,
+            }}
+          >
+            <SEO title="All posts" />
+            {posts.map(({ node }) => {
+              const title = node.frontmatter.title || node.fields.slug
+              return (
+                <div key={node.fields.slug}>
+                  <h3
+                    style={{
+                      marginBottom: 0,
+                    }}
+                  >
+                    <Link
+                      style={{ textDecoration: 'none' }}
+                      to={node.fields.slug}
+                    >
+                      {title}
+                    </Link>
+                  </h3>
+                  <small style={{display: "block"}}>{node.frontmatter.date}</small>
+                  <p style={{marginTop: `${rhythm(1/4)}`}} dangerouslySetInnerHTML={{ __html: node.frontmatter.description }} />
+                </div>
+              )
+            })}
+          </div>
+        </div>
+      </Fragment>
     )
   }
 }
@@ -60,6 +91,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            description
           }
         }
       }
