@@ -20,7 +20,6 @@ class BlogPostTemplate extends React.Component {
                 style={{
                   ...headerBackgroundColor,
                   padding: `${rhythm(1)} 0 ${rhythm(3)}`,
-                  overflowX: "auto"
                 }}
               >
                 <div style={{ ...centered }}>
