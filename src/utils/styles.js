@@ -1,11 +1,9 @@
-import { rhythm, scale } from '../utils/typography'
-
 export const centered = {
   marginLeft: `auto`,
   marginRight: `auto`,
-  maxWidth: rhythm(24),
-  paddingLeft: `${rhythm(0.5)}`,
-  paddingRight: `${rhythm(0.5)}`,
+  maxWidth: "800px",
+  paddingLeft: "0.75rem",
+  paddingRight: "0.75rem",
 }
 
 export const headerBackgroundColor = { backgroundColor: 'hsl(40, 100%, 60%)' }

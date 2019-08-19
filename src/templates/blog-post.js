@@ -3,7 +3,6 @@ import { Link, graphql } from 'gatsby'
 import MDXRenderer from 'gatsby-mdx/mdx-renderer'
 
 import SEO from '../components/seo'
-import { rhythm, scale } from '../utils/typography'
 import StickyHeader from '../components/StickyHeader'
 import { centered, headerBackgroundColor } from '../utils/styles'
 
@@ -19,19 +18,19 @@ class BlogPostTemplate extends React.Component {
               <header
                 style={{
                   ...headerBackgroundColor,
-                  padding: `${rhythm(1)} 0 ${rhythm(3)}`,
+                  padding: "2.5rem 0 4rem",
                 }}
               >
                 <div style={{ ...centered }}>
                   {siteTitle && (
-                    <p style={{ marginTop: 0, marginBottom: `${rhythm(1.5)}` }}>
+                    <p style={{ marginBottom: "2rem" }}>
                       <Link to={`/`}>{'← ' + siteTitle}</Link>
                     </p>
                   )}
-                  <h1 style={{ ...scale(1.5), marginBottom: rhythm(1) }}>
+                  <h1 style={{ marginBottom: "1.5rem" }}>
                     {post.frontmatter.title}
                   </h1>
-                  <p style={{ marginBottom: '0' }}>{post.frontmatter.date}</p>
+                  <span>{post.frontmatter.date}</span>
                 </div>
               </header>
         </StickyHeader>
@@ -41,17 +40,12 @@ class BlogPostTemplate extends React.Component {
           <div
             style={{
               ...centered,
-              paddingTop: `${rhythm(0.5)}`,
-              paddingBottom: `${rhythm(3)}`,
+              paddingTop: "1rem",
+              paddingBottom: "2rem",
             }}
           >
             <SEO title={post.frontmatter.title} description={post.frontmatter.description} />
             <MDXRenderer>{post.code.body}</MDXRenderer>
-            <hr
-              style={{
-                marginBottom: rhythm(1),
-              }}
-            />
             <ul
               style={{
                 display: `flex`,
