@@ -2,7 +2,6 @@ import React, { Fragment } from 'react'
 import { Link, graphql } from 'gatsby'
 
 import SEO from '../components/seo'
-import { rhythm, scale } from '../utils/typography'
 import { headerBackgroundColor, centered } from '../utils/styles'
 import StickyHeader from '../components/StickyHeader'
 
@@ -18,18 +17,18 @@ class BlogIndex extends React.Component {
           <header
             style={{
               ...headerBackgroundColor,
-              padding: `${rhythm(3.5)} 0 ${rhythm(3)}`,
+              padding: "6rem 0 4rem",
             }}
           >
             <div style={{ ...centered }}>
               <h1
-                style={{ ...scale(1.5), marginTop: 0, marginBottom: rhythm(1) }}
+                style={{ marginBottom: "1.5rem" }}
               >
                 {siteTitle}
               </h1>
-              <p style={{ marginBottom: '0' }}>
+              <span>
                 Written by <strong>Cadell Christo</strong>.
-              </p>
+              </span>
             </div>
           </header>
         </StickyHeader>
@@ -39,8 +38,8 @@ class BlogIndex extends React.Component {
           <div
             style={{
               ...centered,
-              paddingTop: `${rhythm(0.5)}`,
-              paddingBottom: `${rhythm(3)}`,
+              paddingTop: "1rem",
+              paddingBottom: "2rem",
             }}
           >
             <SEO title="All posts" />
@@ -61,7 +60,7 @@ class BlogIndex extends React.Component {
                     </Link>
                   </h3>
                   <small style={{display: "block"}}>{node.frontmatter.date}</small>
-                  <p style={{marginTop: `${rhythm(1/4)}`}} dangerouslySetInnerHTML={{ __html: node.frontmatter.description }} />
+                  <p style={{marginTop: "0.25rem"}} dangerouslySetInnerHTML={{ __html: node.frontmatter.description }} />
                 </div>
               )
             })}
