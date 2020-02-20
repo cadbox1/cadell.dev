@@ -1,3 +1,19 @@
+# README
+
+## Prior Art
+
+- https://getivor.com/
+- https://jxnblk-theme-mdx-blog.netlify.com/
+  - code is available [here](https://github.com/jxnblk/gatsby-theme-mdx-blog) but I wanted something closer to the official themes.
+- generated from [gatsby-start-blog-theme](https://github.com/gatsbyjs/gatsby-starter-blog-theme).
+  - uses [gatsby-theme-blog](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-theme-blog).
+    - which uses [gatsby-theme-blog-core](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-theme-blog-core) underneath.
+  - uses [theme-ui](https://www.gatsbyjs.org/docs/theme-ui/).
+
+graphql on the index page: https://www.gatsbyjs.org/docs/page-query/, thankfully the gatsby-theme-blog handles the blog queries.
+
+Generated README Below.
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />

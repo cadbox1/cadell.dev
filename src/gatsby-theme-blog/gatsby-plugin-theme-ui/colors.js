@@ -1,5 +1,6 @@
-import merge from "deepmerge"
-import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/colors"
+import merge from "deepmerge";
+import { lighten } from "@theme-ui/color";
+import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/colors";
 
 /*
  * Want to change your theme colors?
@@ -12,14 +13,14 @@ import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/col
 // const blueGray = `#282c35`
 
 export default merge(defaultThemeColors, {
-  // text: blueGray,
-  // primary: darkBlue,
-  // heading: blueGray,
-  // modes: {
-  //   dark: {
-  //     background: blueGray,
-  //     primary: lightBlue,
-  //     highlight: lightBlue,
-  //   },
-  // },
-})
+	primary: "#336a99",
+	heading: "text",
+	muted: "hsl(0, 0%, 96%)",
+	modes: {
+		dark: {
+			background: "#000",
+			text: "#fff",
+			muted: "hsl(0, 0%, 10%)",
+		},
+	},
+});

@@ -1,24 +1,25 @@
 module.exports = {
-  plugins: [
-    {
-      resolve: `gatsby-theme-blog`,
-      options: {},
-    },
-  ],
-  // Customize your site metadata:
-  siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
-    social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
-      },
-    ],
-  },
-}
+	plugins: [
+		{
+			resolve: `gatsby-theme-blog`,
+			options: {
+				mdx: true,
+				basePath: `/blog`,
+				contentPath: "content/posts",
+				assetPath: "content/assets",
+			},
+		},
+	],
+	// Customize your site metadata:
+	siteMetadata: {
+		title: `Cadell.dev`,
+		author: `Cadell Christo`,
+		description: `Cadell's dev site`,
+		social: [
+			{
+				name: `github`,
+				url: `https://github.com/cadbox1`,
+			},
+		],
+	},
+};
