@@ -9,13 +9,13 @@ export default ({ location, data }) => (
 			sx={{
 				maxWidth: "container",
 				mx: "auto",
-				mt: 5,
+				mt: 8,
 			}}
 		>
 			<Styled.h1 sx={{ mb: 4 }}>
 				I build awesome teams that build awesome products.
 			</Styled.h1>
-			<Styled.p sx={{ fontSize: 3 }}>
+			<Styled.p sx={{ fontSize: 2 }}>
 				I'm a developer that takes customer problems from product requirements
 				and technical design, through development and deployment, all the way to
 				validation and customer support.

@@ -31,7 +31,6 @@ export default ({ title }) => {
 				mx: `auto`,
 				px: 3,
 				py: 2,
-				mb: 4,
 			}}
 		>
 			<div sx={{ mx: -12 }}>
@@ -50,8 +49,8 @@ export default ({ title }) => {
 						fontWeight: "bold",
 						fontSize: 16,
 						backgroundColor: "muted",
-						py: 2,
-						px: 3,
+						py: 3,
+						px: 4,
 						color: "text",
 						border: "none",
 						cursor: "pointer",

@@ -12,16 +12,26 @@ export default {
 				'"source sans pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
 			monospace: `Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace`,
 		},
-		space: [0, 4, 12, 16, 24, 32, 64, 128],
+		space: [0, 4, 8, 12, 16, 24, 32, 64, 96, 128],
 		sizes: {
 			container: 850,
 		},
-		fontSizes: [12, 13, 21, 23, 23, 42],
+		fontSizes: [18, 22, 24, 32, 36, 44],
+		lineHeights: {
+			body: 1.7,
+			heading: 1.2,
+		},
 		fontWeights: {
 			body: 400,
 			heading: 600,
 			bold: 600,
 		},
-		padding: ["0.25rem"],
+		styles: {
+			...baseTheme.styles,
+			p: {
+				...baseTheme.styles.p,
+				fontSize: 1,
+			},
+		},
 	},
 };
