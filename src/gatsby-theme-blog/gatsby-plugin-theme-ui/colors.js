@@ -1,5 +1,4 @@
 import merge from "deepmerge";
-import { lighten } from "@theme-ui/color";
 import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/colors";
 
 /*

@@ -32,6 +32,17 @@ export default {
 				...baseTheme.styles.p,
 				fontSize: 1,
 			},
+			a: {
+				...baseTheme.styles.a,
+				textDecoration: "none",
+				":active, :hover": {
+					textDecoration: "underline",
+				},
+			},
+			pre: {
+				...baseTheme.styles.pre,
+				fontSize: 0,
+			},
 		},
 	},
 };

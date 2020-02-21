@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui";
 import { Link } from "gatsby";
-import { css, useColorMode, Styled } from "theme-ui";
+import { useColorMode } from "theme-ui";
 
 const navItemStyles = {
 	mx: 12,
@@ -31,6 +31,7 @@ export default ({ title }) => {
 				mx: `auto`,
 				px: 3,
 				py: 2,
+				mb: 6,
 			}}
 		>
 			<div sx={{ mx: -12 }}>

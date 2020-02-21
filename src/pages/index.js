@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "gatsby-theme-blog/src/components/layout";
 
 export default ({ location, data }) => (
@@ -9,7 +9,7 @@ export default ({ location, data }) => (
 			sx={{
 				maxWidth: "container",
 				mx: "auto",
-				mt: 8,
+				mt: 7,
 			}}
 		>
 			<Styled.h1 sx={{ mb: 4 }}>
