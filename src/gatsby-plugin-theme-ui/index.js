@@ -16,7 +16,7 @@ export default {
 		sizes: {
 			container: 850,
 		},
-		fontSizes: [18, 22, 24, 32, 36, 44],
+		fontSizes: [16, 18, 21, 24, 32, 36, 44],
 		lineHeights: {
 			body: 1.7,
 			heading: 1.2,
@@ -28,10 +28,6 @@ export default {
 		},
 		styles: {
 			...baseTheme.styles,
-			p: {
-				...baseTheme.styles.p,
-				fontSize: 1,
-			},
 			a: {
 				...baseTheme.styles.a,
 				textDecoration: "none",

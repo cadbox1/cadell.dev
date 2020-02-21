@@ -12,10 +12,10 @@ export default ({ location, data }) => (
 				mt: 7,
 			}}
 		>
-			<Styled.h1 sx={{ mb: 4 }}>
+			<Styled.h1 sx={{ fontSize: 6, mb: 4 }}>
 				I build awesome teams that build awesome products.
 			</Styled.h1>
-			<Styled.p sx={{ fontSize: 2 }}>
+			<Styled.p sx={{ fontSize: 3 }}>
 				I'm a developer that takes customer problems from product requirements
 				and technical design, through development and deployment, all the way to
 				validation and customer support.
