@@ -12,13 +12,16 @@ import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/col
 // const blueGray = `#282c35`
 
 export default merge(defaultThemeColors, {
-	primary: "#336a99",
-	heading: "text",
+	text: "#000",
+	background: "#fff",
+	primary: "hsl(217, 95%, 50%)",
 	muted: "hsl(0, 0%, 96%)",
+	heading: "text",
 	modes: {
 		dark: {
-			background: "#000",
 			text: "#fff",
+			background: "#000",
+			primary: "hsl(187, 100%, 50%)",
 			muted: "hsl(0, 0%, 10%)",
 		},
 	},
