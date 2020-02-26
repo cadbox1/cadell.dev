@@ -5,6 +5,7 @@ import "typeface-source-sans-pro";
 export default {
 	...baseTheme,
 	...{
+		useColorSchemeMediaQuery: true,
 		fonts: {
 			body:
 				'"source sans pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',

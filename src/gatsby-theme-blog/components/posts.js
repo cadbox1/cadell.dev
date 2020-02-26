@@ -7,7 +7,7 @@ import { Styled, css } from "theme-ui";
 import Layout from "gatsby-theme-blog/src/components/layout";
 import SEO from "gatsby-theme-blog/src/components/seo";
 
-const Posts = ({ location, posts, siteTitle, socialLinks }) => (
+const Posts = ({ location, posts, siteTitle }) => (
 	<Layout location={location} title={siteTitle}>
 		<main sx={{ mt: 0 }}>
 			{posts.map(({ node }) => {
@@ -15,7 +15,7 @@ const Posts = ({ location, posts, siteTitle, socialLinks }) => (
 				const keywords = node.keywords || [];
 				return (
 					<Fragment key={node.slug}>
-						<SEO title="Home" keywords={keywords} />
+						<SEO title="Blog" keywords={keywords} />
 						<div sx={{ mb: 6 }}>
 							<Styled.h2
 								css={css({

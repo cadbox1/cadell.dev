@@ -2,9 +2,11 @@
 import { jsx, Styled } from "theme-ui";
 import { graphql } from "gatsby";
 import Layout from "gatsby-theme-blog/src/components/layout";
+import SEO from "gatsby-theme-blog/src/components/seo";
 
 export default ({ location, data }) => (
 	<Layout location={location} title={data.site.siteMetadata.title}>
+		<SEO title="Home" />
 		<div
 			sx={{
 				maxWidth: "container",
@@ -21,13 +23,6 @@ export default ({ location, data }) => (
 				validation and customer support.
 			</Styled.p>
 		</div>
-		<Styled.p sx={{ display: "none" }}>
-			http://essays.davidchouinard.com/the-product-engineer
-			https://blog.pragmaticengineer.com/the-product-minded-engineer/ Over the
-			last few years I've had experience with everything from managing feature
-			requests to managing cloud infrastructure and all the React components,
-			microservices and data stores in between.
-		</Styled.p>
 	</Layout>
 );
 

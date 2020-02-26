@@ -9,6 +9,13 @@ module.exports = {
 				assetPath: "content/assets",
 			},
 		},
+		{
+			resolve: "gatsby-plugin-emoji-favicon",
+			options: {
+				emoji: "🚀",
+			},
+		},
+		"gatsby-plugin-remove-serviceworker",
 	],
 	// Customize your site metadata:
 	siteMetadata: {
