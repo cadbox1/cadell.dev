@@ -1,6 +1,6 @@
 # Practicing Mindfulness
 
-I started regularly practicing mindfulness in mid 2020, and found it far more interesting than I first thought I would. I originally planned to practice twice a day, Monday to Friday, for a week but that's turned into hundreds of hours over months and months and become an important part of my life.
+I started regularly practicing mindfulness in mid 2020 and found it far more interesting than I expected. I originally planned to practice twice a day, for 5 days over a week but it's now 2021 and that's turned into hundreds of hours and become an important part of my life.
 
 Each practice consists of:
 
@@ -14,31 +14,31 @@ And each practice teaches me about:
 - Acceptance.
 - Space.
 
-Practicing these skills has changed the way I think about things and that's been really positive for me. 
-
-I believe mindfulness is a personal experience so I'll explain how to practice first then talk about my experience later.
+Practicing these skills has changed how I think about things and that's been really positive for me in all kinds of ways. That said, I believe mindfulness is a personal experience so I'll explain how to practice first then talk about my experience later.
 
 ## First Practice
+
 Allocate an hour but it will probably take less than that.
+
 - Meditation
-  - Lie on your back with your eyes closed. 
+  - Lie on your back with your eyes closed.
   - Set a timer for 10 minutes.
   - Stay lying down for slightly longer than you feel comfortable with. Aim for about 5 mins.
 - Yoga
-    - Half Sun Salute
-        - https://www.youtube.com/watch?v=gFkC5HLpfFY
-        - Do about 3.
-        - Aim for a gentle stretch.
-    - Child's pose into Cobra
-        - https://www.youtube.com/watch?v=HerlEPvo5es
-        - Do about 3.
-        - Aim for a gentle stretch.
+  - Half Sun Salute
+    - https://www.youtube.com/watch?v=gFkC5HLpfFY
+    - Do about 3.
+    - Aim for a gentle stretch.
+  - Child's pose into Cobra
+    - https://www.youtube.com/watch?v=HerlEPvo5es
+    - Do about 3.
+    - Aim for a gentle stretch.
 - Walking
-    - Preferably around nature.
-    - Around 1-2km
-    - Walk slowly.
+  - Preferably around nature.
+  - Around 1-2km
+  - Walk slowly.
 
-There's not many instructions here and the meditation is unguided and that's because we're practicing patience and acceptance, and that's best done with fewer instructions. There's no right or wrong way to do it, we're simply making a space and doing so with patience and acceptance. Practicing is far more important than how you practice.
+There's not many instructions here but this will give you a good introduction to Mindfulness. There's not many details and the mediation is unguided and that's purposely done so you're free to explore. There's no right or wrong way to do it, we're simply creating a space for ourselves and doing so with patience and acceptance. Practicing is far more important than how you practice.
 
 I strongly recommend trying this first practice before reading further.
 
@@ -56,8 +56,6 @@ I strongly recommend trying this first practice before reading further.
 
 .
 
-
-
 ## Second Practice
 
 This second practice is similar to the first but we're also going to bring attention to our senses.
@@ -65,27 +63,27 @@ This second practice is similar to the first but we're also going to bring atten
 Allocate an hour but it will probably take less than that.
 
 - Meditation
-    - Lie on the floor with your eyes closed.
-    - Let your body settle for about a minute or so.
-    - Gently start to notice your breath. Notice how air enters and leaves your body. Notice how your diaphragm expands and collapses and what that feels like. Can you feel your breath affect any other parts of your body?
-    - It's important to do this with patience and acceptance. If you find it difficult to notice your breath or your body then practice being patient and accept that. Continue to breathe.
-    - If you find yourself thinking about something else then, when you're ready, gently bring your attention back to your breath. This is part of the practice and certainly not a problem.
-    - As you lie on the floor, notice what the ground feels like underneath you. Is there more pressure in some parts more than others? Have any sensations changed since you've been lying down? Slowly explore the sensations in your body.
-    - Again, bring your attention back to your breath at any time.
-    - Allow your body to relax against the floor if it wants to.
-    - Stay lying down for slightly longer than what feels comfortable.
+  - Lie on the floor with your eyes closed.
+  - Let your body settle for about a minute or so.
+  - Gently start to notice your breath. Notice how air enters and leaves your body. Notice how your diaphragm expands and collapses and what that feels like. Can you feel your breath affect any other parts of your body?
+  - It's important to do this with patience and acceptance. If you find it difficult to notice your breath or your body then practice being patient and accept that. Continue to breathe.
+  - If you find yourself thinking about something else then, when you're ready, gently bring your attention back to your breath. This is part of the practice and certainly not a problem.
+  - As you lie on the floor, notice what the ground feels like underneath you. Is there more pressure in some parts more than others? Have any sensations changed since you've been lying down? Slowly explore the sensations in your body.
+  - Again, gently bring attention back to your breath at any time.
+  - Allow your body to relax against the floor if it wants to.
+  - Stay lying down for slightly longer than what feels comfortable.
 - Yoga
-    - Do the same exercises as the first practice.
-    - Notice the sensations in your body as you stretch. Do they change at all?
-    - Go slow, especially the transitions between positions.
-    - Bring your attention back to your breath at any time.
+  - Do the same exercises as the first practice.
+  - Explore the sensations in your body as you stretch. Do they change as you stretch?
+  - Go slow, especially the transitions between positions.
+  - Gently bring attention back to your breath at any time.
 - Walking
-    - Notice the weather, the trees, your surroundings or how your muscles feel during your walk.
-    - Periodically bring your attention back to your breath.
+  - Explore the weather, the trees, your surroundings or how your muscles feel during your walk.
+  - Periodically bring your attention back to your breath.
 
 Throughout each exercise we're bringing attention to our senses but doing so with patience and acceptance, slowly and gently. We also periodically bring attention back to our breath.
 
-There's no right or wrong way to do this; just practice, it's a personal experience.
+Again, there's no right or wrong way to do it; just practice.
 
 I strongly recommend trying this second practice before reading further.
 
@@ -105,14 +103,14 @@ I strongly recommend trying this second practice before reading further.
 
 ## First Week
 
-The first week is about practicing regularly and exploring further. Explore your surroundings, yourself and everything in between and do so with patience and acceptance.
+The first week is about practicing regularly and exploring further. Explore your senses, surroundings and yourself and do so with patience and acceptance.
 
 - 2 practices per day, one in the morning then again in the evening or at night.
 - 5 days, Monday-Friday.
 
 That's about 10 hours in total.
 
-I think this is a good frequency to get started with because each session flows on from the last. 
+I think this is a good frequency to get started with because each session flows on from the last.
 
 If you found the previous 2 practices interesting, challenging or weird then I strongly recommend a week of practice before reading further.
 
@@ -132,23 +130,27 @@ If you found the previous 2 practices interesting, challenging or weird then I s
 
 ## What is Mindfulness?
 
-For me, Mindfulness is about exploring with patience and acceptance. Practice means giving yourself space to think openly about your senses, yourself and your surroundings and doing so with patience and acceptance. You can also bring mindfulness into almost any activity, like making a cup of tea for example.
+For me, Mindfulness is about exploring with patience and acceptance. Practicing Mindfulness means giving yourself space to think openly and to explore your senses, surroundings and yourself. Again, doing so with patience and acceptance. You can also bring Mindfulness into almost any activity, like making a cup of tea for example.
 
-I think of it as 3 parts:
+I think of it in 3 parts:
 
 - Making space to think openly.
-- Exploring your senses, yourself and your surroundings.
+- Exploring your senses, surroundings and yourself.
 - Practicing patience and acceptance.
 
-I also believe that Mindfulness is a personal journey so it might mean something different to you. That's why I think it's important to practice first; this is just what I learned on my journey.
+When you give yourself space, exploring your senses can really immersing. Removing screens and other stimulus can open you up to the quieter things around you. Thoughts, feelings and sensations will naturally arise to fill the space you've created and you exploring them can be really insightful. There's so many details around us that sometimes we're completely unaware of so exploring them can be really humbling. You might discover a new appreciation for them that can give you a strong sense of perspective and peace.
 
-Mindfulness isn't about relaxing or feeling a particular way, the purpose of practice is to practice and each one is going to be different. Sometimes I found myself sinking into the floor during mediation while other other times I couldn't hear the birds in the park over my loud thoughts. It's important to know that it doesn't really matter what happens because practicing is about exploring with patience and acceptance rather than achieving a specific mindset. It's more of a journey than a destination.
+Practicing patience and acceptance is a big part of Mindfulness but it can also be difficult to understand. There's no measurable goal; we're not trying to achieve something or feel a particular way, we're simply exploring openly and accepting whatever comes from that. Sometimes I find myself sinking into the floor as I mediate while other other times I can't hear the birds in the park over my loud thoughts. Either way, we'll still practice exploring with patience and acceptance. It's more of a journey than a destination.
 
-This idea can be really challenging to grasp at first, it certainly was for me. I found myself looking for ways to get better at Mindfulness, to get more for my time and effort. This productivity mindset is comes naturally to me and I think it's pretty common, at least for people I know. Who wouldn't want to get as much out of their day as possible?
+This idea can be really challenging at first, it certainly was for me. I found myself looking for ways to get better at Mindfulness, to get more for my time and effort. This productivity mindset comes naturally to me and I think it's pretty common, at least for people I know. Who wouldn't want to get as much out of their day as possible?
 
-Mindfulness is pretty much the opposite of this mindset; you spend a long time exploring the little things for almost no reason. It's sounds pointless but that's almost the point; it's so weird and different that it can open you up to new ideas and change your perspective. That might be why I find it so positive. It's also another reason why it's important to practice before reading because it can be difficult to understand otherwise.
+Mindfulness is pretty much the opposite of this mindset. You spend a long time exploring the little things for almost no reason. It sounds pointless but that's almost the point. Doing pointless things that don't make sense can open you up to new ideas and change your perspective.
 
-Giving yourself space is an important part of mindfulness. When you remove yourself away from screens and other stimulus, you can start noticing the quieter things in your life. Thoughts, feelings and sensations will naturally arise to fill the space you've created and I think that's a good thing as long as you explore them with patience and acceptance.
+That's why I think it's important to practice for yourself first so you can explore it with an open mind, with less preconceived ideas. It's a very personal journey and you might find Mindfulness means something different for you. Almost all my Mindfulness practice has been unguided; this is just what I learned along the way.
+
+[ up to here ]
+
+## Results?
 
 For example, a handful of times I've fallen into something I can only describe as some sort of trance while meditating. It's like my body has fallen asleep but I'm still awake and it feels like I've fallen through the floor and I can feel a lot all these little sensations in my body. When I come out of it, it feels like I've just got up from a nap, feeling refreshed. It's not a particularly enjoyable feeling but it's definitely weird and interesting.
 
@@ -180,15 +182,15 @@ This sections is pretty out there and maybe even a bit trippy but I didn't take 
 
 Earlier this year I was feeling pretty shit. I wasn't sleeping well, I was tired and I felt like I was failing all the time.
 
- I hated feeling like that so I was determined to fix it. I identified some issues, swallowed down that failure and went at them with more effort.
+I hated feeling like that so I was determined to fix it. I identified some issues, swallowed down that failure and went at them with more effort.
 
 And I failed again, and again, and again.
 
-After a while, I started to feel a bit hopeless. All my ideas failed to make an impact and I was now  too exhausted to try anything else. I was fried.
+After a while, I started to feel a bit hopeless. All my ideas failed to make an impact and I was now too exhausted to try anything else. I was fried.
 
-I started practicing a bit before this period and I remember practices where I felt a strong sense of space, peace and relaxation. But that wasn't happening anymore. Instead, all I heard was my loud, rapid thoughts. 
+I started practicing a bit before this period and I remember practices where I felt a strong sense of space, peace and relaxation. But that wasn't happening anymore. Instead, all I heard was my loud, rapid thoughts.
 
-I sat in the park where, just a few days before, I admired the beauty of the trees in the early morning sun but I just couldn't see that anymore. I just felt numb and that beautiful memory felt so far away; months instead of days. It was like I was physically inside a hole - I was in the same location but completely blind to my surroundings. 
+I sat in the park where, just a few days before, I admired the beauty of the trees in the early morning sun but I just couldn't see that anymore. I just felt numb and that beautiful memory felt so far away; months instead of days. It was like I was physically inside a hole - I was in the same location but completely blind to my surroundings.
 
 I was acutely aware I was in that hole too I just had no idea how to get out or the energy to do it. I was stuck.
 
@@ -202,7 +204,7 @@ This was my turning point. Bashing my head against problems was only digging mys
 
 Doing anything when I was fried was ridiculously difficult but learning new skills like patience and acceptance was even more so. I needed to focus on prevention rather than recovery. After a few days I started to feel better again so I started practicing with a focus on patience and acceptance. And I continued to fail but I was also starting to understand.
 
-I noticed that I could spiral out of control really quickly. One problem led to another and they would avalanche on top of me. But I also noticed that there were warning signs in my practices. If my thoughts were racing or I was feeling antsy or agitated then that meant I was potentially carrying some stress. Even more so if it happened in consecutive practices. 
+I noticed that I could spiral out of control really quickly. One problem led to another and they would avalanche on top of me. But I also noticed that there were warning signs in my practices. If my thoughts were racing or I was feeling antsy or agitated then that meant I was potentially carrying some stress. Even more so if it happened in consecutive practices.
 
 If I noticed warning signs then I tried to be more patient with myself and allocate more downtime and practice. It was really difficult because the warning signs can be subtle and you can't control everything that happens. I seemed to have bad weeks every second week and the lows never got any easier but each time it passed I started to feel a bit more hopeful.
 
@@ -222,7 +224,7 @@ And it's addictive; it feels good to push yourself and get results. I've been do
 
 At some point it affected my sleep, which affected my judgement, which led to more failure, more stress, less sleep and the cycle continues. I didn't even know why I couldn't sleep at the time because I wasn't even consciously aware of my stress because I was so conditioned to it. I remember thinking, "All I need to do is get a good night sleep", as if that would solve all my problems. So I focused on that and beat myself up when it didn't happen even though I was doomed to fail with an attitude like that. Unfortunately being tired also means falling back into these old habits, because it's easier than figuring out new ones. Unfortunately that meant falling back into the same habits that were affecting my sleep and making me tired. Another loop.
 
-It all sounds so silly to think back on now but at the time I found it extremely difficult to see things any other way. That's because stress is all about focussing on something urgent and blocking out everything else. Unfortunately, that also means it's easy to lose perspective. Failure means you're a failure because you're blind to anything that says otherwise. 
+It all sounds so silly to think back on now but at the time I found it extremely difficult to see things any other way. That's because stress is all about focussing on something urgent and blocking out everything else. Unfortunately, that also means it's easy to lose perspective. Failure means you're a failure because you're blind to anything that says otherwise.
 
 That tunnel vision can leave you feeling isolated, even when surrounded by loved ones. When you're suffering in this state it's similar to being in pain so you tend to become self-absorbed and it's hard to be empathetic towards others. I never thought about killing myself but I think I have a better understanding of how someone might get to that point.
 
@@ -234,9 +236,11 @@ I think mindfulness helps because you practice the skills that counteract the ef
 - **Acceptance** - Accept things instead of comparing and critiquing them.
 - **Think openly** - Think openly instead of getting tunnel vision on goals.
 
+At some point I just accepted that I was pretty messed up and that can be strangely comforting.
+
 When you practice these skills you learn to appreciate what's around you instead of ignoring it to focus on some idea that only exists inside your head.
 
-Mindfulness, and other stress management strategies, only work if you practice regularly before you're stressed because it's too difficult to learn something new when you're in that state. Even with practice, it'll be challenging but I believe it's a worthwhile endeavour. 
+Mindfulness, and other stress management strategies, only work if you practice regularly before you're stressed because it's too difficult to learn something new when you're in that state. Even with practice, it'll be challenging but I believe it's a worthwhile endeavour.
 
 ## Writing
 
@@ -250,9 +254,9 @@ I've experimented a bit and found all the 3 parts are important for me. I've als
 
 ### Other Ideas
 
-  - [90-90 stretch](https://youtu.be/8p6FtlqpAYg?t=184).
-  - [Shoulder rolls](https://www.youtube.com/watch?v=wVXK4DUoSj8).
-  - [Full Sun Salute](https://www.youtube.com/watch?v=73sjOu0g58M).
+- [90-90 stretch](https://youtu.be/8p6FtlqpAYg?t=184).
+- [Shoulder rolls](https://www.youtube.com/watch?v=wVXK4DUoSj8).
+- [Full Sun Salute](https://www.youtube.com/watch?v=73sjOu0g58M).
 
 I do a few exercises before meditation while lying down. I roll my back, stretch my groins and do some hip exercises.
 
@@ -270,6 +274,7 @@ These practices expose you to some other good things outside of mindfulness.
 - Stretching can help with mobility, stiffness and pain. There's also a theory that stress manifests itself in your body, rather than your brain, so stretching may directly relieve some stress.
 
 ## Other Resources
+
 - power of now
 - my octopus teacher
 - heaps of others in my notes
