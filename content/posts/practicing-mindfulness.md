@@ -1,6 +1,6 @@
 # Practicing Mindfulness
 
-I started regularly practicing mindfulness in mid 2020 and found it far more interesting than I expected. I originally planned to practice twice a day, for 5 days over a week but it's now 2021 and that's turned into hundreds of hours and become an important part of my life.
+I started regularly practicing Mindfulness in mid 2020 but I didn't realise how much impact it would have on me. I originally planned to practice for a week but it's now 2021 and I've been practicing ever since and after hundreds of hours has become an important part of my life.
 
 Each practice consists of:
 
@@ -14,7 +14,7 @@ And each practice teaches me about:
 - Acceptance.
 - Space.
 
-Practicing these skills has changed how I think about things and that's been really positive for me in all kinds of ways. That said, I believe mindfulness is a personal experience so I'll explain how to practice first then talk about my experience later.
+Practicing Mindfulness has been a uniquely weird and interesting experience but it's been really positive for me. I also believe Mindfulness is a personal experience so I'll explain how to practice first and talk more about my experience later.
 
 ## First Practice
 
@@ -130,151 +130,95 @@ If you found the previous 2 practices interesting, challenging or weird then I s
 
 ## What is Mindfulness?
 
-For me, Mindfulness is about exploring with patience and acceptance. Practicing Mindfulness means giving yourself space to think openly and to explore your senses, surroundings and yourself. Again, doing so with patience and acceptance. You can also bring Mindfulness into almost any activity, like making a cup of tea for example.
+For me, Mindfulness is about exploring with patience and acceptance. You can explore your senses, your surroundings and even yourself. Practicing Mindfulness means giving yourself space to think openly and explore with patience and acceptance.
 
-I think of it in 3 parts:
+Each practice is about:
 
-- Making space to think openly.
+- Going yourself space to think openly.
 - Exploring your senses, surroundings and yourself.
 - Practicing patience and acceptance.
 
-When you give yourself space, exploring your senses can really immersing. Removing screens and other stimulus can open you up to the quieter things around you. Thoughts, feelings and sensations will naturally arise to fill the space you've created and you exploring them can be really insightful. There's so many details around us that sometimes we're completely unaware of so exploring them can be really humbling. You might discover a new appreciation for them that can give you a strong sense of perspective and peace.
+When you give yourself space and slow down, you're opening yourself up to quieter things happening around you. It's an invitation for sensations, feelings and thoughts and exploring them can be surprisingly immersive and insightful. I've found it incredibly humbling to discover little things happening around me that I didn't notice before, like how a rain drop dances from leaf to leaf as it lands on a plant. If you regularly open yourself up and explore what's around you then your perspective of what's around you can change and that can be really powerful.
 
-Practicing patience and acceptance is a big part of Mindfulness but it can also be difficult to understand. There's no measurable goal; we're not trying to achieve something or feel a particular way, we're simply exploring openly and accepting whatever comes from that. Sometimes I find myself sinking into the floor as I mediate while other other times I can't hear the birds in the park over my loud thoughts. Either way, we'll still practice exploring with patience and acceptance. It's more of a journey than a destination.
+Each part of practice is going to invite you to explore slightly different things. In Yoga, we're exploring our bodies, how they move and what that feels like. Meditation is the quietest activity so you might explore your breath or the sensations of the earth supporting your body as you lie on the floor. Over time, Meditation can also be a platform to deploy explore things; sensations, sounds, feelings or thoughts. Walking is more active with lot's of things to explore. You might notice birds singing, fresh air on your face, how the morning light shines on trees or even the sensations of walking in your body. I think walking can be a bridge to bring Mindfulness into the rest of your day. You can practice while waiting for something or while doing something more active like making a cup of tea. You might notice the sound of the water entering the cup, the steam that comes off it, how the cup warms your hands or how the tea tastes on your tongue.
 
-This idea can be really challenging at first, it certainly was for me. I found myself looking for ways to get better at Mindfulness, to get more for my time and effort. This productivity mindset comes naturally to me and I think it's pretty common, at least for people I know. Who wouldn't want to get as much out of their day as possible?
+Your intention during practice is also important. We're practicing exploring openly with patience and acceptance which means accepting whatever comes to you and being patient if nothing seems to be coming to you. We're not trying to reach a certain state, like being relaxed or more present, we're simply exploring. Sometimes I find myself sinking into the floor during meditation and other other times I can't hear anything but my thoughts but both are important. Practicing is about a journey, not a destination or, in other words, practice for the sake of practice. That's why I recommend practicing for yourself first so you've got an open mind with less preconceived ideas.
 
-Mindfulness is pretty much the opposite of this mindset. You spend a long time exploring the little things for almost no reason. It sounds pointless but that's almost the point. Doing pointless things that don't make sense can open you up to new ideas and change your perspective.
+## My Learning Experience
 
-That's why I think it's important to practice for yourself first so you can explore it with an open mind, with less preconceived ideas. It's a very personal journey and you might find Mindfulness means something different for you. Almost all my Mindfulness practice has been unguided; this is just what I learned along the way.
-
-[ up to here ]
-
-## Results?
-
-For example, a handful of times I've fallen into something I can only describe as some sort of trance while meditating. It's like my body has fallen asleep but I'm still awake and it feels like I've fallen through the floor and I can feel a lot all these little sensations in my body. When I come out of it, it feels like I've just got up from a nap, feeling refreshed. It's not a particularly enjoyable feeling but it's definitely weird and interesting.
-
-I also often find myself thinking about my grandparents that have passed and sometimes that can be quite emotional. I've practice embracing those thoughts instead of shying away from them and I think practicing Mindfulness can create a safe environment to do that. If it gets too much, I gently bring my focus back to my breath. Then I practice patience and acceptance and continue to explore those thoughts and feelings when I'm ready. Being able to explore difficult thoughts like these has helped me understand them better and in the process understand myself better as well. More on this later.
-
-Sometimes I've even felt like they've been right there with me as I walk around the park. That can be hard to understand from a critical perspective but after practicing Mindfulness for a while it's not as much of a stretch.
-
-After a while of regular practice I started to feel content with things in my life and that brought about a strong sense of peace that I haven't really felt before. It's very different to how you feel when you achieve a goal or succeed at something; I wouldn't even say you feel happy. Time just falls away and you feel like you're free to explore all the little things forever. It's was such a strange feeling for me because I don't think I've ever felt it in such a strong way before. Happiness and success feel great but in comparison they're short-lived and fickle, it's only half of the equation. The other half is taking to the time to practice exploring and appreciating what's around you. I now strive to balance the two.
-
-If you still find yourself reluctant to try Mindfulness then you might actually have the most to gain. A large part of our society is based around consumption and technology has made that even more prevalent. And it's addictive. So addictive that you can easily spend every spare minute consuming media. Sometimes you can't see the forest from the trees. You don't have to fill your day with activities, you can just exist and explore what that's like and you might discover something like I did.
-
-## Some of My Thoughts
-
-After practicing for a while you can start to notice more and more details during practices. One night I had some really deep thoughts about them.
-
-I walked around the park at night and started noticing my surroundings; the sound of crickets to my left, then the rustle of tree leaves overhead then a warm breeze on my face. As I explored these sensations I started to think about Time and how it can deliver these sensations. It's kind of magical how you can do almost nothing and have something external deliver something to you. Even when you're lying still on the ground, you're still moving through time or even time is moving around you. Mindfulness is about exploring what that's like. It makes me think the phrase "spending time" seem a little silly because it's not ours to spend. It just happens; the only thing we decide is roughly where we'll be to experience it.
-
-Time binds us all together. The same moment the breeze touches my face is the same moment my loved ones have to do whatever they like but it's also the same moment the trees have to shake their leaves. It's universal and connects everything together. I think this is a really nice thought and makes me feel content with what's around me. I wish them all the best with whatever they're doing.
-
-When I practice Mindfulness I'm exploring all these details and that can make you feel connected to the earth and everything in it. There's an infinite amount of detail around us and we'll only ever begin to understand a tiny portion of that. I find it deeply peaceful, so much so that it gives me a strange sense of purpose. In the same way that you explore your surroundings, you can also explore and discover connections within yourself and leaves me feeling like I understand myself a bit better.
-
-I think this also applies to loved ones passing. You've shared so many moments together and now that they've passed you'll still spend moments together, just in a different way. They've made such an impact on you that some part of them will always be with you. When I think about it like that they don't feel so far away and I've found practicing Mindfulness can be a nice way to explore that. At the very least, reflecting helps me appreciate the connections I still have with people around me.
-
-If Time is something external then it could be similar to how some people think about god or even fate. These are probably the most spiritual thoughts I've ever had.
-
-This sections is pretty out there and maybe even a bit trippy but I didn't take psychedelics; all I did was lie on the floor then walk around my park. Even if it doesn't resonate with you I still think it's interesting to see the kinds of thoughts you might have if you open yourself up to them. Maybe you'll explore some out there thoughts of your own.
-
-## My Experience
-
-Earlier this year I was feeling pretty shit. I wasn't sleeping well, I was tired and I felt like I was failing all the time.
-
-I hated feeling like that so I was determined to fix it. I identified some issues, swallowed down that failure and went at them with more effort.
+Earlier this year I was feeling pretty shit. I wasn't sleeping well, I was tired and I felt like I was failing at everything. I hated how I was feeling so I was determined to fix it. I swallowed down that feeling of failure and desperately tried to fix the problems I thought we're making me feel like this. I thought I would be ok if I could just make them go away.
 
 And I failed again, and again, and again.
 
-After a while, I started to feel a bit hopeless. All my ideas failed to make an impact and I was now too exhausted to try anything else. I was fried.
+After a while, I started to feel a bit hopeless. I still had a mountain of problems to fix and the ones I had fixed didn't make me feel any better. To make things worse, I was now too exhausted to try anything else. I was fried.
 
-I started practicing a bit before this period and I remember practices where I felt a strong sense of space, peace and relaxation. But that wasn't happening anymore. Instead, all I heard was my loud, rapid thoughts.
+I started practicing Mindfulness a bit before this because I remember practices where I felt peaceful and relaxed, but that wasn't happening anymore. I sat in the park feeling tired and frustrated listening to my loud, rapid thoughts when just a few days before I was admiring the trees in the early morning sun. I just couldn't see that anymore. I felt numb and that beautiful memory felt so far away; it felt like months ago not days. It was like I was inside a hole - I was in the same location but completely blind to my surroundings. I was acutely aware of the hole I was in, I just had no idea how to get out or even the energy to get out or figure it out. I was stuck.
 
-I sat in the park where, just a few days before, I admired the beauty of the trees in the early morning sun but I just couldn't see that anymore. I just felt numb and that beautiful memory felt so far away; months instead of days. It was like I was physically inside a hole - I was in the same location but completely blind to my surroundings.
+After a few days I started to feel a bit better but it didn't last and I was right in the the same state a week later. It was painful to start feeling better only to have a total regression in such a short amount of time. It was yet another failure and it felt like the worst yet.
 
-I was acutely aware I was in that hole too I just had no idea how to get out or the energy to do it. I was stuck.
+At this point, Mindfulness was really frustrating. I was practicing for 10 hours a week and had nothing to show for it. In hindsight, I was still in the early days of learning Mindfulness. It's not about achieving something or feeling a particular way, it's about exploring with patience and acceptance, whatever you find. At some point it occurred to me that I needed to accept how I was feeling instead of fighting it, embrace it instead of running from it. This was my turning point. Bashing my way through 'problems' was only digging myself a deeper hole, patience and acceptance were the way out. It's simple but simple doesn't mean easy. 
 
-After a few days I started to feel a bit better. But it didn't last and I was soon right back into the same state a week later. Another failure and it felt like the worst one yet.
+Doing anything when I was completely fried seemed ridiculously difficult. Practicing new skills like patience and acceptance and unlearning old habits was even harder. I needed to focus on prevention rather than recovery. That meant riding out feeling shit for a few days, then really practicing patience and acceptance when I started to feel better again. Naturally, I fell back into that low state but for the first time I felt like I was starting to understand it more.
 
-At this point, Mindfulness was really frustrating. I was practicing for 10 hours a week and had nothing to show for it.
+I noticed that I things could spiral out of control really quickly. One problem led to another which led to another and they would all avalanche on top of me but I also started to notice some warning signs in my practices. If my thoughts were racing or I felt agitated or even antsy then that could mean I was feeling stressed, even more so if it happened in consecutive practices. It was really difficult because the warning signs were subtle. I was just so unaware of my stress before, probably because I was so used to it. If I noticed any warning signs then I tried to be even more patient with myself and allocate more time for practice and downtime.
 
-In hindsight, I was very much still learning what mindfulness was all about. It's not about achieving something or feeling a particular way, it's about exploring yourself and your surroundings with patience and acceptance, whatever you find. At some point it occurred to me that I needed to accept how I was feeling instead of fighting it and embrace it instead of running from it.
+I still seemed to have a bad week every second week but each time it passed I started to feel a bit more hopeful. I just needed more practice. I remember going out for dinner with friends and coming home feeling a bit down. It was weird because it was nice evening so I started going down my habitual path of "Why am I feeling down? What's wrong with me?" and I started to feel a bit upset. But then, all of a sudden, I felt a massive sense of relief and joy. I just caught myself right before a downward spiral and knew exactly what I needed to do about it. Be patient with myself and accept it.
 
-This was my turning point. Bashing my head against problems was only digging myself a deeper hole, patience and acceptance were the way out. It's simple but simple doesn't mean easy. This whole time I was practicing behaviours that got me to this point and apparently I got pretty good at it! Learning how to change that behaviour was going to take time.
+Finally, after a few months, I eventually felt good for 2 weeks in a row. I still have bad weeks occasionally and sometimes I don't handle them as well as I probably could but I'm ok with that. When they do happen, I practice giving myself the time and care that I need to manage it.
 
-Doing anything when I was fried was ridiculously difficult but learning new skills like patience and acceptance was even more so. I needed to focus on prevention rather than recovery. After a few days I started to feel better again so I started practicing with a focus on patience and acceptance. And I continued to fail but I was also starting to understand.
+## Burnout
 
-I noticed that I could spiral out of control really quickly. One problem led to another and they would avalanche on top of me. But I also noticed that there were warning signs in my practices. If my thoughts were racing or I was feeling antsy or agitated then that meant I was potentially carrying some stress. Even more so if it happened in consecutive practices.
+I've done a lot of reflection since my low point in 2020 and I'm pretty sure I was burnt out - my brain associated effort with failure. Recovery takes time where you'll cycle through symptoms like I did. It's commonly associated with long work hours, which I wasn't doing, but apparently it's more to do with stress and recovery. I won't go into too much detail about what burnout is here but [Emotional resiliene and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing) from [resilient.wiki](https://resilient.wiki/) is a good place to start.
 
-If I noticed warning signs then I tried to be more patient with myself and allocate more downtime and practice. It was really difficult because the warning signs can be subtle and you can't control everything that happens. I seemed to have bad weeks every second week and the lows never got any easier but each time it passed I started to feel a bit more hopeful.
+Stress has been a big part of my career even and I don't think I was fully aware of that before. I find it really productive because I can block out distractions and focus. I write my tasks in a list, complete them one by one and I'll push myself to get as many done as possible. And I enjoyed it because I enjoyed feeling productive and getting recognition for it, it was part of my identity.
 
-I remember going out for dinner with friends and coming home feeling a bit down. I started going down my habitual path of "Why am I feeling down? What's wrong with me?" and I started to feel a bit upset. But then, all of a sudden, I felt a massive sense of joy and relief. I had just caught myself before a spiral and knew exactly what I needed to do about it. Be patient and accept it.
+The problems started when I found myself in a losing situation where there was no way to win. The smart thing to do would be to try a few times then accept that and move on but I just couldn't seem to do that. I'd keep pushing, keep getting burned and keep failing. Even when I lost I would leave it for a day only to find myself thinking about it all over again. I just felt like such a failure.
 
-Lo and behold I eventually felt good for 2 weeks in a row for the first time in months.
+At some point it affected my sleep, which affected my judgement, which led to more failure, more stress, less sleep and the cycle continued. I didn't even know why I couldn't sleep at the time. I wasn't aware of how stressed I was because I was so conditioned to it. I remember thinking "All I need to do is get a good night sleep" which, ironically, makes it really hard to sleep. Being tired also meant running on autopilot and falling back into old habits, the same ones that were keeping me awake at night.
 
-I still occasionally have bad weeks and sometimes I don't handle them as well as I could but I'm ok with that I give myself the time and care I need to manage them when they do happen.
+It all sounds so silly to think back on now but at the time I couldn't see things any other way. In hindsight, it's not that surprising because that's how stress works. It makes you focus on something urgent but unfortunately that can give you tunnel vision and leave you blind to your surroundings. It can make you feel like a failure when you're surrounded by success and make you feel isolated despite being surrounded by loved ones. It makes it very difficult to connect with anything or anyone. I never thought about killing myself but I feel like I now have a better understanding of how someone might get to that point.
 
-## Burnout and Stress
+## Perspective
 
-It's now clear to me that I was burnt out - my brain associated effort with failure, making everything seem incredibly difficult. Recovery takes time and means cycling through burnout symptoms like I did. It's commonly associated with long work hours but I now know that's not necessarily the case. I won't go into too much detail about what burnout is here but [Emotional resiliene and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing) from [resilient.wiki](https://resilient.wiki/) is a good place to start.
+When I was burnt out, I had a bleak perspective. I was tired, stressed and everything felt incredibly difficult. I felt like I had to act urgently to fix whatever was making me feel this way. Practicing Mindfulness helped me immensely, not by fixing my problems, by offering me a new perspective. It taught me how to be more patient and to explore my surroundings and myself and when I practiced it more the things that were stressing me out didn't seem so important anymore. 
 
-I think burnout is more to do with stress than work hours. I wasn't working long hours but I was certainly stressed and, as a result, I learned a lot about it and my relationship with it. In hinsight, I would say I'm no stranger to stress and it's actually been a big part of my career. Why? Because I think it's really productive. If I've got tasks that my team genuinely needs me to do today, then I'll write them in a list, complete one after the other and I'll push myself to make sure they're all done. I've worked for hours on end with little more than a 5 minute break and I think stress is a big part of that. Stress blocks out distractions so you can focus on tasks with urgency.
+Patience and acceptance directly oppose the effects of stress. When you accept your current state, you don't feel the need to act urgently to change things but building that acceptance takes practice and patience. If you're not where you want to be, that's okay and being unhappy is okay as well. In my experience, it's going to be much worse if you spend your time denying and rejecting how you feel. At some point, I accepted that I was pretty messed up and it was strangely comforting. Then can you start exploring how you feel and begin understanding yourself and your situation. There's no silver bullet or quick fix.
 
-And it's addictive; it feels good to push yourself and get results. I've been doing it for years and I pride myself on my productivity, it's part of my identity. I wasn't fully aware I was even doing it because it's never been a problem. So, what changed? I found myself in a losing situation where I couldn't possibly succeed. The smart thing to do would be to accept that and move on but I couldn't seem to do that. I kept pushing, I kept getting burned and I kept failing. Even when I was defeated I would leave it for a day only to find myself thinking about it all over again.
+It's simple but it can be incredibly difficult. I think that's partly because a large part of our society is based around consumption and technology amplifies it. It puts consumption at your fingertips and it's satisfying that it's addictive to the point where can easily spend every spare second you have consuming media. And why wouldn't you? It's fun. Who wouldn't want to get more fun into their day?
 
-At some point it affected my sleep, which affected my judgement, which led to more failure, more stress, less sleep and the cycle continues. I didn't even know why I couldn't sleep at the time because I wasn't even consciously aware of my stress because I was so conditioned to it. I remember thinking, "All I need to do is get a good night sleep", as if that would solve all my problems. So I focused on that and beat myself up when it didn't happen even though I was doomed to fail with an attitude like that. Unfortunately being tired also means falling back into these old habits, because it's easier than figuring out new ones. Unfortunately that meant falling back into the same habits that were affecting my sleep and making me tired. Another loop.
+Sometimes you can't see the forest from the trees. Practicing Mindfulness means spending a long time exploring small things for almost no reason. It seems pointless but that's almost the point - doing pointless things can open you up to new ideas and  perspectives. This is what's known as practicing a "beginner's mind", practicing being a student instead of a teacher by exploring openly with minimal expectations. It can be incredibly humbling. That also means we don't skip practices because we've found something better to do. We practice for the sake of practice in a steady rhythm that flows from one practice to the next.
 
-It all sounds so silly to think back on now but at the time I found it extremely difficult to see things any other way. That's because stress is all about focussing on something urgent and blocking out everything else. Unfortunately, that also means it's easy to lose perspective. Failure means you're a failure because you're blind to anything that says otherwise.
+Exploring openly builds awareness. When you lie down to meditate you're becoming aware of your headspace, when you stretch in yoga you become aware of your body and when you go for a walk around the park you become aware of your surroundings. It's simple but it's also powerful with enough practice. It helps break away from the tunnel vision that stress can give you and when you do that the things that were causing you stress just don't seem that important anymore.
 
-That tunnel vision can leave you feeling isolated, even when surrounded by loved ones. When you're suffering in this state it's similar to being in pain so you tend to become self-absorbed and it's hard to be empathetic towards others. I never thought about killing myself but I think I have a better understanding of how someone might get to that point.
+Body awareness has been particularly interesting for me. It's seems obvious in hindsight but but I learned a lot about the intimate connection between our minds and our bodies. Stress is associated with tight muscles, changes in digestion and sensitivity to light and I've even read that we that we might actually feel stress through these changes in our bodies instead of the other way around. That means stretching, moving and building awareness of our body might have a direct effect on our mood. Regardless of causality, I think body awareness is an important part of Mindfulness. When I couldn't sleep, I actually got annoyed at my body because it wasn't doing what I wanted it to do. Now I realise my body was actually getting annoyed at me because I wasn't giving it what it needed. We're a team.
 
-## Why does Mindfulness help?
+Exploring your body can go really deep. A handful of times I've fallen into something I can only describe as some sort of a trance while meditating. It's like my body has fallen asleep but I'm still awake. It feels like I've fallen through the floor and I can feel a lot all these little sensations in different parts of my body all simultaneously. It's not particularly enjoyable but it's so weird and interesting that I naturally want to stay. When I come out of it I wonder where I've just been. It's like going on a strange journey without going anywhere and when it's over I just feel refreshed, like I've just had a nap. It might be hard to grasp at first but if you spend enough time opening up there's no telling what you might find.
 
-I think mindfulness helps because you practice the skills that counteract the effects of stress.
+One night, I walked around my park and started exploring my surroundings. I heard the sound of crickets to my left, the rustle of tree leaves above me and felt a warm breeze on my face. I felt lucky to be there experiencing it all. Then I realised there must be an infinite amount of detail around me that I'm completely unaware of and if I'm patient and explore openly then some of those details might reveal themselves to me. I felt humbled and content and it gave me a strange sense of purpose and peace.
 
-- **Patience** - Take your time instead of urgently rushing.
-- **Acceptance** - Accept things instead of comparing and critiquing them.
-- **Think openly** - Think openly instead of getting tunnel vision on goals.
+It's nice to think that we're always moving through time, even when we're sitting still. It's moving around us, delivering sensations and experiences and connecting everyone and everything together. "Spending time" seems like such a silly phrase, it's not ours to spend. I think about my family and friends and the trees and the birds in the park and I wish them all the best with whatever they're doing with each moment. I'm not very spiritual but I can't help but think there's something spiritual about wishing for the best from something external.
 
-At some point I just accepted that I was pretty messed up and that can be strangely comforting.
+When I practice, I often find myself thinking about my grandparents who have passed. Sometimes it can be quite emotional and I've shied away from those emotions in the past but now I try to embrace them with patience and acceptance. If it gets too much, I bring my attention back to my breath then continue exploring when I'm ready. Sometimes I've felt like they've been right there with me as I walk around the park. That's not so hard to understand when you realise how much of an impact loved ones can have on you. They're a part of who you are. If you open yourself up, they might not feel so far away.
 
-When you practice these skills you learn to appreciate what's around you instead of ignoring it to focus on some idea that only exists inside your head.
+Practicing Mindfulness has been a uniquely interesting experience. It's certainly changed my perspective and how I think about things and that's because I've explored and experienced things I never had before. I feel like I have a better understanding of myself, my body and what's around me as a result. I used to strive for success and happiness but I now think they're rather short sighted, they're fickle and short lived. I now strive for balance - achieve all that I can while exploring openly. Every day is practice.
 
-Mindfulness, and other stress management strategies, only work if you practice regularly before you're stressed because it's too difficult to learn something new when you're in that state. Even with practice, it'll be challenging but I believe it's a worthwhile endeavour.
+## Experiment
+
+Mindfulness is a personal journey so it's important to explore what works for you. Here's some ideas:
+
+- Listen to music while meditating or see if you can mediate while someone is watching TV (challenging).
+- Stretch your groins, do some hip thrusts or the [90-90 stretch](https://youtu.be/8p6FtlqpAYg?t=184) for hip mobility.
+- Practice mindfulness when you eat things like nuts or drink something like tea or soda water.
+- Find a schedule that works for you. I personally like first thing in the morning and then straight after work but I've also enjoyed practicing at night, particularly walking around my park at night.
+- Watching birds, plants, trees and nature while sitting cross legged or watch the sky while lying on your back.
+- Practice after a workout or a run.
+- Practicing while waiting for something or someone.
+- Practicing when you feel tired, instead of having a nap.
 
 ## Writing
 
-Practicing Mindfulness has helped me tremendously in writing this article. I've never been very good at longer forms of writing and it can make me really anxious. I used to write a sentence, read it back, criticise it and rewrite it then repeat until I get annoyed at myself for not making any progress and I still have a tendency to do that now at times. It takes patience to keep writing, even if it doesn't make any sense, and eventually I'll find some words I like. It's probably taken over 100 hours of writing to get to this point which I certainly couldn't manage before.
+This is the first essay I've written since high school and those were pretty awful. I've always found longer forms of writing difficult, even more so for a topic as personal as this. Mindfulness has been not only the inspiration for this essay but also the method - it's taken hundreds of hours over many months and lots of patience and acceptance. It's tested me immensely but I'm glad I could put some of my experiences into words even if it's just for my future self.
 
-## Do what works for you
+## More Resources
 
-Mindfulness is a personal journey so it's important to explore what works for you.
-
-I've experimented a bit and found all the 3 parts are important for me. I've also found that each one compliments the others so I prefer to do them together.
-
-### Other Ideas
-
-- [90-90 stretch](https://youtu.be/8p6FtlqpAYg?t=184).
-- [Shoulder rolls](https://www.youtube.com/watch?v=wVXK4DUoSj8).
-- [Full Sun Salute](https://www.youtube.com/watch?v=73sjOu0g58M).
-
-I do a few exercises before meditation while lying down. I roll my back, stretch my groins and do some hip exercises.
-
-You can practice mindfulness during almost any activity like making tea for example or even eating things like nuts. Maybe you don't need your phone when you go to the toilet.
-
-## Other Good Things
-
-These practices expose you to some other good things outside of mindfulness.
-
-- Time away from a screen.
-- Quiet time.
-- Nature time.
-- Alone time.
-- Walking is good exercise.
-- Stretching can help with mobility, stiffness and pain. There's also a theory that stress manifests itself in your body, rather than your brain, so stretching may directly relieve some stress.
-
-## Other Resources
-
-- power of now
-- my octopus teacher
-- heaps of others in my notes
+I'll fill this in later.
