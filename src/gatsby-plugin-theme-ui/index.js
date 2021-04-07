@@ -40,6 +40,17 @@ export default {
 				...baseTheme.styles.pre,
 				fontSize: 0,
 			},
+			ul: {
+				margin: 0,
+				padding: 0,
+				marginLeft: 4,
+				marginBottom: 4,
+				paddingLeft: 5,
+			},
+			h2: {
+				...baseTheme.styles.h2,
+				marginTop: 6,
+			},
 		},
 	},
 };
