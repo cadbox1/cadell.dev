@@ -21,7 +21,7 @@ module.exports = {
 	siteMetadata: {
 		title: `Cadell.dev`,
 		author: `Cadell Christo`,
-		description: `Cadell's dev site`,
+		description: `Cadell's website`,
 		social: [
 			{
 				name: `github`,

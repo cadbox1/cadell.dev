@@ -1,6 +1,9 @@
-# Practicing Mindfulness
+---
+title: Practicing Mindfulness
+date: 2021-04-07
+---
 
-I started regularly practicing Mindfulness in mid 2020 but I didn't realise how much impact it would have on me. I originally planned to practice for a week but it's now 2021 and I've been practicing ever since and after hundreds of hours has become an important part of my life.
+I started Practicing Mindfulness regularly in mid-2020 but I didn't realise the impact it would have on me. I originally planned to practice for a week but it's now 2021 and I've been practicing ever since and after hundreds of hours has become an important part of my life.
 
 Each practice consists of:
 
@@ -156,7 +159,7 @@ I started practicing Mindfulness a bit before this because I remember practices 
 
 After a few days I started to feel a bit better but it didn't last and I was right in the the same state a week later. It was painful to start feeling better only to have a total regression in such a short amount of time. It was yet another failure and it felt like the worst yet.
 
-At this point, Mindfulness was really frustrating. I was practicing for 10 hours a week and had nothing to show for it. In hindsight, I was still in the early days of learning Mindfulness. It's not about achieving something or feeling a particular way, it's about exploring with patience and acceptance, whatever you find. At some point it occurred to me that I needed to accept how I was feeling instead of fighting it, embrace it instead of running from it. This was my turning point. Bashing my way through 'problems' was only digging myself a deeper hole, patience and acceptance were the way out. It's simple but simple doesn't mean easy. 
+At this point, Mindfulness was really frustrating. I was practicing for 10 hours a week and had nothing to show for it. In hindsight, I was still in the early days of learning Mindfulness. It's not about achieving something or feeling a particular way, it's about exploring with patience and acceptance, whatever you find. At some point it occurred to me that I needed to accept how I was feeling instead of fighting it, embrace it instead of running from it. This was my turning point. Bashing my way through 'problems' was only digging myself a deeper hole, patience and acceptance were the way out. It's simple but simple doesn't mean easy.
 
 Doing anything when I was completely fried seemed ridiculously difficult. Practicing new skills like patience and acceptance and unlearning old habits was even harder. I needed to focus on prevention rather than recovery. That meant riding out feeling shit for a few days, then really practicing patience and acceptance when I started to feel better again. Naturally, I fell back into that low state but for the first time I felt like I was starting to understand it more.
 
@@ -180,13 +183,13 @@ It all sounds so silly to think back on now but at the time I couldn't see thing
 
 ## Perspective
 
-When I was burnt out, I had a bleak perspective. I was tired, stressed and everything felt incredibly difficult. I felt like I had to act urgently to fix whatever was making me feel this way. Practicing Mindfulness helped me immensely, not by fixing my problems, by offering me a new perspective. It taught me how to be more patient and to explore my surroundings and myself and when I practiced it more the things that were stressing me out didn't seem so important anymore. 
+When I was burnt out, I had a bleak perspective. I was tired, stressed and everything felt incredibly difficult. I felt like I had to act urgently to fix whatever was making me feel this way. Practicing Mindfulness helped me immensely, not by fixing my problems, by offering me a new perspective. It taught me how to be more patient and to explore my surroundings and myself and when I practiced it more the things that were stressing me out didn't seem so important anymore.
 
 Patience and acceptance directly oppose the effects of stress. When you accept your current state, you don't feel the need to act urgently to change things but building that acceptance takes practice and patience. If you're not where you want to be, that's okay and being unhappy is okay as well. In my experience, it's going to be much worse if you spend your time denying and rejecting how you feel. At some point, I accepted that I was pretty messed up and it was strangely comforting. Then can you start exploring how you feel and begin understanding yourself and your situation. There's no silver bullet or quick fix.
 
 It's simple but it can be incredibly difficult. I think that's partly because a large part of our society is based around consumption and technology amplifies it. It puts consumption at your fingertips and it's satisfying that it's addictive to the point where can easily spend every spare second you have consuming media. And why wouldn't you? It's fun. Who wouldn't want to get more fun into their day?
 
-Sometimes you can't see the forest from the trees. Practicing Mindfulness means spending a long time exploring small things for almost no reason. It seems pointless but that's almost the point - doing pointless things can open you up to new ideas and  perspectives. This is what's known as practicing a "beginner's mind", practicing being a student instead of a teacher by exploring openly with minimal expectations. It can be incredibly humbling. That also means we don't skip practices because we've found something better to do. We practice for the sake of practice in a steady rhythm that flows from one practice to the next.
+Sometimes you can't see the forest from the trees. Practicing Mindfulness means spending a long time exploring small things for almost no reason. It seems pointless but that's almost the point - doing pointless things can open you up to new ideas and perspectives. This is what's known as practicing a "beginner's mind", practicing being a student instead of a teacher by exploring openly with minimal expectations. It can be incredibly humbling. That also means we don't skip practices because we've found something better to do. We practice for the sake of practice in a steady rhythm that flows from one practice to the next.
 
 Exploring openly builds awareness. When you lie down to meditate you're becoming aware of your headspace, when you stretch in yoga you become aware of your body and when you go for a walk around the park you become aware of your surroundings. It's simple but it's also powerful with enough practice. It helps break away from the tunnel vision that stress can give you and when you do that the things that were causing you stress just don't seem that important anymore.
 
