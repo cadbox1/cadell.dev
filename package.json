@@ -16,6 +16,7 @@
     "gatsby-theme-blog": "^1.2.35",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "typeface-source-sans-pro": "^0.0.75"
+    "typeface-source-sans-pro": "^0.0.75",
+    "typeface-source-serif-pro": "^1.1.13"
   }
 }

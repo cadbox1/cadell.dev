@@ -1,6 +1,7 @@
 import baseTheme from "gatsby-theme-blog/src/gatsby-plugin-theme-ui";
 
 import "typeface-source-sans-pro";
+import "typeface-source-serif-pro";
 
 export default {
 	...baseTheme,
@@ -8,7 +9,7 @@ export default {
 		useColorSchemeMediaQuery: true,
 		fonts: {
 			body:
-				'"source sans pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
+				'"source serif pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
 			heading:
 				'"source sans pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
 			monospace: `Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace`,
@@ -19,7 +20,7 @@ export default {
 		},
 		fontSizes: [16, 18, 21, 24, 32, 36, 44],
 		lineHeights: {
-			body: 1.7,
+			body: 1.6,
 			heading: 1.2,
 		},
 		fontWeights: {
@@ -29,6 +30,15 @@ export default {
 		},
 		styles: {
 			...baseTheme.styles,
+			h1: {
+				...baseTheme.styles.h2,
+				fontSize: 6,
+				marginBottom: 5,
+			},
+			h2: {
+				...baseTheme.styles.h2,
+				marginTop: 6,
+			},
 			a: {
 				...baseTheme.styles.a,
 				textDecoration: "none",
@@ -41,15 +51,11 @@ export default {
 				fontSize: 0,
 			},
 			ul: {
-				margin: 0,
-				padding: 0,
-				marginLeft: 4,
-				marginBottom: 4,
-				paddingLeft: 5,
+				marginTop: 0,
+				listStyleType: "disc",
 			},
-			h2: {
-				...baseTheme.styles.h2,
-				marginTop: 6,
+			li: {
+				margin: 0,
 			},
 		},
 	},

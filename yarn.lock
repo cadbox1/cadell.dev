@@ -12951,6 +12951,11 @@ typeface-source-sans-pro@^0.0.75:
   resolved "https://registry.yarnpkg.com/typeface-source-sans-pro/-/typeface-source-sans-pro-0.0.75.tgz#33e60ea079738c2dbdb2d0aa28f899f565e1646e"
   integrity sha512-8aI6ywe+5py1MoMQjdnuQKepOATSLpFoyatVMweF6JNUD8cu+sWaVEfZBN08CRxPrSC4KYTArf6prrQzcqpyQA==
 
+typeface-source-serif-pro@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-source-serif-pro/-/typeface-source-serif-pro-1.1.13.tgz#65ef53e40589fb54763abea033e394bcb412ae36"
+  integrity sha512-LfJYxVscKSpIK63sCO1OP2LzWTlFen/Lt3USPUUOzKqT53d83ZPy4dS2VV0Uac2IbgdQJQajhTH8dZUPGvcdBQ==
+
 typography-breakpoint-constants@^0.16.19:
   version "0.16.19"
   resolved "https://registry.yarnpkg.com/typography-breakpoint-constants/-/typography-breakpoint-constants-0.16.19.tgz#e0e89147749562cbb46ce76c47ff0f73372765e7"

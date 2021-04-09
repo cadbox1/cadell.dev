@@ -19,7 +19,7 @@ const navItemActiveStyles = {
 export default ({ title }) => {
 	const [colorMode, setColorMode] = useColorMode();
 	const isDark = colorMode === `dark`;
-	const toggleColorMode = e => {
+	const toggleColorMode = (e) => {
 		setColorMode(isDark ? `light` : `dark`);
 	};
 
@@ -32,6 +32,7 @@ export default ({ title }) => {
 				px: 3,
 				py: 2,
 				mb: 6,
+				fontFamily: "heading",
 			}}
 		>
 			<div sx={{ mx: -12 }}>

@@ -137,7 +137,7 @@ For me, Mindfulness is about exploring with patience and acceptance. You can exp
 
 Each practice is about:
 
-- Going yourself space to think openly.
+- Giving yourself space to think openly.
 - Exploring your senses, surroundings and yourself.
 - Practicing patience and acceptance.
 
