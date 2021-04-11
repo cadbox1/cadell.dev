@@ -19,7 +19,7 @@ export default ({ location, data }) => (
 			</Styled.h1>
 			<Styled.p sx={{ fontFamily: "heading", fontSize: 3 }}>
 				From product and design to coding and deployment, software development
-				is a team sport and I'm a developer that likes to build those teams.
+				is a team sport. I'm a developer that likes to build those teams.
 			</Styled.p>
 		</div>
 	</Layout>
