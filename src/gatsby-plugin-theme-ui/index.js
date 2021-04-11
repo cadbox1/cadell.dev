@@ -18,7 +18,7 @@ export default {
 		sizes: {
 			container: 850,
 		},
-		fontSizes: [16, 18, 21, 24, 32, 36, 44],
+		fontSizes: [14, 16, 20, 24, 32, 36, 44],
 		lineHeights: {
 			body: 1.6,
 			heading: 1.2,
@@ -51,8 +51,12 @@ export default {
 				fontSize: 0,
 			},
 			ul: {
-				marginTop: 0,
+				margin: 0,
+				marginBottom: 3,
 				listStyleType: "disc",
+				ul: {
+					marginBottom: 0,
+				},
 			},
 			li: {
 				margin: 0,

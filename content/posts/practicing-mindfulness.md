@@ -29,11 +29,11 @@ Allocate an hour but it will probably take less than that.
   - Stay lying down for slightly longer than you feel comfortable with. Aim for about 5 mins.
 - Yoga
   - Half Sun Salute
-    - https://www.youtube.com/watch?v=gFkC5HLpfFY
+    - [YouTube Video](https://www.youtube.com/watch?v=gFkC5HLpfFY)
     - Do about 3.
     - Aim for a gentle stretch.
   - Child's pose into Cobra
-    - https://www.youtube.com/watch?v=HerlEPvo5es
+    - [YouTube Video](https://www.youtube.com/watch?v=HerlEPvo5es)
     - Do about 3.
     - Aim for a gentle stretch.
 - Walking
