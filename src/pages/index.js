@@ -23,11 +23,12 @@ export default ({ location, data }) => (
 				is a team sport and I'm a developer that likes to build those teams.
 			</Styled.p>
 			<Styled.p sx={{ fontFamily: "heading", fontSize: 3 }}>
-				Find me on <Styled.a href="https://github.com/cadbox1">GitHub</Styled.a>{" "}
-				and{" "}
+				Find me on <Styled.a href="https://github.com/cadbox1">GitHub</Styled.a>
+				,{" "}
 				<Styled.a href="https://www.linkedin.com/in/cadell-christo-551146109/">
 					LinkedIn
-				</Styled.a>
+				</Styled.a>{" "}
+				or <Styled.a href="https://twitter.com/cadellchristo">Twitter</Styled.a>
 				.
 			</Styled.p>
 		</div>
