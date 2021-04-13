@@ -3,21 +3,21 @@ title: Practicing Mindfulness
 date: 2021-04-07
 ---
 
-I started Practicing Mindfulness regularly in mid-2020 but I didn't realise the impact it would have on me. I originally planned to practice for a week but it's now 2021 and I've been practicing ever since and after hundreds of hours has become an important part of my life.
+I've been practicing Mindfulness for about a year now and in that time it's become an important part of my life. I originally planned to practice twice a day for a week in 2020 but it's now 2021 and I've spent hundreds of hours practicing so I thought I would share some of my thoughts and experiences.
 
-Each practice consists of:
-
-- Meditation.
-- Yoga.
-- Walking.
-
-And each practice teaches me about:
+I think Mindfulness is largely about these three things:
 
 - Patience.
 - Acceptance.
 - Space.
 
-Practicing Mindfulness has been a uniquely weird and interesting experience but it's been really positive for me. I also believe Mindfulness is a personal experience so I'll explain how to practice first and talk more about my experience later.
+And I practice these with three different activities:
+
+- Meditation.
+- Yoga.
+- Walking.
+
+It's simple, but simple doesn't mean easy. It's been a weird and interesting experience like no other and has been really positive for me. I also believe Mindfulness is very personal so I'll explain how to practice first then talk more about my experience later.
 
 ## First Practice
 
@@ -38,10 +38,10 @@ Allocate an hour but it will probably take less than that.
     - Aim for a gentle stretch.
 - Walking
   - Preferably around nature.
-  - Around 1-2km
+  - Around 1-2km or around 20-30 minutes.
   - Walk slowly.
 
-There's not many instructions here but this will give you a good introduction to Mindfulness. There's not many details and the mediation is unguided and that's purposely done so you're free to explore. There's no right or wrong way to do it, we're simply creating a space for ourselves and doing so with patience and acceptance. Practicing is far more important than how you practice.
+It's deliberately simple with only a few instructions but I think this is a good introduction to Mindfulness. There's no right or wrong way to practice, making a space for ourselves to explore is the the important part. Practicing is far more important than how you practice.
 
 I strongly recommend trying this first practice before reading further.
 
@@ -61,32 +61,32 @@ I strongly recommend trying this first practice before reading further.
 
 ## Second Practice
 
-This second practice is similar to the first but we're also going to bring attention to our senses.
+This second practice is similar to the first with a little more direction.
 
 Allocate an hour but it will probably take less than that.
 
 - Meditation
-  - Lie on the floor with your eyes closed.
+  - Lie on the ground with your eyes closed.
   - Let your body settle for about a minute or so.
-  - Gently start to notice your breath. Notice how air enters and leaves your body. Notice how your diaphragm expands and collapses and what that feels like. Can you feel your breath affect any other parts of your body?
-  - It's important to do this with patience and acceptance. If you find it difficult to notice your breath or your body then practice being patient and accept that. Continue to breathe.
-  - If you find yourself thinking about something else then, when you're ready, gently bring your attention back to your breath. This is part of the practice and certainly not a problem.
-  - As you lie on the floor, notice what the ground feels like underneath you. Is there more pressure in some parts more than others? Have any sensations changed since you've been lying down? Slowly explore the sensations in your body.
+  - Gently bring attention to your breath. You might notice your diaphragm expanding and contracting or the sensation of breathing in your mouth. Do you notice your breath anywhere else in your body?
+  - If you don't notice much, that's perfectly fine and is part of practice. Practice patience and acceptance with whatever you're feeling or not feeling. Continue to breathe.
+  - If you find yourself thinking about something else, that's fine too and, again, is part of practice. When you're ready, gently bring attention back to your breath.
+  - Bring attention to what the ground feels like underneath your body. You might different sensations in different parts of your body or more pressure in some parts more than others. Gently explore the sensations in your body, they might change as you lie down longer. Allow your body to relax against the ground if it wants to.
   - Again, gently bring attention back to your breath at any time.
-  - Allow your body to relax against the floor if it wants to.
-  - Stay lying down for slightly longer than what feels comfortable.
+  - Practice for slightly longer than what feels comfortable.
 - Yoga
   - Do the same exercises as the first practice.
-  - Explore the sensations in your body as you stretch. Do they change as you stretch?
-  - Go slow, especially the transitions between positions.
+  - Explore the sensations in your body as you stretch.
+  - Go slow, especially for transitions between positions.
   - Gently bring attention back to your breath at any time.
 - Walking
-  - Explore the weather, the trees, your surroundings or how your muscles feel during your walk.
-  - Periodically bring your attention back to your breath.
+  - Explore your surroundings as you walk. You might notice the weather or the plants or animals around you.
+  - Explore the sensations of walking in your body. You might notice sensations in some parts more than others and might change as you walk for longer,
+  - Periodically bring attention back to your breath.
 
-Throughout each exercise we're bringing attention to our senses but doing so with patience and acceptance, slowly and gently. We also periodically bring attention back to our breath.
+Throughout each exercise we're bringing attention to our senses and surroundings but doing so with patience and acceptance, slowly and gently. We also periodically bring attention back to our breath.
 
-Again, there's no right or wrong way to do it; just practice.
+Again, there's no right or wrong way to do it, it's all about practice.
 
 I strongly recommend trying this second practice before reading further.
 
@@ -108,14 +108,12 @@ I strongly recommend trying this second practice before reading further.
 
 The first week is about practicing regularly and exploring further. Explore your senses, surroundings and yourself and do so with patience and acceptance.
 
-- 2 practices per day, one in the morning then again in the evening or at night.
+- 2 practices per day, one in the morning then again in the evening or night.
 - 5 days, Monday-Friday.
 
-That's about 10 hours in total.
+That's about 10 hours in total. I've found this is a good frequency to get started because each session can flow from the last.
 
-I think this is a good frequency to get started with because each session flows on from the last.
-
-If you found the previous 2 practices interesting, challenging or weird then I strongly recommend a week of practice before reading further.
+If you found the previous two practices interesting, challenging or weird then I strongly recommend practicing for a week before reading further.
 
 .
 
@@ -133,13 +131,15 @@ If you found the previous 2 practices interesting, challenging or weird then I s
 
 ## What is Mindfulness?
 
-For me, Mindfulness is about exploring with patience and acceptance. You can explore your senses, your surroundings and even yourself. Practicing Mindfulness means giving yourself space to think openly and explore with patience and acceptance.
+For me, Mindfulness is simply about exploring with patience and acceptance. You can explore almost anything - your senses, your surroundings, your thoughts, even yourself. 
 
-Each practice is about:
+Each practice consists of:
 
 - Giving yourself space to think openly.
-- Exploring your senses, surroundings and yourself.
+- Exploring your senses, surroundings, thoughts and/or yourself.
 - Practicing patience and acceptance.
+
+[ we should review the rest of this paragraph ]
 
 When you give yourself space and slow down, you're opening yourself up to quieter things happening around you. It's an invitation for sensations, feelings and thoughts and exploring them can be surprisingly immersive and insightful. I've found it incredibly humbling to discover little things happening around me that I didn't notice before, like how a rain drop dances from leaf to leaf as it lands on a plant. If you regularly open yourself up and explore what's around you then your perspective of what's around you can change and that can be really powerful.
 
