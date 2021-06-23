@@ -1,7 +1,6 @@
 ---
 title: I Write Notes
 date: 2021-06-23
-
 ---
 
 I write lots of notes and I've been writing them for a long time. How I write them changes quite regularly but I've found some strategies over the last few years that I rather like so I thought I would share them.
@@ -25,11 +24,11 @@ I found the switch pretty hard at first mainly because I couldn't draw diagrams 
 I have a document in Dynalist called Daily Notes where each day has a structure like this:
 
 - tasks
-  - 
+  -
 - wins
-  - 
+  -
 - problems
-  - 
+  -
 - (general notes)
 
 For example:
@@ -52,11 +51,11 @@ I like to roughly categorise my tasks. I'm a developer so my categories are:
 - coding - Actually developing code.
 - meeting - Sync time with people.
 
-I generally write down anything noteworthy and that usually turns out to be quite a lot. If in doubt, write it down. I'm always overwriting and underwriting so just experiment and find a level that works for you. I've also found myself being a bit too critical and trigger happy with wins and problems so I now prefer to put more in my general notes and leave the wins and problems for big stuff. That might be more of a me problem though.
+I generally write down anything noteworthy and that usually turns out to be quite a lot. I wrote 13,783 bullet points and 80,984 words in my Daily Notes for 2020 and I'm up to 7,910 bullet points and 50,504 words so far this year. If in doubt, write it down. I'm always overwriting and underwriting so just experiment and find a level that works for you. I've also found myself being a bit too critical and trigger happy with wins and problems so I now prefer to put more in my general notes and leave the wins and problems for big stuff. That might be more of a me problem though.
 
 ## Weekly, Monthly and Quarterly Notes
 
-I ended up writing so many Daily Notes that it was hard to find anything so I started writing notes for larger periods of time to highlight bigger ideas. 
+I ended up writing so many Daily Notes that it was hard to find anything so I started writing notes for larger periods of time to highlight bigger ideas.
 
 I have a Weekly Notes, Monthly Notes and Quarterly Notes document with the following structure:
 
@@ -98,14 +97,14 @@ It looks like this:
 
 - time blocks
   - 8 - , meeting - standup
-  - 9 - 
-  - 10 - 
-  - 11 - 
-  - 12 - 
-  - 1 - 
-  - 2 - 
-  - 3 - 
-- work time: 
+  - 9 -
+  - 10 -
+  - 11 -
+  - 12 -
+  - 1 -
+  - 2 -
+  - 3 -
+- work time:
 
 When it's filled out it might look something like this:
 
@@ -119,4 +118,4 @@ Whenever I have a random idea or task I don't have to do right away I'll write i
 
 ## Summary
 
-I write notes and that's kind of how I do it. Have a play, experiment and find what works for you. 
+I write notes and that's kind of how I do it. Have a play, experiment and find what works for you.
