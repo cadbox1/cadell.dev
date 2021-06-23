@@ -3,8 +3,6 @@ title: Practicing Mindfulness
 date: 2021-04-07
 ---
 
-[ work in progress ]
-
 I've been Practicing Mindfulness for about a year now and during that time it's since become an important part of my life. I originally planned to practice twice a day for a week in 2020 but it's now 2021 and I've practiced for hundreds of hours so I thought I would share some of my thoughts and experiences.
 
 For me, Mindfulness is about **exploring with patience and acceptance** and I practice it with three activities:
