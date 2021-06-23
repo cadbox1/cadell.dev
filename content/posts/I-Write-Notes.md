@@ -24,11 +24,8 @@ I found the switch pretty hard at first mainly because I couldn't draw diagrams 
 I have a document in Dynalist called Daily Notes where each day has a structure like this:
 
 - tasks
-  -
 - wins
-  -
 - problems
-  -
 - (general notes)
 
 For example:
