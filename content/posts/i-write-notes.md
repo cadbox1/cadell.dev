@@ -48,11 +48,11 @@ I like to roughly categorise my tasks. I'm a developer so my categories are:
 - coding - Actually developing code.
 - meeting - Sync time with people.
 
-I generally write down anything noteworthy and that usually turns out to be quite a lot. If in doubt, write it down but find a level that works for you. I'm always overwriting some things and underwriting others but that's fine. I've also found myself being a bit too critical and trigger happy with wins and problems so I now prefer to put more in my general notes and leave the wins and problems for big stuff. That might be more of a me problem but just something to be aware of.
+I generally write down anything noteworthy and that usually turns out to be quite a lot. If in doubt, write it down but find a level that works for you. I'm always overwriting some things and underwriting others but that's all part of the process. I've also found myself being a bit too critical and trigger happy with wins and problems so I now prefer to put more in my general notes and leave the wins and problems for big stuff. That might be more of a me problem though.
 
 ## Weekly, Monthly and Quarterly Notes
 
-I ended up writing so many Daily Notes that it was hard to find anything so I started writing notes for larger periods of time to highlight bigger ideas.
+Daily notes can become quite noisy so I like to summarise weeks, months and quarters to highlight bigger things. 
 
 I have a Weekly Notes, Monthly Notes and Quarterly Notes document with the following structure:
 
@@ -72,15 +72,15 @@ For example:
 
 ![weekly-notes](../assets/i-write-notes/weekly-notes.png)
 
-I write my Weekly Notes on a Monday morning and have it scheduled in my calendar for 45 mins and have something similar for the Monthly and Quarterly notes. I try and fill it out from memory first then go through my Daily Notes to fill in the blanks afterwards. Again, I try to put more in my general notes then move them around afterward. I also try to avoid chats and emails until I do my Weekly notes so I don't get distracted.
-
 The structure is pretty similar to Daily Notes with a few additions:
 
 - Summaries - all the daily summaries for the week in one place.
 - Actions - action points for the next week.
 - Projects - tasks organised by project.
 
-Writing notes at regular intervals helps professionally for performance reviews but I also like to reflect at a personal level as well. You might reflect on achievements or discover some recurring themes or problems and experiment with some actions for them. I've also fallen into the trap of being a little bit too ambitious with my actions and too critical with my results but you can work that out for yourself. Productivity is overrated anyway.
+I write my Weekly Notes on a Monday morning and it usually takes 45 mins. I've got it scheduled in my calendar and try to avoid chats and emails until they're done. I write my notes from memory first then go through my Daily Notes to fill in the blanks afterwards. I do something similar for my Monthly and Quarterly Notes where Weekly Notes rollup into Monthly Notes and Monthly Notes rollup into Quarterly Notes. 
+
+This makes performance reviews really easy but you can also reflect at a personal level as well. You might discover some recurring problems and set some actions for them or reflect on your achievements. I've also fallen into the trap of being a bit too critical and ambitious but, again, that might be more of a me problem.
 
 ## Projects
 
@@ -115,4 +115,4 @@ Whenever I have a random idea or task I don't have to do right away I'll write i
 
 ## Summary
 
-I write notes and that's kind of how I do it. Actually, these are just some of my favourite strategies so far because how I write them changes quite regularly. Experimenting is big part of writing notes so play around and experiment for yourself and you might find something that works for you.
+I write notes and that's kind of how I do it. Actually, these are just some of my favourite strategies so far because how I write them changes quite regularly. Experimenting is big part of writing notes so play around and experiment for yourself to find something that works for you.
