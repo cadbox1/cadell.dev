@@ -3,21 +3,21 @@ title: I Write Notes
 date: 2021-06-23
 ---
 
-I write lots of notes and I've been writing them for a long time. How I write them changes quite regularly but I've found some strategies over the last few years that I rather like so I thought I would share them.
+I write lots of notes. I wrote about 15,000 bullet points and 100,000 words in 2020 and I'm up to about 10,000 bullet points and 60,000 words so far this year. I've been writing them for years. I started in school and continued at uni and then decided to keep writing notes at my first job. I handwrote them in [Spirax A4 120 page notebooks](https://www.officeworks.com.au/shop/officeworks/p/spirax-a4-no-810-recycled-notebook-120-page-es56800) using [blue BIC finepoint pens](https://www.officeworks.com.au/shop/officeworks/p/bic-cristal-fine-point-ballpoint-pens-blue-12-pack-bi1411be), non-perforated because perforated pages fall out and 120 because it's big enough without being too big. I went through about 4 notebooks a year until one day my salad dressing container leaked in my bag and destroyed my notebook so I cracked the shits and went digital.
 
-## Tools
+## Dynalist
 
-I use [Dynalist](https://dynalist.io/) because:
+I use a tool called [Dynalist](https://dynalist.io/) because:
 
 - It's free. You can also pay to get features like uploading images.
 - It's in the cloud. My notes are backed up and available on my phone.
-- It's focussed on bullet points instead of documents and rich text. I love bullet points.
+- It's focussed on bullet points, instead of documents and rich text. I love bullet points.
 
-It's pretty similar to [Workflowy](https://workflowy.com/) if you've heard of it before.
+It's pretty similar to [Workflowy](https://workflowy.com/) if you've heard of that before.
 
-I handwrote notes at school and uni and kept it up professionally from 2015-2018. I used [Spirax A4 120 page notebooks](https://www.officeworks.com.au/shop/officeworks/p/spirax-a4-no-810-recycled-notebook-120-page-es56800) and [blue BIC finepoint pens](https://www.officeworks.com.au/shop/officeworks/p/bic-cristal-fine-point-ballpoint-pens-blue-12-pack-bi1411be). Non-perforated because perforated pages fall out and 120 because it's big enough without being too big. I would have gone through about 4 notebooks per year until my salad dressing container leaked in my bag and destroyed my notebook so I cracked the shits and went digital.
+Digital notes definitely have their advantages. They're not vulnerable to salad dressing and you can search through them to find things you wrote ages ago. Maybe you worked on something or made a decision or fixed a problem or maybe you just learnt something cool, it's all just a search away. That's handy because I found it a little bit easier remember handwritten notes but the search more than makes up for that.
 
-I found the switch pretty hard at first mainly because I couldn't draw diagrams anymore. I eventually found tools like [Mermaid](https://mermaid-js.github.io/) and their [Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) which let me draw a diagram, copy the link to it and paste it safely in my notes. They were also neater and I could share them with my team so that was nice too. I also found it harder to remember typed notes but that eventually got better and didn't matter as much because I could search through them.
+The biggest drawback to digital notes is not being able to draw on them and I'm still working on this area. At the moment I'm using [Mermaid](https://mermaid-js.github.io/) and their [Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) and [Miro](https://miro.com/) then I copy the link into my notes. [FigJam](https://www.figma.com/figjam/) also looks cool. Digital diagrams are great because they're more presentable and you can collaborate on them with your team if you need to. I think that outweighs the initial friction when using them. I still draw rough ideas on paper sometimes but I'll usually remake it in one of those tools afterwards.
 
 ## Daily Notes
 
@@ -48,7 +48,7 @@ I like to roughly categorise my tasks. I'm a developer so my categories are:
 - coding - Actually developing code.
 - meeting - Sync time with people.
 
-I generally write down anything noteworthy and that usually turns out to be quite a lot. I wrote 13,783 bullet points and 80,984 words in my Daily Notes for 2020 and I'm up to 7,910 bullet points and 50,504 words so far this year. If in doubt, write it down. I'm always overwriting and underwriting so just experiment and find a level that works for you. I've also found myself being a bit too critical and trigger happy with wins and problems so I now prefer to put more in my general notes and leave the wins and problems for big stuff. That might be more of a me problem though.
+I generally write down anything noteworthy and that usually turns out to be quite a lot. If in doubt, write it down but find a level that works for you. I'm always overwriting some things and underwriting others but that's fine. I've also found myself being a bit too critical and trigger happy with wins and problems so I now prefer to put more in my general notes and leave the wins and problems for big stuff. That might be more of a me problem but just something to be aware of.
 
 ## Weekly, Monthly and Quarterly Notes
 
@@ -115,4 +115,4 @@ Whenever I have a random idea or task I don't have to do right away I'll write i
 
 ## Summary
 
-I write notes and that's kind of how I do it. Have a play, experiment and find what works for you.
+I write notes and that's kind of how I do it. Actually, these are just some of my favourite strategies so far because how I write them changes quite regularly. Experimenting is big part of writing notes so play around and experiment for yourself and you might find something that works for you.
