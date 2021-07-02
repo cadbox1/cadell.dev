@@ -78,9 +78,9 @@ The structure is pretty similar to Daily Notes with a few additions:
 - Actions - action points for the next week.
 - Projects - tasks organised by project.
 
-I write my Weekly Notes on a Monday morning and it usually takes 45 mins. I've got it scheduled in my calendar and try to avoid chats and emails until they're done. I write my notes from memory first then go through my Daily Notes to fill in the blanks afterwards. I do something similar for my Monthly and Quarterly Notes where Weekly Notes rollup into Monthly Notes and Monthly Notes rollup into Quarterly Notes. 
+I write my Weekly Notes first thing on a Monday morning, before I read my chats and emails. It usually takes about 45 mins but I think it's well worth the time. I try write from memory first then use my Daily Notes to fill in the blanks. I do something similar for my Monthly and Quarterly Notes where Weekly Notes rollup into Monthly Notes and Monthly Notes rollup into Quarterly Notes.
 
-This makes performance reviews really easy but you can also reflect at a personal level as well. You might discover some recurring problems and set some actions for them or reflect on your achievements. I've also fallen into the trap of being a bit too critical and ambitious but, again, that might be more of a me problem.
+This makes performance reviews really easy but it's also an opportunity to reflect at a personal level as well. You might discover some recurring problems and set some actions for them or reflect on your achievements. I've also fallen into the trap of being a bit too critical and ambitious but, again, that might be more of a me problem.
 
 ## Projects
 
@@ -88,7 +88,7 @@ Sometimes a task lasts more than a few days and that's when it becomes a project
 
 ## Time blocks
 
-I've got a section in my Daily Notes called Time Blocks to get a rough idea of where I'm spending my time.
+I've got a section in my Daily Notes called Time Blocks to track where I'm spending my time in 30 minute blocks.
 
 It looks like this:
 
@@ -107,7 +107,7 @@ When it's filled out it might look something like this:
 
 ![time-blocks](../assets/i-write-notes/time-blocks.png)
 
-Basically, I record what I did in 30 minute blocks. If I did two things in an hour then I separate them with a comma and if I did the same task in the next hour then I use a tilde. The "meeting - standup" is part of my structure because I have it everyday and I don't want to rewrite it everyday. At the end of the day I add up the time and record it. I don't include the time blocks in my Weekly Notes but I've experimented with summing up the hours.
+If I do two things in an hour then I separate them with a comma and if I do the same task in the next hour then I use a tilde. The "meeting - standup" is a daily ritual so I put it into my structure so I don't have to rewrite it every day. At the end of the day I add up the time and record it. I don't include the time blocks in my Weekly Notes but I've experimented with summing up the hours.
 
 ## Work Tasks and Ideas
 
