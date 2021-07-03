@@ -78,7 +78,7 @@ The structure is pretty similar to Daily Notes with a few additions:
 - Actions - action points for the next week.
 - Projects - tasks organised by project.
 
-I write my Weekly Notes first thing on a Monday morning, before I read my chats and emails. It usually takes about 45 mins but I think it's well worth the time. I try write from memory first then use my Daily Notes to fill in the blanks. I do something similar for my Monthly and Quarterly Notes where Weekly Notes rollup into Monthly Notes and Monthly Notes rollup into Quarterly Notes.
+I write my Weekly Notes first thing on a Monday morning, before I read my chats and emails. It usually takes about 45 mins but I think it's well worth the time. I to try write notes from memory first then use my Daily Notes to fill in the blanks. It's similar for my Monthly and Quarterly Notes where Weekly Notes rollup into Monthly Notes and Monthly Notes rollup into Quarterly Notes.
 
 This makes performance reviews really easy but it's also an opportunity to reflect at a personal level as well. You might discover some recurring problems and set some actions for them or reflect on your achievements. I've also fallen into the trap of being a bit too critical and ambitious but, again, that might be more of a me problem.
 
