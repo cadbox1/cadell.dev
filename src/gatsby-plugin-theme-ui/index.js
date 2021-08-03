@@ -8,8 +8,7 @@ export default {
 	...{
 		useColorSchemeMediaQuery: true,
 		fonts: {
-			body:
-				'"source serif pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
+			body: '"source serif pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
 			heading:
 				'"source sans pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial',
 			monospace: `Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace`,
@@ -38,6 +37,10 @@ export default {
 			h2: {
 				...baseTheme.styles.h2,
 				marginTop: 6,
+			},
+			p: {
+				...baseTheme.styles.p,
+				marginBottom: 4,
 			},
 			a: {
 				...baseTheme.styles.a,
