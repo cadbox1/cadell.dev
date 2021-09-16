@@ -24,14 +24,8 @@ Allocate an hour but it will probably take less than that.
   - Set a timer for 10 minutes.
   - Stay lying down for slightly longer than you feel comfortable with. Aim for about 5 mins.
 - Yoga
-  - Half Sun Salute
-    - [YouTube Video](https://www.youtube.com/watch?v=gFkC5HLpfFY)
-    - Do about 3.
-    - Aim for a gentle stretch.
-  - Child's pose into Cobra
-    - [YouTube Video](https://www.youtube.com/watch?v=HerlEPvo5es)
-    - Do about 3.
-    - Aim for a gentle stretch.
+  - [Half Sun Salute](https://www.youtube.com/watch?v=gFkC5HLpfFY). Do about 3 and aim for a gentle stretch.
+  - [Child's pose into Cobra](https://www.youtube.com/watch?v=HerlEPvo5es). Do about 3 and aim for a gentle stretch.
 - Walking
   - Preferably around nature.
   - Around 1-2km or around 20-30 minutes.
@@ -129,13 +123,54 @@ And that's it. That's more or less what I've been doing for a year or so.
 
 ## What is Mindfulness?
 
-I think Mindfulness is about exploring with patience and acceptance. You can do this in lots of different ways. I regularly practice with Meditation, Yoga and Walking but you can bring Mindfulness into almost any part of your day. Like making a cup of tea and drinking it, for example. Exploring means bringing attention and awareness to things like your surroundings, your body or your thoughts. What you're doing is going to invite you to explore slightly different things. Yoga is about exploring your body, how it moves and what that feels like. Mediation is about slowing down and exploring deeply. You might explore your body, your surroundings or your thoughts. Walking allows you to explore the same things in a very different and more active way. It can be a bridge to bring Mindfulness into the rest of your day.
+- ~~Exploring with patience and acceptance~~
+- ~~It's more about how than what~~
+- ~~It's more about the journey than the destination~~
+- ~~You can't understand mindfulness by reading about it~~
+- ~~Create a space to open up and connect~~
+- Different activities invite you to connect with different things
+- Mindfulness is also about reflection, self-discovery and contemplation
+- Mindfulness helps you relax because you're practicing restful qualities
+- Slowing down can let you tune in to feelings of stress
+- Lean into discomfort
 
-We're opening ourselves up and inviting things to join us. We practice slowly and quietly so we can connect with the slower and quieter things around us and within us. Things that are too quiet to be noticed in our day to day lives. It can be incredibly humbling to discover more subtle things, things that were always there but hidden in plain sight. You can only see the stars at night and you can only see them at night if you look up. I've walked hundreds of laps around my local park and noticed fungus growing on the trees, bird calls and behaviours and how trees can look and sound different depending on the weather, the time of day and where you are. I've also found it incredibly humbling to connect with my body, particularly my hips. I found that they can move in ways I never thought possible and are deeply connected with our minds, lower back and posture. It's such a core part of my body that I was completely unaware of.
 
-Whatever we're exploring, it's important to practice patience and acceptance. That means allowing ourselves to feel whatever we feel, think whatever we think and notice whatever we notice. If you find meditation uncomfortable then practice sitting with that feeling and exploring it. Sometimes I feel a strong connection with my body and other times I can't hear anything over my thoughts. It's all part of practicing Mindfulness and we do the same in Yoga. We explore our range of motion and find the edges of that range. The edges create a space for us to explore and continue exploring over time, not to become more flexible but to connect with our bodies. 
 
-This idea ties back to Buddhism and I like how Yuval Noah Harari talks about it in his book, Sapiens.
+To me, Mindfulness is about exploring with patience and acceptance. We're exploring what's around us, our senses, our bodies and ourselves. It takes practice but we're not practicing to achieve something or feel a particular way, we're practicing for the sake of practice, practicing because we can. We're not actually doing much at all because we're tuning into what's happening instead of what we want to happen. It's more about being than doing, more about feeling than feeling good and more about a journey than a destination. It's simple but certainly not easy. You can bring Mindfulness into almost any activity because *how* you do things is more important than *what* you're doing. This might be difficult to understand partly because Mindfulness can't be fully understood by reading about it - you have to practice and experience it for yourself, on your own journey.
+
+When you slow down and practice patience and acceptance you're opening yourself up. We're creating a space and inviting sensations, feelings, thoughts and our environment to join us. We practice slowly and quietly so we can connect with slower and quieter things, things that are often too quiet to be noticed, hidden in plain sight. It can be incredibly humbling. You can only see the stars at night and only if you're outside looking up.
+
+
+
+[ different activities invite you to explore different things ]
+
+I've walked hundreds of laps around my local park and noticed fungus growing on the trees, bird calls and behaviours and how trees can look and sound different depending on the weather, the time of day and where you are. I've also found it incredibly humbling to connect with my body, particularly my hips. I found that they can move in ways I never thought possible and are deeply connected with our minds, lower back and posture. It's such a core part of my body that I was completely unaware of. Subtle things can become incredibly immersive if you give them the time and space. That's partly why Breathing is so important because it's probably the smallest thing we can do to exist.
+
+Whatever we're exploring, it's important to practice patience and acceptance. That means allowing ourselves to feel whatever we feel, think whatever we think and notice whatever we notice. If you find meditation uncomfortable then practice sitting with that feeling and exploring it. Sometimes I feel a strong connection with my body and other times I can't hear anything over my thoughts. It's all part of the journey. 
+
+We do the same in Yoga. We explore our range of motion and find the edges of that range. The edges create a space for us to explore and continue exploring over time, not to become more flexible but to connect with our bodies. 
+
+I like to watch the weather in my nearby park. Sometimes it's stormy, sometimes it's sunny, sometimes there's golden sunsets and other times it's dark. Whatever it is, I practice watching it. We often consider stormy weather to be bad weather but if you keep watching it with patience and acceptance then it doesn't seem so bad and I actually think it's rather beautiful. The weather works similar to our minds sometimes. We can be in lots of different states that we have no control of, just like the weather. We often associate them as either positive or negative but if you explore with patience and acceptance then you might see the beauty in even the most distressing and uncomfortable feelings and find a new appreciation for them.
+
+You can bring mindfulness into almost any activity. I regularly practice with Meditation, Yoga and Walking but you can bring Mindfulness into almost any part of your day. Like making a cup of tea and drinking it, for example. Exploring means bringing attention and awareness to things like your surroundings, your body or your thoughts. What you're doing is going to invite you to explore slightly different things. Yoga is about exploring your body, how it moves and what that feels like. Mediation is about slowing down and exploring deeply. You might explore your body, your surroundings or your thoughts. Walking allows you to explore the same things in a very different and more active way. It can be a bridge to bring Mindfulness into the rest of your day.
+
+
+
+[ Mindfulness is also about reflection, self-discovery and contemplation ]
+
+Practicing Mindfulness can give you a better understanding of yourself. When you're busy and stressed you're rushing to do lots of things. You don't have much time to think things through and act for the long term.
+
+Your mindset has a big impact on how you interpret things happening around you. When you're relaxed, you can do almost anything and still feel satisfied. You can walk around the park or simply sit on the ground and breathe and still enjoy yourself. Inconveniences don't bother you as much. If you go for a walk and you get rained on it doesn't matter and it can actually be quite enjoyable. Contrast that to when you're stressed and even enjoyable situations can be really frustrating. If you drive 30 minutes to your favourite cafe and they're closed that can be really annoying especially if you planned to meet a friend there and don't have an alternative.
+
+events + your mindset = perceived results 
+
+The simple way to approach this equation is to improve your mindset which should improve your perceived results. I haven't found this to be the case. Unfortunately, we're just not that simple. It requires understanding, instead of fixing, and we're complicated people so that takes time, patience and acceptance.
+
+When you slow down and do less, the events part of that equation approaches zero and what you're feeling is more of a result of your mindset. That's how Mindfulness can lead to a better understanding of yourself. It can also be really confronting. If you're in a tough place it can be really uncomfortable but it's really insightful to explore that discomfort. I realised that I really missed my grandparents who have passed, far more than I realised on a day to day basis.
+
+[ this can be uncomfortable ]
+
+These ideas come from Buddhism and I like how Yuval Noah Harari describes it in Sapiens.
 
 > If, when the mind experiences something pleasant or unpleasant, it simply understand things as they are, then there is no suffering. 
 >
@@ -143,9 +178,40 @@ This idea ties back to Buddhism and I like how Yuval Noah Harari talks about it 
 >
 > If you experience joy without craving that the joy linger and intensify, you continue to feel joy without losing your peace of mind.
 
-For me, Mindfulness is about feeling a particular way or achieving something. We're not practicing for perfection, we're just practicing. We practice for the sake of practice, practicing because we can. It's more about being than doing, more about feeling than feeling good and more about a journey than a destination. It's simple but powerful. Subtle things can become incredibly immersive if you give them the time and space. That's partly why Breathing is so important because it's probably the smallest thing we can do to exist. It takes months of practice and it's not something you can understand by reading about it. 
+How do you do that? Practice.
 
-## My Learning Experience
+Practicing restful qualities can shift you to a more restful state. It can be really uncomfortable to practice restful qualities when you're stressed but that discomfort is critical to the exercise. Don't shy away from it, explore it, sit with it and accept it. That builds understanding. Our day to day lives naturally lean towards the stress side because being resting isn't very profitable. The stress system is also addictive - it feels good to stress yourself and achieve something.
+
+[ time is critical ]
+
+[ open up ]
+
+| Rest                                         | Stress                                 |
+| -------------------------------------------- | -------------------------------------- |
+| **Time isn't critical**                      | **Time is critical**                   |
+| Slow                                         | Fast                                   |
+| Patient                                      | Impatient                              |
+| Mindful                                      | Compulsive                             |
+| Content                                      | Antsy                                  |
+| Accepting                                    | Critical                               |
+| Uncertainty is good                          | Uncertainty is bad                     |
+| Going with the flow                          | Measuring progress, making comparisons |
+| **Open**                                     | **Closed**                             |
+| Loose body                                   | Tight body                             |
+| Slow, deep breathing                         | Fast, shallow breathing                |
+| Exploring                                    | Goal-orientated                        |
+| Thinking about the present                   | Thinking about the future              |
+| Open to ideas                                | Focused                                |
+| Empathetic                                   | Self-absorbed                          |
+| Problems are opportunities for understanding | Problems need fixing                   |
+
+[ not sure where this bit should go]
+
+Being complacent can be scary because we often want to be proactive but it's important to recognise that complacency can also be productive. Not all feedback has to be actioned and not all problems have to be solved. This [article](https://blog.tjcx.me/p/the-perils-of-constant-feedback) talks about how feedback can result in local maximums in computer programs and I think it's the same for real life as well. Slow is smooth and smooth is fast.
+
+I seem to be more concerned with my identity when I'm stressed. "What am **I** going to do?", "How am **I** going to work this out?", "What's wrong with **me**?", "**I** need to fix this.". I think that's because we are more self-centred when we're stressed, similar to a pain response. Part of opening up means letting go of that identity and just be. I can never seem to do this at the time but it's always clear to me in hindsight that we should question who the **I** in that sentence is. Is it your compulsive, stressed, anxious self acting in your short term interests or is it your resilient, open minded, patient self.
+
+## My Experience
 
 Earlier this year I was feeling pretty shit. I wasn't sleeping well, I was tired, and I felt like I was failing all the time. I hated how I felt so I was desperate to fix whatever was causing it. I thought if I could just solve some problems in my life then everything would be okay and I would feel okay again. So I swallowed down my failures and went at it.
 
@@ -169,6 +235,8 @@ Finally, after a few months, I broke the cycle and felt good for two weeks in a 
 
 ## Burnout
 
+[ maybe talk about contributing factors? Also why I found it hard to ask for help? ]
+
 I've done a lot of reflection since my low point in 2020 and I'm pretty sure I was burnt out - my brain associated effort with failure. Recovery takes time where you'll cycle through symptoms like I did. It's commonly associated with long work hours, which I wasn't doing but I now realise it's more to do with stress and recovery. I won't go into too much detail about what burnout is here but [Emotional resilience and burnout in leadership](https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing), from [resilient.wiki](https://resilient.wiki/), is a good place to start.
 
 Stress has been a big part of my career, so much so that I wasn't even aware of it. I write my tasks in a list, complete them one by one and I push myself to get as many done as possible. Pushing myself means applying stress which helps block out distractions and helps you focus. I was pretty good at it after practicing every working day for years and it felt nice to be productive and be recognised for it. It was part of my identity.
@@ -178,6 +246,14 @@ Many people have no issues doing this. I didn't either until I found myself in a
 At some point it affected my sleep, which affected my judgement, which led to more failure, more stress, less sleep and the cycle continued. I didn't even know why I couldn't sleep at the time. I was so conditioned to stress that I wasn't even aware of how stressed I was. I remember thinking "All I need to do is get a good night's sleep" which, ironically, makes it really hard to sleep. To make things words, being tired meant running on autopilot and falling into old habits, the same ones that were keeping me awake at night.
 
 It all sounds so silly to think back on now but at the time I couldn't see things any other way. I now know that's exactly how stress works - it makes you focus on something urgent. Unfortunately, that tunnel vision can also leave you blind to your surroundings and reality. It can make you feel like a failure when you're surrounded by success and make you feel isolated when you're surrounded by loved ones. It makes it hard to connect with anything or anyone. I never thought about killing myself but I think I have a better understanding of how someone might get to that point.
+
+
+
+[ I felt like I was being run off a treadmill going too fast, I was desperately trying to keep up but I was failing an eventually I gave up because it felt like there was no point anymore]
+
+[ maybe this should be problems vs capacity to fix problems ]
+
+![Rate of Problems vs Output](../../content/assets/practicing-mindfulness/Rate of Problems vs Output.drawio.png)
 
 ## Perspective
 
@@ -197,6 +273,14 @@ I often find myself thinking about my grandparents who have passed when I practi
 
 Practicing Mindfulness has been a uniquely interesting experience. It's certainly changed how I think about things and that's probably because I've explored and experienced things I never have before. I feel like I have a better understanding of myself, my body and what's around me and I feel more resilient. I used to strive for happiness and success but now I think they're rather fickle, short-lived and short-sighted. Now I strive to balance that with Mindfulness - exploring openly with patience and acceptance. This isn't a destination, it's just a rough description of where I'm at on my journey. I'll continue to wander, wonder and practice.
 
+## Conclusion
+
+[ maybe make this more conclusive? ]
+
+[ I find mindfulness suits me well but that might be because my personality naturally tends to lean more towards stress ]
+
+This is close to the first essay I've written since high school. I've always found longer forms of writing difficult and a personal topic like this was even more so. Mindfulness was the inspiration for this essay but it was also the method. It's taken hundreds of hours over many months and has been an exercise in accepting where my writing skills are at and practicing patience while I worked on them. It's tested me immensely but I'm glad I could find some words to somewhat reflect my experience, even if it's just a reminder for my future self.
+
 ## More Ideas
 
 Mindfulness is a personal journey so it's important to explore what works for you. Here's some ideas to experiment with:
@@ -213,12 +297,16 @@ Mindfulness is a personal journey so it's important to explore what works for yo
 - Practice different schedules. I personally like first thing in the morning and then straight after work but I've also enjoyed practicing at night, particularly walking around my park at night.
 - Try out some local yoga classes.
 
-## Writing
-
-This is close to the first essay I've written since high school. I've always found longer forms of writing difficult and a personal topic like this was even more so. Mindfulness was the inspiration for this essay but it was also the method. It's taken hundreds of hours over many months and has been an exercise in accepting where my writing skills are at and practicing patience while I worked on them. It's tested me immensely but I'm glad I could find some words to somewhat reflect my experience, even if it's just a reminder for my future self.
-
 ## More Resources
 
 - [Cam Watkins on Instagram](https://www.instagram.com/cammwat/?hl=en).
+- [How to Do Nothing: Resisting the Attention Economy by Jenny Odell](https://blogs.lse.ac.uk/usappblog/2020/03/01/book-review-how-to-do-nothing-resisting-the-attention-economy-by-jenny-odell/). Haven't read it but it sounds interesting.
+- [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html) and [comments](https://news.ycombinator.com/item?id=26931359).
+- My Octopus Teacher on Netflix.
 - Add more later.
 
+## Timeline
+
+3/6/21 - copy edit.
+
+1/8/20 - started writing.
