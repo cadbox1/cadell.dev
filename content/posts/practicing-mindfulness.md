@@ -130,29 +130,31 @@ And that's it. That's more or less what I've been doing for a year or so.
 - ~~Create a space to open up and connect~~
 - Different activities invite you to connect with different things
 - Mindfulness is also about reflection, self-discovery and contemplation
-- Mindfulness helps you relax because you're practicing restful qualities
 - Slowing down can let you tune in to feelings of stress
+- Mindfulness helps you relax because you're practicing restful qualities
 - Lean into discomfort
 
 
 
 To me, Mindfulness is about exploring with patience and acceptance. We're exploring what's around us, our senses, our bodies and ourselves. It takes practice but we're not practicing to achieve something or feel a particular way, we're practicing for the sake of practice, practicing because we can. We're not actually doing much at all because we're tuning into what's happening instead of what we want to happen. It's more about being than doing, more about feeling than feeling good and more about a journey than a destination. It's simple but certainly not easy. You can bring Mindfulness into almost any activity because *how* you do things is more important than *what* you're doing. This might be difficult to understand partly because Mindfulness can't be fully understood by reading about it - you have to practice and experience it for yourself, on your own journey.
 
-When we slow down, and practice patience and acceptance, we're opening ourselves up. We're creating a space and allowing our environment, sensations, feelings and thoughts to join us. It's like an invitation. We practice slowly and quietly so we can connect with slower and quieter things, things that are often too quiet to be noticed, hidden in plain sight. You can only see the stars at night, and only if you're outside looking up. It can be incredibly humbling. Sometimes we might not find anything and other times we might find distress or discomfort and that's all part of the practice. It's an opportunity to practice patience and acceptance, not to relieve that tension but to explore it.
+When we slow down, and practice patience and acceptance, we're opening ourselves up. We're creating a space and allowing our environment, sensations, feelings and thoughts to join us. It's like an invitation. We practice slowly and quietly so we can connect with slower and quieter things, things that are often too quiet to be noticed, hidden in plain sight. You can only see the stars at night, and only if you're outside looking up. Subtle things can become incredibly immersive if you give them the time and space and it can be incredibly humbling. Sometimes we might not find anything and other times we might find distress or discomfort and that's all part of the practice. It's an opportunity to practice patience and acceptance, not to relieve that tension but to explore it.
+
+[ can probably refine this ]
+
+Different activities are going to invite us to explore different things. I practice mindfulness regularly with meditation, yoga and walking but you can bring mindfulness into almost any activity, like sitting on the couch, making a cup of tea, having a shower or even exercising. Meditation is most commonly associated with mindfulness and it can be powerful but it can also be uncomfortable and difficult. It's the quietest activity because you're not doing much at all and that's exactly the point. We're creating a space and giving us an opportunity to explore. You might notice sensations in your body, sounds from your environment or thoughts and feelings. We practice with patience and acceptance. We allow ourselves to feel whatever we feel, think whatever we think and notice whatever we notice. Just breathe. If you find meditation uncomfortable then practice sitting with that feeling and exploring it. Sometimes I feel a strong connection with my body and other times I can't hear anything over my thoughts. It's all part of the journey.
 
 
 
-[ different activities invite you to explore different things ]
+[ Yoga is about exploring your body, how it moves and what that feels like. ]
 
-You can bring mindfulness into almost any activity. I regularly practice with Meditation, Yoga and Walking but you can bring Mindfulness into almost any part of your day. Like making a cup of tea and drinking it, for example. What you're doing is going to invite you to explore slightly different things. Yoga is about exploring your body, how it moves and what that feels like. Mediation is about slowing down and exploring deeply. You might explore your body, your surroundings or your thoughts. Walking allows you to explore the same things in a very different and more active way. It can be a bridge to bring Mindfulness into the rest of your day.
+We do the same in Yoga. We explore our range of motion and find the edges of that range. The edges create a space for us to explore and continue exploring over time, not to become more flexible but to explore and connect with our bodies. 
 
-[Meditation is a quiet activity and that can be uncomfortable]
+I've also found it incredibly humbling to connect with my body, particularly my hips. I found that they can move in ways I never thought possible and are deeply connected with our minds, lower back and posture. It's such a core part of my body that I was completely unaware of.
 
-Whatever we're exploring, it's important to practice patience and acceptance. That means allowing ourselves to feel whatever we feel, think whatever we think and notice whatever we notice. If you find meditation uncomfortable then practice sitting with that feeling and exploring it. Sometimes I feel a strong connection with my body and other times I can't hear anything over my thoughts. It's all part of the journey. 
 
-We do the same in Yoga. We explore our range of motion and find the edges of that range. The edges create a space for us to explore and continue exploring over time, not to become more flexible but to connect with our bodies. 
 
-I've also found it incredibly humbling to connect with my body, particularly my hips. I found that they can move in ways I never thought possible and are deeply connected with our minds, lower back and posture. It's such a core part of my body that I was completely unaware of. Subtle things can become incredibly immersive if you give them the time and space. That's partly why Breathing is so important because it's probably the smallest thing we can do to exist.
+[ walking, watching nature, bridge to contemplation section ]
 
 I've walked hundreds of laps around my local park and noticed fungus growing on the trees, bird calls and behaviours and how trees can look and sound different depending on the weather, the time of day and where you are.
 
@@ -165,6 +167,8 @@ I like to watch the weather in my nearby park. Sometimes it's stormy, sometimes 
 [ Mindfulness is also about reflection, self-discovery and contemplation ]
 
 Practicing Mindfulness also means creating a space for contemplation, reflection and self-discovery. There's very little stimulus to distract us and what we're left with is ourselves. What do you find? At first, you might find yourself thinking about things in your day to day but that might change if you keep practicing and keep creating a space to reflect. We often think we have a good idea of who we are but I certainly didn't until I started practicing. I don't even think I understood what that meant.
+
+[ That's partly why Breathing is so important because it's probably the smallest thing we can do to exist. ]
 
 Practicing Mindfulness can give you a better understanding of yourself. When you're busy and stressed you're rushing to do lots of things. You don't have much time to think things through and act for the long term.
 
