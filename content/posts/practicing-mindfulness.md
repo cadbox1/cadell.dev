@@ -134,41 +134,25 @@ And that's it. That's more or less what I've been doing for a year or so.
 - Mindfulness helps you relax because you're practicing restful qualities
 - Lean into discomfort
 
-
-
 To me, Mindfulness is about exploring with patience and acceptance. We're exploring what's around us, our senses, our bodies and ourselves. It takes practice but we're not practicing to achieve something or feel a particular way, we're practicing for the sake of practice, practicing because we can. We're not actually doing much at all because we're tuning into what's happening instead of what we want to happen. It's more about being than doing, more about feeling than feeling good and more about a journey than a destination. It's simple but certainly not easy. You can bring Mindfulness into almost any activity because *how* you do things is more important than *what* you're doing. This might be difficult to understand partly because Mindfulness can't be fully understood by reading about it - you have to practice and experience it for yourself, on your own journey.
 
-When we slow down, and practice patience and acceptance, we're opening ourselves up. We're creating a space and allowing our environment, sensations, feelings and thoughts to join us. It's like an invitation. We practice slowly and quietly so we can connect with slower and quieter things, things that are often too quiet to be noticed, hidden in plain sight. You can only see the stars at night, and only if you're outside looking up. Subtle things can become incredibly immersive if you give them the time and space and it can be incredibly humbling. Sometimes we might not find anything and other times we might find distress or discomfort and that's all part of the practice. It's an opportunity to practice patience and acceptance, not to relieve that tension but to explore it.
+When we slow down, and practice patience and acceptance, we're opening ourselves up. We're creating a space and allowing our environment, sensations, feelings and thoughts to join us. It's like an invitation. We practice slowly and quietly so we can connect with slower and quieter things, things that are often too quiet to be noticed, hidden in plain sight. You can only see the stars at night, and only if you're outside looking up. Subtle things can become incredibly immersive if you give them the time and space and it can be incredibly humbling. Sometimes we might not find anything and other times we might find distress or discomfort and that's all part of the practice. It's an opportunity to practice patience and acceptance, not to relieve that tension but to explore it. [ beginner's mind ]
 
-[ can probably refine this ]
+Different activities are going to invite us to explore different things. I practice mindfulness regularly with meditation, yoga and walking but you can bring mindfulness into almost any activity, like sitting on the couch, making a cup of tea, having a shower or even exercising. Meditation is most commonly associated with mindfulness and it can be powerful but it can also be uncomfortable and difficult. It's the quietest activity because you're not doing much at all and that's exactly the point. We're creating a space and giving us an opportunity to explore. You might notice sensations in your body, sounds from your environment or thoughts and feelings. We practice with patience and acceptance. We allow ourselves to feel whatever we feel, think whatever we think and notice whatever we notice. Just breathe. If you find meditation uncomfortable then practice sitting with that feeling and exploring it. Sometimes I feel a strong connection with my body and surroundings and other times I can't hear anything over my thoughts. It's all part of the journey. [ breathing is important ]
 
-Different activities are going to invite us to explore different things. I practice mindfulness regularly with meditation, yoga and walking but you can bring mindfulness into almost any activity, like sitting on the couch, making a cup of tea, having a shower or even exercising. Meditation is most commonly associated with mindfulness and it can be powerful but it can also be uncomfortable and difficult. It's the quietest activity because you're not doing much at all and that's exactly the point. We're creating a space and giving us an opportunity to explore. You might notice sensations in your body, sounds from your environment or thoughts and feelings. We practice with patience and acceptance. We allow ourselves to feel whatever we feel, think whatever we think and notice whatever we notice. Just breathe. If you find meditation uncomfortable then practice sitting with that feeling and exploring it. Sometimes I feel a strong connection with my body and other times I can't hear anything over my thoughts. It's all part of the journey.
+[ ^ can probably refine this a bit ]
 
+Yoga is about exploring your body, how it moves and what that feels like. The intention isn't it improve our flexibility but to explore our range of motion, finding the edges of that range and noticing what that feels like. The edges will change over time with practice and exploring that can be really interesting because it builds a connection with your body. I've found it incredibly humbling, particularly with my hips. I found that they can move in ways I never thought possible and are deeply connected with our minds, lower back and posture. It's such a core part of my body I was completely unaware of.
 
+[ ^ can probably refine this a bit ]
 
-[ Yoga is about exploring your body, how it moves and what that feels like. ]
-
-We do the same in Yoga. We explore our range of motion and find the edges of that range. The edges create a space for us to explore and continue exploring over time, not to become more flexible but to explore and connect with our bodies. 
-
-I've also found it incredibly humbling to connect with my body, particularly my hips. I found that they can move in ways I never thought possible and are deeply connected with our minds, lower back and posture. It's such a core part of my body that I was completely unaware of.
-
-
-
-[ walking, watching nature, bridge to contemplation section ]
-
-I've walked hundreds of laps around my local park and noticed fungus growing on the trees, bird calls and behaviours and how trees can look and sound different depending on the weather, the time of day and where you are.
-
-I like to watch the weather in my nearby park. Sometimes it's stormy, sometimes it's sunny, sometimes there's golden sunsets and other times it's dark. Whatever it is, I practice watching it. We often consider stormy weather to be bad weather but if you keep watching it with patience and acceptance then it doesn't seem so bad and I actually think it's rather beautiful. The weather works similar to our minds sometimes. We can be in lots of different states that we have no control of, just like the weather. We often associate them as either positive or negative but if you explore with patience and acceptance then you might see the beauty in even the most distressing and uncomfortable feelings and find a new appreciation for them.
-
-
-
-
+Walking is one of the more active mindfulness activities to practice. There's more things happening and I've found it can act as a nice bridge between quiet meditation and yoga and the rest of your day. I've walked hundreds of laps around my local park and noticed fungi growing and receding, different types of birds and their calls and different trees, how they sound as the wind rustles their leaves and how different lighting can change how they appear. It always surprises me to see how beautiful a massive gum tree can be in the morning light. I also like to watch the weather. Sometimes it's stormy and other times it's sunny, sometimes there's golden sunsets and other times it's dark. I practice watching it whatever it is. Stormy weather is often considered to be bad weather but I actually think it's rather beautiful when I watch it with patience and acceptance. It's similar to our minds. We can be in lots of different states and we're not in control of them. Some are often considered bad or negative but if we explore them with patience and acceptance we can find the beauty in them. We can learn to appreciate even the most distressing and uncomfortable feelings and maybe even be grateful for them.
 
 [ Mindfulness is also about reflection, self-discovery and contemplation ]
 
 Practicing Mindfulness also means creating a space for contemplation, reflection and self-discovery. There's very little stimulus to distract us and what we're left with is ourselves. What do you find? At first, you might find yourself thinking about things in your day to day but that might change if you keep practicing and keep creating a space to reflect. We often think we have a good idea of who we are but I certainly didn't until I started practicing. I don't even think I understood what that meant.
 
-[ That's partly why Breathing is so important because it's probably the smallest thing we can do to exist. ]
+[ That's partly why breathing is so important because it's probably the smallest thing we can do to exist. ]
 
 Practicing Mindfulness can give you a better understanding of yourself. When you're busy and stressed you're rushing to do lots of things. You don't have much time to think things through and act for the long term.
 
@@ -191,6 +175,8 @@ These ideas come from Buddhism and I like how Yuval Noah Harari describes it in 
 > If you experience joy without craving that the joy linger and intensify, you continue to feel joy without losing your peace of mind.
 
 How do you do that? Practice.
+
+[ your mental state extends when you practice mindfulness just like your flexibility extends when you practice yoga ]
 
 Practicing restful qualities can shift you to a more restful state. It can be really uncomfortable to practice restful qualities when you're stressed but that discomfort is critical to the exercise. Don't shy away from it, explore it, sit with it and accept it. That builds understanding. Our day to day lives naturally lean towards the stress side because being resting isn't very profitable. The stress system is also addictive - it feels good to stress yourself and achieve something.
 
