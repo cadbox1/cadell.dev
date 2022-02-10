@@ -1,18 +1,14 @@
-/** @jsxRuntime classic /
-/** @jsx jsx */
 import React from "react";
-import { jsx, Themed, ThemeProvider } from "theme-ui";
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
 import Head from "next/head";
 import hydrate from "next-mdx-remote/hydrate";
 import renderToString from "next-mdx-remote/render-to-string";
-import { Layout } from "../../components/Layout";
 import { DateFormatter } from "../../components/DateFormatter";
 import { BasicPost, getPostBySlug, getPosts } from "../../lib/api";
-import { CMS_NAME } from "..";
 import { MdxRemote } from "next-mdx-remote/types";
-import theme from "../../theme";
+import { blogContainerClass } from "./styles.css";
+import { H1, MdxProvider } from "cadells-vanilla-components";
 
 interface PostProps {
 	post: BasicPost;
@@ -32,17 +28,13 @@ export default function Post({ post, source }: PostProps) {
 	return (
 		<>
 			<Head>
-				<title>
-					{title} | {CMS_NAME}
-				</title>
+				<title>{title} | Cadell.dev</title>
 			</Head>
-			<Layout>
-				<article>
-					<Themed.h1 sx={{ mb: 4 }}>{title}</Themed.h1>
-					<DateFormatter dateString={dateString} />
-					<div>{content}</div>
-				</article>
-			</Layout>
+			<article className={blogContainerClass}>
+				<H1>{title}</H1>
+				<DateFormatter dateString={dateString} />
+				<div>{content}</div>
+			</article>
 		</>
 	);
 }
@@ -62,8 +54,8 @@ export async function getStaticProps({ params }: Params) {
 			rehypePlugins: [],
 		},
 		provider: {
-			component: ThemeProvider,
-			props: { theme },
+			component: MdxProvider,
+			props: undefined,
 		},
 		scope: undefined,
 	});
