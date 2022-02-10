@@ -1,6 +1,6 @@
 ---
 title: On Writing
-date: 2021-07-22
+date: "2021-07-22"
 ---
 
 I want to get better at writing. I'd love to be able to turn ideas into articles and share them with my friends and family and hear what they have to say about them. Instead, my ideas are almost a burden because they take months to write and frustrate me so much that I wonder why I'm writing them in the first place. There's plenty of room for improvement here.
@@ -21,7 +21,7 @@ Now I'm starting a new strategy - write everyday. I recently found this article,
 
 I've started waking up at 6am before work, practicing mindfulness with meditation and yoga, then writing until I start work at 8:30am. That's about 90 minutes of writing. I've found it much easier to flow between sessions with a daily cadence than a weekly cadence, particularly at my level. Waking up early has been a bit of a transition though. I enjoyed the challenge the first week then I became really tired and frustrated the second week where I wrote my article on[ writing notes](https://cadell.dev/blog/i-write-notes/). I felt pressured to make progress because I was tired and up so early so I rushed through it and I think it comes through in the article. I'm just not at the level where that mindset is productive but it was good practice. My bedtime has somehow adjusted to 9:30pm now and it's not so hard to wake up anymore and I think it will become easier with summer approaching.
 
- I’m feeling much better about this article and enjoyed the 5 sessions it took to finish it. I thought about working on my [Practicing Mindfulness](https://cadell.dev/blog/practicing-mindfulness/) article since I started it so long ago but this was a fun idea and I want to write about fun ideas. At my level, writing is far more important than what I'm writing so I suppose this is productive procrastination. I'm just going to write every day and hopefully that turns into articles. And if it doesn't, well, at least I showed up. Now that I think about it, Elizabeth Gilbert talks about something similar in her Ted Talk, [Your elusive creative genius](https://www.youtube.com/watch?v=86x-u-tz0MA) (thanks David for the tip!). What a fun note to finish on.
+I’m feeling much better about this article and enjoyed the 5 sessions it took to finish it. I thought about working on my [Practicing Mindfulness](https://cadell.dev/blog/practicing-mindfulness/) article since I started it so long ago but this was a fun idea and I want to write about fun ideas. At my level, writing is far more important than what I'm writing so I suppose this is productive procrastination. I'm just going to write every day and hopefully that turns into articles. And if it doesn't, well, at least I showed up. Now that I think about it, Elizabeth Gilbert talks about something similar in her Ted Talk, [Your elusive creative genius](https://www.youtube.com/watch?v=86x-u-tz0MA) (thanks David for the tip!). What a fun note to finish on.
 
 Here's some other writing resources I've found interesting:
 

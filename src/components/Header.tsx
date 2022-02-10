@@ -1,12 +1,15 @@
+/** @jsxRuntime classic /
 /** @jsx jsx */
+import React from "react";
 import { jsx } from "theme-ui";
-import { Link } from "gatsby";
 import { useColorMode } from "theme-ui";
+import { CMS_NAME } from "../pages";
+import { NavLink } from "./NavLink";
 
 const navItemStyles = {
-	mx: 12,
+	mx: 3,
 	fontWeight: 600,
-	fontSize: 22,
+	fontSize: 2,
 	textDecoration: "none",
 	color: "text",
 };
@@ -16,10 +19,10 @@ const navItemActiveStyles = {
 	cursor: "default",
 };
 
-export default ({ title }) => {
+export function Header() {
 	const [colorMode, setColorMode] = useColorMode();
 	const isDark = colorMode === `dark`;
-	const toggleColorMode = (e) => {
+	const toggleColorMode = () => {
 		setColorMode(isDark ? `light` : `dark`);
 	};
 
@@ -27,21 +30,21 @@ export default ({ title }) => {
 		<nav
 			sx={{
 				display: "flex",
-				maxWidth: `container`,
-				mx: `auto`,
-				px: 3,
-				py: 2,
-				mb: 6,
-				fontFamily: "heading",
+				alignItems: "center",
+				pb: 5,
 			}}
 		>
-			<div sx={{ mx: -12 }}>
-				<Link to={`/`} sx={navItemStyles} activeStyle={navItemActiveStyles}>
-					{title}
-				</Link>
-				<Link to={`/blog`} sx={navItemStyles} activeStyle={navItemActiveStyles}>
+			<div sx={{ mx: -navItemStyles.mx }}>
+				<NavLink href="/" linkSx={navItemStyles} activeSx={navItemActiveStyles}>
+					{CMS_NAME}
+				</NavLink>
+				<NavLink
+					href="/blog"
+					linkSx={navItemStyles}
+					activeSx={navItemActiveStyles}
+				>
 					Blog
-				</Link>
+				</NavLink>
 			</div>
 
 			<div sx={{ ml: "auto" }}>
@@ -49,7 +52,7 @@ export default ({ title }) => {
 					onClick={toggleColorMode}
 					sx={{
 						fontWeight: "bold",
-						fontSize: 16,
+						fontSize: 0,
 						backgroundColor: "muted",
 						py: 3,
 						px: 4,
@@ -63,4 +66,4 @@ export default ({ title }) => {
 			</div>
 		</nav>
 	);
-};
+}

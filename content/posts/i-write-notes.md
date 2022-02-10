@@ -1,6 +1,6 @@
 ---
 title: I Write Notes
-date: 2021-06-23
+date: "2021-06-23"
 ---
 
 I write lots of notes. I wrote about 15,000 bullet points and 100,000 words in 2020 and I'm up to about 10,000 bullet points and 60,000 words so far this year. I've been writing them for years. I started in school and continued at uni and then decided to keep writing notes at my first job. I handwrote them in [Spirax A4 120 page notebooks](https://www.officeworks.com.au/shop/officeworks/p/spirax-a4-no-810-recycled-notebook-120-page-es56800) using [blue BIC finepoint pens](https://www.officeworks.com.au/shop/officeworks/p/bic-cristal-fine-point-ballpoint-pens-blue-12-pack-bi1411be), non-perforated because perforated pages fall out and 120 because it's big enough without being too big. I went through about 4 notebooks a year until one day my salad dressing container leaked in my bag and destroyed my notebook so I cracked the shits and went digital.
@@ -30,7 +30,7 @@ I have a document in Dynalist called Daily Notes where each day has a structure 
 
 For example:
 
-![daily-notes](../assets/i-write-notes/daily-notes.png)
+![daily-notes](/assets/i-write-notes/daily-notes.png)
 
 I do this each day:
 
@@ -52,7 +52,7 @@ I generally write down anything noteworthy and that usually turns out to be quit
 
 ## Weekly, Monthly and Quarterly Notes
 
-Daily notes can become quite noisy so I like to summarise weeks, months and quarters to highlight bigger things. 
+Daily notes can become quite noisy so I like to summarise weeks, months and quarters to highlight bigger things.
 
 I have a Weekly Notes, Monthly Notes and Quarterly Notes document with the following structure:
 
@@ -70,7 +70,7 @@ I have a Weekly Notes, Monthly Notes and Quarterly Notes document with the follo
 
 For example:
 
-![weekly-notes](../assets/i-write-notes/weekly-notes.png)
+![weekly-notes](/assets/i-write-notes/weekly-notes.png)
 
 The structure is pretty similar to Daily Notes with a few additions:
 
@@ -105,7 +105,7 @@ It looks like this:
 
 When it's filled out it might look something like this:
 
-![time-blocks](../assets/i-write-notes/time-blocks.png)
+![time-blocks](/assets/i-write-notes/time-blocks.png)
 
 If I do two things in an hour then I separate them with a comma and if I do the same task in the next hour then I use a tilde. The "meeting - standup" is a daily ritual so I put it into my structure so I don't have to rewrite it every day. At the end of the day I add up the time and record it. I don't include the time blocks in my Weekly Notes but I've experimented with summing up the hours.
 

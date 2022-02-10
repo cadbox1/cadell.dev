@@ -1,6 +1,6 @@
 ---
 title: Practicing Mindfulness
-date: 2021-04-07
+date: "2021-04-07"
 ---
 
 [ work in progress ]
@@ -134,7 +134,7 @@ And that's it. That's more or less what I've been doing for a year or so.
 - Mindfulness helps you relax because you're practicing restful qualities
 - Lean into discomfort
 
-To me, Mindfulness is about exploring with patience and acceptance. We're exploring what's around us, our senses, our bodies and ourselves. It takes practice but we're not practicing to achieve something or feel a particular way, we're practicing for the sake of practice, practicing because we can. We're not actually doing much at all because we're tuning into what's happening instead of what we want to happen. It's more about being than doing, more about feeling than feeling good and more about a journey than a destination. It's simple but certainly not easy. You can bring Mindfulness into almost any activity because *how* you do things is more important than *what* you're doing. This might be difficult to understand partly because Mindfulness can't be fully understood by reading about it - you have to practice and experience it for yourself, on your own journey.
+To me, Mindfulness is about exploring with patience and acceptance. We're exploring what's around us, our senses, our bodies and ourselves. It takes practice but we're not practicing to achieve something or feel a particular way, we're practicing for the sake of practice, practicing because we can. We're not actually doing much at all because we're tuning into what's happening instead of what we want to happen. It's more about being than doing, more about feeling than feeling good and more about a journey than a destination. It's simple but certainly not easy. You can bring Mindfulness into almost any activity because _how_ you do things is more important than _what_ you're doing. This might be difficult to understand partly because Mindfulness can't be fully understood by reading about it - you have to practice and experience it for yourself, on your own journey.
 
 When we slow down, and practice patience and acceptance, we're opening ourselves up. We're creating a space and allowing our environment, sensations, feelings and thoughts to join us. It's like an invitation. We practice slowly and quietly so we can connect with slower and quieter things, things that are often too quiet to be noticed, hidden in plain sight. You can only see the stars at night, and only if you're outside looking up. Subtle things can become incredibly immersive if you give them the time and space and it can be incredibly humbling. Sometimes we might not find anything and other times we might find distress or discomfort and that's all part of the practice. It's an opportunity to practice patience and acceptance, not to relieve that tension but to explore it. [ beginner's mind ]
 
@@ -158,7 +158,7 @@ Practicing Mindfulness can give you a better understanding of yourself. When you
 
 Your mindset has a big impact on how you interpret things happening around you. When you're relaxed, you can do almost anything and still feel satisfied. You can walk around the park or simply sit on the ground and breathe and still enjoy yourself. Inconveniences don't bother you as much. If you go for a walk and you get rained on it doesn't matter and it can actually be quite enjoyable. Contrast that to when you're stressed and even enjoyable situations can be really frustrating. If you drive 30 minutes to your favourite cafe and they're closed that can be really annoying especially if you planned to meet a friend there and don't have an alternative.
 
-events + your mindset = perceived results 
+events + your mindset = perceived results
 
 The simple way to approach this equation is to improve your mindset which should improve your perceived results. I haven't found this to be the case. Unfortunately, we're just not that simple. It requires understanding, instead of fixing, and we're complicated people so that takes time, patience and acceptance.
 
@@ -168,9 +168,9 @@ When you slow down and do less, the events part of that equation approaches zero
 
 These ideas come from Buddhism and I like how Yuval Noah Harari describes it in Sapiens.
 
-> If, when the mind experiences something pleasant or unpleasant, it simply understand things as they are, then there is no suffering. 
+> If, when the mind experiences something pleasant or unpleasant, it simply understand things as they are, then there is no suffering.
 >
-> If you experience sadness without craving that the sadness go away, you continue to feel sadness but you do not suffer from it. There can actually be richness in the sadness. 
+> If you experience sadness without craving that the sadness go away, you continue to feel sadness but you do not suffer from it. There can actually be richness in the sadness.
 >
 > If you experience joy without craving that the joy linger and intensify, you continue to feel joy without losing your peace of mind.
 
@@ -221,13 +221,13 @@ I started Practicing Mindfulness a bit before this period because I remember pra
 
 After a few days, I started to feel a bit better, but it didn't last and I was in the same state again only a week later. It was painful to regress so far in such a short amount of time. It was yet another failure but it felt like the most crushing one yet.
 
-Mindfulness was really frustrating at this point. I was practicing for 10 hours a week and had nothing to show for it. Wasn't it meant to help with stress management? In hindsight, I was still very much in the early days of my learning journey. It's not about achieving something or feeling a particular way, it's about exploring with patience and acceptance, no matter what you find. At some point it occurred to me that I needed to accept how I was feeling instead of fighting it and  embrace it instead of running from it. This was my turning point. Bashing my way through 'problems' was only digging myself into a deeper hole, patience and acceptance were the alternative. It's simple but simple doesn't mean easy.
+Mindfulness was really frustrating at this point. I was practicing for 10 hours a week and had nothing to show for it. Wasn't it meant to help with stress management? In hindsight, I was still very much in the early days of my learning journey. It's not about achieving something or feeling a particular way, it's about exploring with patience and acceptance, no matter what you find. At some point it occurred to me that I needed to accept how I was feeling instead of fighting it and embrace it instead of running from it. This was my turning point. Bashing my way through 'problems' was only digging myself into a deeper hole, patience and acceptance were the alternative. It's simple but simple doesn't mean easy.
 
 Everything seemed ridiculously difficult when I was fried. Unlearning old habits and practicing new skills like patience and acceptance were even harder. I needed to practice when I still had some energy, in other words, I needed to focus on prevention rather than treatment. That meant riding out feeling terrible for a few days, then practicing more when I started to feel better again. It was really counterintuitive. Naturally, I didn't succeed the first time. I regressed again but I felt like I was beginning to understand for the first time.
 
 I noticed that things could spiral out of control really quickly. One problem led to another, which led to another and they would all avalanche down on top of me. But I also noticed some warning signs when I practiced. If my thoughts were racing or I felt agitated or even antsy then that could mean I was feeling stressed, even more so if it happened in consecutive practices. It was really difficult because the warning signs were subtle. I think I was just so conditioned to them that I wasn't even aware of them. If I noticed warning signs then I tried to be even more patient with myself and allocate more time for practice and downtime.
 
-I continued to have bad weeks every second week but each one gave me more insight and understanding which made me feel a bit more hopeful. I just needed more practice. I remember going out for dinner with friends one night and I came home feeling a bit down. It was weird because it was a nice evening so I started going down my habitual path of "Why am I feeling down? What's wrong with me?" and I started to feel a bit upset. All of a sudden, I had an epiphany. I just caught myself right before a downward spiral and knew exactly what I needed to do about it -  Practice patience and acceptance. It was a massive relief.
+I continued to have bad weeks every second week but each one gave me more insight and understanding which made me feel a bit more hopeful. I just needed more practice. I remember going out for dinner with friends one night and I came home feeling a bit down. It was weird because it was a nice evening so I started going down my habitual path of "Why am I feeling down? What's wrong with me?" and I started to feel a bit upset. All of a sudden, I had an epiphany. I just caught myself right before a downward spiral and knew exactly what I needed to do about it - Practice patience and acceptance. It was a massive relief.
 
 Finally, after a few months, I broke the cycle and felt good for two weeks in a row. I still have bad weeks occasionally and sometimes I don't handle them as well as I probably could but I'm okay with that. When they do happen, I practice giving myself the time and care I need to manage it.
 
@@ -245,13 +245,11 @@ At some point it affected my sleep, which affected my judgement, which led to mo
 
 It all sounds so silly to think back on now but at the time I couldn't see things any other way. I now know that's exactly how stress works - it makes you focus on something urgent. Unfortunately, that tunnel vision can also leave you blind to your surroundings and reality. It can make you feel like a failure when you're surrounded by success and make you feel isolated when you're surrounded by loved ones. It makes it hard to connect with anything or anyone. I never thought about killing myself but I think I have a better understanding of how someone might get to that point.
 
-
-
 [ I felt like I was being run off a treadmill going too fast, I was desperately trying to keep up but I was failing an eventually I gave up because it felt like there was no point anymore]
 
 [ maybe this should be problems vs capacity to fix problems ]
 
-![Rate of Problems vs Output](../../content/assets/practicing-mindfulness/Rate of Problems vs Output.drawio.png)
+![Rate of Problems vs Output](/assets/practicing-mindfulness/Rate of Problems vs Output.drawio.png)
 
 ## Perspective
 
