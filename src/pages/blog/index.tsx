@@ -7,7 +7,7 @@ import {
 	blogAnchorClass,
 	blogContainerClass,
 	blogHeadingClass,
-} from "./styles.css";
+} from "../../components/blogStyles.css";
 import { P } from "cadells-vanilla-components";
 
 export interface IndexProps {

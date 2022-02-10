@@ -7,7 +7,7 @@ import renderToString from "next-mdx-remote/render-to-string";
 import { DateFormatter } from "../../components/DateFormatter";
 import { BasicPost, getPostBySlug, getPosts } from "../../lib/api";
 import { MdxRemote } from "next-mdx-remote/types";
-import { blogContainerClass } from "./styles.css";
+import { blogContainerClass } from "../../components/blogStyles.css";
 import { H1, MdxProvider } from "cadells-vanilla-components";
 
 interface PostProps {
