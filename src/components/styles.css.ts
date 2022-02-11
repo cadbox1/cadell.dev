@@ -10,4 +10,7 @@ export const heroH1Class = style([
 	{ fontSize: "42px", marginBottom: "12px" },
 ]);
 
-export const heroTextClass = style([pClass, { fontSize: "20px" }]);
+export const heroTextClass = style([
+	pClass,
+	{ fontSize: "20px", lineHeight: "1.8" },
+]);
