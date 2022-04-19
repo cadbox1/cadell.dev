@@ -2,6 +2,8 @@ import { Container, MdxProvider } from "cadells-vanilla-components";
 import "cadells-vanilla-components/dist/index.css";
 import "@fontsource/source-sans-pro/400.css";
 import "@fontsource/source-sans-pro/600.css";
+import "@fontsource/source-serif-pro/400.css";
+import "@fontsource/source-serif-pro/600.css";
 import Head from "next/head";
 import { Header } from "../components/Header";
 

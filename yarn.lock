@@ -1025,6 +1025,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource/source-sans-pro/-/source-sans-pro-4.5.3.tgz#bdb1eeed5db70bcd1f68cd1e8c859834f0e6bc67"
   integrity sha512-9xWGu3ArKsjf6+WVrNoCUywybTB3rIidpvOI2tByQpzYVOupFUv6qohyrjDrVvPb6XHJQTD0NIzisR7RKhiP7A==
 
+"@fontsource/source-serif-pro@^4.5.4":
+  version "4.5.4"
+  resolved "https://registry.yarnpkg.com/@fontsource/source-serif-pro/-/source-serif-pro-4.5.4.tgz#0630b9a11da1d10c8baa928ed63f4a1632ca7f56"
+  integrity sha512-aTmVYGdicsF80YqTTqoextNp0tDnfXteMqtfGee0AkcVkzn0lhrZAcfxL3A5pYZgtFJVQ+CiHE513Dq7lqK7yg==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.0.4.tgz#b876e3feefb9c8d3aa84014da28b5e52a0640d72"
@@ -1413,9 +1418,9 @@ bytes@3.1.1:
   integrity sha512-dWe4nWO/ruEOY7HkUJ5gFt1DCFV9zPRoJr8pV0/ASQermOZjtq8jMjOprC0Kd10GLN+l7xaUPvxzJFWtxGu8Fg==
 
 cadells-vanilla-components@^0.3.9:
-  version "0.3.11"
-  resolved "https://registry.yarnpkg.com/cadells-vanilla-components/-/cadells-vanilla-components-0.3.11.tgz#4905305e9ee78a514bf8de2225471b2ae1f6d348"
-  integrity sha512-1k8hLRr8ABDB9emlurgNqx6iisJ0aG24Z44LiZUavC1KZ8eVgvAROMabtlqSWcWTRnWL3lzkU8Ga/vmL3XM6Lg==
+  version "0.3.15"
+  resolved "https://registry.yarnpkg.com/cadells-vanilla-components/-/cadells-vanilla-components-0.3.15.tgz#d7b2f98af285655b4bff797a5af6531e51a2752b"
+  integrity sha512-JUzFRzi88JPQz3JMwXij+cpArwrWVBsJfy+PxK3CcDY1i1Ay1N6GHRTTyrknFeGvyfSDzE2ok7uI4ewfuAWiLQ==
   dependencies:
     slugify "^1.6.5"
 
