@@ -1,11 +1,15 @@
 ---
-title: Your Notes are Missing Something
+title: Writing Notes Is Broken
 date: "2022-05-26"
 ---
 
-[ up to here ]
+I've been writing notes for a long time. I've hand-written them, typed them, used multiple apps and strategies but something still doesn't feel right. Something's missing.
 
-I've been writing notes for over a decade but something is missing. I've tried different apps and different techniques but it still feels like there's something missing.
+I write notes because I can't remember everything, and remembering things can be helpful. Switching to digital notes fundamentally changed this. Searching through notes is a game changer but it's also required because recalling digital notes is very different to recalling hand-written notes. I can barely remember anything I type whereas writing notes by hand almost commits them to memory, so I rarely need to search through them.
+
+Discoverability is the most important part of digital notes. If you can't find them then you may as well have not written them because you're not going to remember them. There's two main ways to discover notes - topically and chronologically.
+
+I don't think any app does both well.
 
 [ previous content ]
 
