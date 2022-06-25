@@ -1,15 +1,17 @@
 ---
-title: Writing Notes Is Broken
+title: Taking Notes Is Broken
 date: "2022-05-26"
 ---
 
-I've been writing notes for a long time. I've hand-written them, typed them, used multiple apps and strategies but something still doesn't feel right. Something's missing.
+I've been taking notes for a long time. I've hand-written them, typed them, used multiple apps, and strategies but something still doesn't feel right. Something's missing.
 
-I write notes because I can't remember everything, and remembering things can be helpful. Switching to digital notes fundamentally changed this. Searching through notes is a game changer but it's also required because recalling digital notes is very different to recalling hand-written notes. I can barely remember anything I type whereas writing notes by hand almost commits them to memory, so I rarely need to search through them.
+I take notes because I can't remember everything and remembering things can be helpful. Digital notes sound perfect for this problem but I've found there's more to it. Searching through digital notes is a game changer, but it's also required because recalling digital notes is completely different to hand-written notes. I can't remember anything I type yet hand-writing notes almost commits them to memory, so I rarely need to search through them.
 
-Discoverability is the most important part of digital notes. If you can't find them then you may as well have not written them because you're not going to remember them. There's two main ways to discover notes - topically and chronologically.
+Discoverability is the most important aspect of digital notes for this reason. If you can't find your notes then writing them is useless because you're not going to remember them. It's almost like someone else wrote the notes you're searching through and I think this is how we should think about digital notes.
 
-I don't think any app does both well.
+Every notes app I've used seems to miss this fundamental concept. [ up to here ]
+
+There's two main ways to discover notes - topically and chronologically.
 
 [ previous content ]
 
