@@ -7,11 +7,18 @@ I've been taking notes for a long time. I've hand-written them, typed them, used
 
 I take notes because I can't remember everything and remembering things can be helpful. Digital notes sound perfect for this problem but I've found there's more to it. Searching through digital notes is a game changer, but it's also required because recalling digital notes is completely different to hand-written notes. I can't remember anything I type yet hand-writing notes almost commits them to memory, so I rarely need to search through them.
 
-Discoverability is the most important aspect of digital notes for this reason. If you can't find your notes then writing them is useless because you're not going to remember them. It's almost like someone else wrote the notes you're searching through and I think this is how we should think about digital notes.
+That's why discoverability is the most important part of digital notes. If you can't find your notes then writing them is useless because you're not going to remember them. It's almost like reading through someone else's notes.
 
-Every notes app I've used seems to miss this fundamental concept. [ up to here ]
+Every notes app I've used misses this concept. The most common approach is to organise notes with pages, as you might have seen in Notion, Obsidian, Google Keep and many, many more. I consider this organising information by topic or topically where each page is designed to capture a particular topic. This also applies to outline-based apps like Workflowy and Dynalist where topics and subtopics are managed with nesting.
 
-There's two main ways to discover notes - topically and chronologically.
+The problem with organising by topic is finding the topic. It's easy to find the big project you've been working on everyday but it falls down when you're managing multiple, ongoing projects at the same time. You can find the big project because you remember it and you remember it because it's the only one.
+
+[ up to here ]
+
+[As the number of ongoing projects increases, you'll have to develop strategies to even find the active projects and that will be hard because you won't even remember which have changed.]
+
+. Again, we write notes because we can't remember anything but when you have mu
+organising by topic doesn't that's not possible when you have lots of updates on each project as the number of projects and notes increases It's easy to find A common question I ask myself is "What did I do in the last week?"
 
 [ previous content ]
 
