@@ -7,45 +7,26 @@ I've been taking notes for a long time. I've hand-written them, typed them, used
 
 I take notes because I can't remember everything and remembering things can be helpful. Digital notes sound perfect for this problem but I've found there's more to it. Searching through digital notes is a game changer, but it's also required because recalling digital notes is completely different to hand-written notes. I can't remember anything I type yet hand-writing notes almost commits them to memory, so I rarely need to search through them.
 
-That's why discoverability is the most important part of digital notes. If you can't find your notes then writing them is useless because you're not going to remember them. It's almost like reading through someone else's notes.
+That's why discoverability is the most important part of digital notes. If you can't find your notes then writing them is useless because you're not going to remember them. I actually think of it as reading through someone else's notes.
 
-Every notes app I've used misses this concept. The most common approach is to organise notes with pages, as you might have seen in Notion, Obsidian, Google Keep and many, many more. I consider this organising information by topic or topically where each page is designed to capture a particular topic. This also applies to outline-based apps like Workflowy and Dynalist where topics and subtopics are managed with nesting.
+Every notes app I've used misses this concept. Notes apps commonly organise notes with pages, as you might have seen in Notion, Obsidian, Google Keep and many, many more. The idea is each page captures a particular topic so this is what consider to be organising topically, or organising by topic. This also applies to outline-based apps like Workflowy and Dynalist where topics and subtopics are managed with nesting.
 
-The problem with organising by topic is finding the topic. It's easy to find the big project you've been working on everyday but it falls down when you're managing multiple, ongoing projects at the same time. You can find the big project because you remember it and you remember it because it's the only one.
+The problem with organising topically is finding the topic. It's easy enough when you don't have many ongoing projects but at some point you won't be able to remember them all. The simple solution is to keep a list of active projects but you'll have to manage that yourself and it won't tell you what's _been_ active over the last month, quarter or year.
+
+This problem also appears in a business setting with shared wiki's or knowledge bases. I like documenting processes because I like sharing knowledge with my teammates and creating places where they can share their updates. It usually goes something like create a Notion page, write some stuff down, post it in Slack to share it with my teammates, get their feedback and contributions and we're done. This works reasonably well at first but it isn't kind to new starters. They could look through Slack to find recent documents but Slack is often noisy, which creates friction and that's not what we want for new starters. One solution is to manage your own timeline or changelog page that has a table of with links to newly created pages or significantly updated pages alongside dates and a short description on why the page was created or updated. Something like "Use git merge instead of git rebase to update your branch because it's easier and we squash when we merge our PRs anyway".
+
+The other problem with organising topically is finding a place to write. Which topic does my idea belong to? Where did I put that page? Is this half-baked idea even worth writing down? Before you know it, you've forgotten what you were going to write down.
+
+One solution is to have a general page where you write down any little idea you have to reduce the friction of writing. This is a good idea but that page will quickly get messy so it's probably a good idea to organise your notes by day. You can write any little thought down here and it's easy to find again by looking through your notes for the last couple days. This is what I consider organising chronologically, or organising by time.
+
+Organising chronologically makes it easy to discover recent content and reduces the friction of creating content in the first place. It's no surprise this is how social media is organised. Creating a new Tweet or Instagram post is always one click away and you can see what someone has been up to recently by looking at their profile because it's organised chronologically.
+
+Apps like RoamResearch and LogSeq have embraced organising chronologically and they've been hugely popular because of it. They make it easy to write notes for today and you can browse through recent notes to find recent ideas. You can also reference topics in your notes from today which makes today's note visible under that topic's page as well so they have a blend of organising topically and chronologically.
+
+I don't think they go far enough. The dated pages in Roam and LogSeq work like any other page or topic but I think they're more than that. For example, if you update a page or complete a task, that isn't reflected on today's page which hurts discoverability. If you care about discoverability then you might manually record your change on today's date which is tedious. There seems to be a disconnect and I think that's because the daily pages are more for half-baked ideas rather than enabling discoverability and so misses the benefits of organising chronologically. Imagine posting to a hashtag without it showing up on your profile. Maybe there's a case for it (I really wouldn't know, I don't use a lot of social media) but it shouldn't be the default.
+
+Before social media we had Blogs. Good blogs (not this one) organise content both chronologically and topically. Every blog has a recent posts page and most have categories where you can see the recent posts for that category. This is what I think we should be modelling our notes after. We don't remember our typed notes so we should think about them as someone else's content and so we should be looking to social media to guide us.
+
+[ maybe this is my lede? ]
 
 [ up to here ]
-
-[As the number of ongoing projects increases, you'll have to develop strategies to even find the active projects and that will be hard because you won't even remember which have changed.]
-
-. Again, we write notes because we can't remember anything but when you have mu
-organising by topic doesn't that's not possible when you have lots of updates on each project as the number of projects and notes increases It's easy to find A common question I ask myself is "What did I do in the last week?"
-
-[ previous content ]
-
-Today, I came up with a name for a notes app I've been thinking about for a while now. I'd like to introduce you to [Kapa Notes](https://kapanotes.com).
-
-Why do we need another notes app? I've been thinking about this question a lot and I think a better question is "Why do I write notes"? I write notes because I can't remember everything. I write my thoughts down so I can find them later and hopefully turn them into something useful. I don't think there's an app out there solves this problem well enough. Something is missing.
-
-[I write lots of notes](https://cadell.dev/blog/i-write-notes) and I've been writing them for over a decade. I've tried lots of different strategies but one thing I've found to be really important is keeping a timeline. That means I have a page for almost every day and I record anything notable I did that day on that page. Completed a task? Write it down. Found a cool article? Write it down. Came up with an idea for a project I'm working on? Write it down. There's reasons I like this strategy:
-
-1. It's easy to write because you don't get lost in "where should I write this?". Just write it under today.
-1. It's easy to find recent ideas. Just flick through the last couple days.
-1. It's easy to see what you did in the last week.
-
-The first two points are straightforward enough but the third point might need some more explanation. Every week, on a Friday morning, I spend about an hour reviewing my week. I reflect on what I've done, what I haven't done and come up with some action points. Maybe I didn't practice writing as much as I would have liked. Did I spend that time on another project or did I procrastinate. Maybe I was tired all week and didn't get much done at all. Maybe I didn't get time to refine my idea for a project and can do that now. Whatever the outcome, reflecting on the week is well worth the effort for me.
-
-So, "Why do we need another notes app?". Because no app has a timeline and I think it's really important.
-
-- [Dynalist](https://dynalist.io/)/[Obsidian](https://obsidian.md/) - No, you have to manage it yourself.
-- [Logseq](https://logseq.com/)/[Roam](https://roamresearch.com/) - No, they both have notes for today but you have to capture changes from other pages yourself.
-- [Notion](https://www.notion.so/) - No, there's history on each page but nothing across pages and it's read-only so you can't edit it to make it meaningful.
-
-I currently manage a timeline in Dynalist but it's limited and tedious.
-
-I think our perspective of notes needs to change. I'm writing notes because I can't remember everything, which means I'm effectively reading someone else's notes, my former self's. How do we read other people's ideas on the internet? Twitter, Instagram and Blogs. Both Twitter and Instagram organise your content on a timeline. You post updates that are stored in chronological order (newest to oldest) on your profile. This makes it easy for other people to see what you've been up to. You might even include a link to more information on that topic, like a Blog.
-
-Blogs, or at least good blogs (not this one), organise content in two ways: chronologically and topically. The Recent Posts page is organised chronologically so you can see what the author has been up to recently, similar to Twitter and Instagram profiles. Then they further organise content topically with categories and/or tags so you can dive in deeper. I think this dual way of organising content is perfect for organising notes as well.
-
-This is what I want to explore with Kapa notes. Write an idea for a project and it's captured on a timeline. Update the status of a project and it's captured on a timeline, with all the other status updates. Are you stoked you completed that task? Change the completed event on the timeline to say how stoked you are!
-
-This is just the start. [Let me know](https://cadell.dev) if this sounds like something you're interested in and I'll keep you posted.
