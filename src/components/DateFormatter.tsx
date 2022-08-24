@@ -9,7 +9,7 @@ export function DateFormatter({ dateString }: DateFormatterProps) {
 	return (
 		<P>
 			<time dateTime={dateString}>
-				{format(new Date(dateString), "eo LLLL, yyyy")}
+				{format(new Date(dateString), "do LLLL, yyyy")}
 			</time>
 		</P>
 	);
