@@ -18,8 +18,8 @@ export const Header = () => {
 			<a href="https://github.com/cadbox1" className={navAnchorClass}>
 				GitHub
 			</a>
-			<a href="https://twitter.com/cadellchristo" className={navAnchorClass}>
-				Twitter
+			<a href="https://kapanotes.com/cadbox1" className={navAnchorClass}>
+				Notes
 			</a>
 			<ThemeToggle className={themeToggleHeaderClass} />
 		</nav>
