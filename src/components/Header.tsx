@@ -1,10 +1,10 @@
 import {
 	navAnchorClass,
-	navClass,
 	ThemeToggle,
 	themeToggleHeaderClass,
 } from "cadells-vanilla-components";
 import Link from "next/link";
+import { navClass } from "./headerStyles.css";
 
 export const Header = () => {
 	return (
