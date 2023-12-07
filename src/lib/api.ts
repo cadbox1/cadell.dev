@@ -2,7 +2,7 @@ import fs from "fs";
 import { join } from "path";
 import matter from "gray-matter";
 
-// I think this should be a reusable package.
+// This should be a reusable package.
 
 const postsDirectory = join(process.cwd(), "content", "posts");
 

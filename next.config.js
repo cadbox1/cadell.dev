@@ -7,6 +7,7 @@ const withVanillaExtract = createVanillaExtractPlugin();
 
 const nextConfig = {
 	pageExtensions: ["js", "jsx", "ts", "tsx", "md", "mdx"],
+	swcMinify: true,
 };
 
 module.exports = withVanillaExtract(withMDX(nextConfig));

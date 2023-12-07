@@ -9,18 +9,18 @@ import Link from "next/link";
 export const Header = () => {
 	return (
 		<nav className={navClass}>
-			<Link href="/">
+			<Link href="/" passHref legacyBehavior>
 				<a className={navAnchorClass}>Cadell.dev</a>
 			</Link>
-			<Link href="/blog">
+			<Link href="/blog" passHref legacyBehavior>
 				<a className={navAnchorClass}>Blog</a>
 			</Link>
 			<a href="https://github.com/cadbox1" className={navAnchorClass}>
 				GitHub
 			</a>
-			<a href="https://kapanotes.com/cadbox1" className={navAnchorClass}>
-				Notes
-			</a>
+			<Link href="/resume" passHref legacyBehavior>
+				<a className={navAnchorClass}>Resume</a>
+			</Link>
 			<ThemeToggle className={themeToggleHeaderClass} />
 		</nav>
 	);

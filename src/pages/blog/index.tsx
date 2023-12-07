@@ -28,16 +28,16 @@ export default function Index({ posts }: IndexProps) {
 							new Date(a.dateString).getTime()
 					)
 					.map(({ slug, title, dateString }) => (
-						<>
+						<div key={slug}>
 							<h2 className={blogHeadingClass}>
-								<Link href={`/blog/${slug}`}>
+								<Link href={`/blog/${slug}`} passHref legacyBehavior>
 									<a className={blogAnchorClass}>{title}</a>
 								</Link>
 							</h2>
 							<P>
 								<DateFormatter dateString={dateString} />
 							</P>
-						</>
+						</div>
 					))}
 			</div>
 		</>

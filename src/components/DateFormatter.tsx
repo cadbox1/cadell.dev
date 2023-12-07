@@ -1,4 +1,3 @@
-import { P } from "cadells-vanilla-components";
 import { format } from "date-fns";
 
 export interface DateFormatterProps {
@@ -7,10 +6,8 @@ export interface DateFormatterProps {
 
 export function DateFormatter({ dateString }: DateFormatterProps) {
 	return (
-		<P>
-			<time dateTime={dateString}>
-				{format(new Date(dateString), "do LLLL, yyyy")}
-			</time>
-		</P>
+		<time dateTime={dateString}>
+			{format(new Date(dateString), "do LLLL, yyyy")}
+		</time>
 	);
 }
